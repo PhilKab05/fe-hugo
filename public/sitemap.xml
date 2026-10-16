@@ -104,6 +104,20 @@
     
   
     
+      <url>
+            <loc>http://localhost:1313/aller-plus-loin/</loc>
+            <lastmod>2026-02-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/aller-plus-loin/risque-groupe/</loc>
+            <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+          </url>
+    
   
     
   
@@ -130,8 +144,8 @@
   
     
       <url>
-            <loc>http://localhost:1313/aller-plus-loin/</loc>
-            <lastmod>2026-01-28T00:00:00+00:00</lastmod>
+            <loc>http://localhost:1313/aller-plus-loin/modes-cognitifs/</loc>
+            <lastmod>2026-02-14T00:00:00+00:00</lastmod>
           </url>
     
   

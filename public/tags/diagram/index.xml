@@ -30,6 +30,13 @@
 				<description>Donnons la priorité aux comportements plutôt qu&amp;rsquo;à la nivologie elle même</description>
 			</item>
 			<item>
+				<title>La sécurité : une affaire de groupe</title>
+				<link>http://localhost:1313/aller-plus-loin/risque-groupe/</link>
+				<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/risque-groupe/</guid>
+				<description>Comment évoluent la sécurité et les risques en fonction de l’implication et de la coopération au sein du groupe ?</description>
+			</item>
+			<item>
 				<title>On n’a pas besoin d’être expert en nivologie ou en gestion du risque !</title>
 				<link>http://localhost:1313/pourquoi/biais-expertise/</link>
 				<pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
@@ -42,6 +49,13 @@
 				<pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/pourquoi/sortir-des-habitudes/</guid>
 				<description>Faire autrement, ne pas faire comme d&amp;rsquo;habitude&amp;hellip; Ca demande un petit effort mais c&amp;rsquo;est idéal pour apprendre.</description>
+			</item>
+			<item>
+				<title>Conscience de la situation et modes cognitifs</title>
+				<link>http://localhost:1313/aller-plus-loin/modes-cognitifs/</link>
+				<pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/modes-cognitifs/</guid>
+				<description>Comportements, modes cognitifs&amp;hellip; ça explique plein de choses, et ça fait partie des “fondements théoriques” du Faire ensemble.</description>
 			</item>
 	</channel>
 </rss>

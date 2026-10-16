@@ -14,7 +14,7 @@ Construisons ensemble notre sortie montagne hivernale pour plus de sécurité et
 {{< figure
     src="CNT-20ter.jpg"
     alt="marguareis"
-    caption="On est tous d'accord pour monter par là ?"
+    caption="On est tous d'accord pour aller par là ?"
     >}}
 
 ## On trouve quoi ici ?
@@ -33,7 +33,7 @@ Faire ensemble est une proposition. A chacun de s'en approprier tout ou partie e
 Un dernier point : si la démarche vous intéresse, n'hésitez pas à réagir par mail ou à poster un commentaire (pas besoin de vous inscrire). Tout ça peut évoluer et vous pouvez contribuer à l'évolution. On fera ça ensemble !
 
 {{< button href="#button" target="_self" >}}
-On commence...
+Je télécharge le memento
 {{< /button >}}
 
 
