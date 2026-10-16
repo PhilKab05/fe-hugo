@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://philkab05.github.io/fe-hugo/'
 defaultContentLanguage = "fr"
 locale = "fr-FR"
 title = "Faire Ensemble"
