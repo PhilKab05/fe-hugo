@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+defaultContentLanguage = "fr"
+locale = "fr-FR"
+title = "Faire Ensemble"
+theme = "congo"
+
+[security]
+  allowContent = ['.*']

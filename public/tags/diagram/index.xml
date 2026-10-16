@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Diagram on Faire ensemble</title>
+		<link>http://localhost:1313/tags/diagram/</link>
+		<description>Recent content in Diagram on Faire ensemble</description>
+		<generator>Hugo</generator>
+		<language>fr-FR</language>
+		
+		
+		
+			<copyright>&amp;copy; 2023-2026 Faire ensemble</copyright>
+		
+		
+			<lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/diagram/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Quelques outils</title>
+				<link>http://localhost:1313/aller-plus-loin/quelques-outils/</link>
+				<pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/quelques-outils/</guid>
+				<description>Quelques outils</description>
+			</item>
+			<item>
+				<title>Les dangers sont avant tout liés aux comportements</title>
+				<link>http://localhost:1313/pourquoi/dangers-comportements/</link>
+				<pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pourquoi/dangers-comportements/</guid>
+				<description>Donnons la priorité aux comportements plutôt qu&amp;rsquo;à la nivologie elle même</description>
+			</item>
+			<item>
+				<title>On n’a pas besoin d’être expert en nivologie ou en gestion du risque !</title>
+				<link>http://localhost:1313/pourquoi/biais-expertise/</link>
+				<pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pourquoi/biais-expertise/</guid>
+				<description>Donnons la priorité aux comportements plutôt qu&amp;rsquo;à la nivologie elle même</description>
+			</item>
+			<item>
+				<title>Ca change et c&#39;est convivial</title>
+				<link>http://localhost:1313/pourquoi/sortir-des-habitudes/</link>
+				<pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pourquoi/sortir-des-habitudes/</guid>
+				<description>Faire autrement, ne pas faire comme d&amp;rsquo;habitude&amp;hellip; Ca demande un petit effort mais c&amp;rsquo;est idéal pour apprendre.</description>
+			</item>
+	</channel>
+</rss>

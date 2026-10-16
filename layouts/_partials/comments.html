@@ -1,0 +1,40 @@
+{{ if .Params.comments | default true }}
+<!-- Marge de section d'origine conservée -->
+<div class="mt-10 pt-10 border-t border-neutral-200 dark:border-neutral-800 print:hidden">
+
+  <!-- Conteneur pour limiter la largeur et centrer le bloc -->
+  <div class="max-w-2xl mx-auto">
+    <h3 class="text-lg font-semibold mb-3">Échanges & Remarques</h3>
+
+    <style>
+      #graphcomment { min-height: 180px !important; }
+    </style>
+
+    <div id="graphcomment"></div>
+  </div>
+
+  <script type="text/javascript">
+    window.__semio__params = {
+      graphcommentId: "Faire-ensemble",
+      behaviour: {
+        uid: {{ .RelPermalink | string }}
+      }
+    };
+
+    window.__semio__onload = function() {
+      if (typeof __semio__gc_graphlogin === 'function') {
+        __semio__gc_graphlogin(window.__semio__params);
+      }
+    };
+
+    (function() {
+      var gc = document.createElement('script');
+      gc.type = 'text/javascript';
+      gc.async = true;
+      gc.onload = window.__semio__onload;
+      gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+    })();
+  </script>
+</div>
+{{ end }}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Icons on Faire ensemble</title>
+		<link>http://localhost:1313/tags/icons/</link>
+		<description>Recent content in Icons on Faire ensemble</description>
+		<generator>Hugo</generator>
+		<language>fr-FR</language>
+		
+		
+		
+			<copyright>&amp;copy; 2023-2026 Faire ensemble</copyright>
+		
+		
+			<lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/icons/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Le mémento</title>
+				<link>http://localhost:1313/blog/memento/</link>
+				<pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/memento/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Préparation / co-construction</title>
+				<link>http://localhost:1313/comment-faire/preparation/</link>
+				<pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comment-faire/preparation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Faire ensemble et Carto des vigilances : quelles différences ?</title>
+				<link>http://localhost:1313/blog/faire-ensemble-vs-csv/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/faire-ensemble-vs-csv/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Alignement et briefing</title>
+				<link>http://localhost:1313/comment-faire/alignement-briefing/</link>
+				<pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comment-faire/alignement-briefing/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pendant la course / tous co-pilotes</title>
+				<link>http://localhost:1313/comment-faire/pendant-la-course/</link>
+				<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comment-faire/pendant-la-course/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Débriefing / ancrage</title>
+				<link>http://localhost:1313/comment-faire/debriefing/</link>
+				<pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comment-faire/debriefing/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>C&#39;est une bonne façon d&#39;apprendre</title>
+				<link>http://localhost:1313/pourquoi/bien-pour-apprendre/</link>
+				<pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pourquoi/bien-pour-apprendre/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

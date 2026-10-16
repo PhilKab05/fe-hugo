@@ -1,0 +1,22 @@
+locale = "fr-FR"
+label = "Français"
+direction = "ltr"
+weight = 1
+
+title = "Faire ensemble"
+copyright = "&copy; 2023-2026 Faire ensemble"
+
+[params]
+  dateFormat = "2 January 2006"
+# Sources des articles de la une
+  mainSections = ["blog"]
+  description = "Description du Faire ensemble"
+
+[params.author]
+  name = "Phil Kab"
+  image = "img/author.jpg"
+  headline = "Not your ordinary theme!"
+  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  links = [
+    { facebook = "https://facebook.com/" },
+  ]
