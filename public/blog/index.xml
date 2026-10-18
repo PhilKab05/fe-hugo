@@ -12,21 +12,56 @@
 			<copyright>&amp;copy; 2023-2026 Faire ensemble</copyright>
 		
 		
-			<lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Le mémento</title>
-				<link>http://localhost:1313/blog/memento/</link>
-				<pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/memento/</guid>
-				<description></description>
-			</item>
 			<item>
 				<title>Faire ensemble et Carto des vigilances : quelles différences ?</title>
 				<link>http://localhost:1313/blog/faire-ensemble-vs-csv/</link>
 				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/blog/faire-ensemble-vs-csv/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gestion du risque ou culture de la prudence ?</title>
+				<link>http://localhost:1313/blog/risque-et-prudence/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/risque-et-prudence/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>La montagne est-elle dangereuse ?</title>
+				<link>http://localhost:1313/blog/montagne-dangereuse/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/montagne-dangereuse/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Les outils numériques</title>
+				<link>http://localhost:1313/blog/outils-numeriques/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/outils-numeriques/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>On est pas tous pareils</title>
+				<link>http://localhost:1313/blog/pas-tous-pareils/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/pas-tous-pareils/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Préparer ensemble depuis son salon</title>
+				<link>http://localhost:1313/blog/preparer-chez-soi/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/preparer-chez-soi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>titre</title>
+				<link>http://localhost:1313/blog/cristal/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/cristal/</guid>
 				<description></description>
 			</item>
 	</channel>

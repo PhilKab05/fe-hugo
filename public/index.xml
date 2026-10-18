@@ -16,10 +16,17 @@
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Cime de la Charvie, traversée Prafauchier - Lasseron</title>
+				<link>http://localhost:1313/decouvrir/2025-charvie/</link>
+				<pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/2025-charvie/</guid>
+				<description>Une boucle un peu longue : il faut tenir le rythme</description>
+			</item>
+			<item>
 				<title>Le mémento</title>
-				<link>http://localhost:1313/blog/memento/</link>
+				<link>http://localhost:1313/memento/</link>
 				<pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/memento/</guid>
+				<guid>http://localhost:1313/memento/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -58,11 +65,74 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Gestion du risque ou culture de la prudence ?</title>
+				<link>http://localhost:1313/blog/risque-et-prudence/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/risque-et-prudence/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>La montagne est-elle dangereuse ?</title>
+				<link>http://localhost:1313/blog/montagne-dangereuse/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/montagne-dangereuse/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Les outils numériques</title>
+				<link>http://localhost:1313/blog/outils-numeriques/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/outils-numeriques/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>On est pas tous pareils</title>
+				<link>http://localhost:1313/blog/pas-tous-pareils/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/pas-tous-pareils/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Préparer ensemble depuis son salon</title>
+				<link>http://localhost:1313/blog/preparer-chez-soi/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/preparer-chez-soi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>titre</title>
+				<link>http://localhost:1313/blog/cristal/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/cristal/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Alignement et briefing</title>
 				<link>http://localhost:1313/comment-faire/alignement-briefing/</link>
 				<pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/comment-faire/alignement-briefing/</guid>
 				<description></description>
+			</item>
+			<item>
+				<title>Tricotage autour du Piolit</title>
+				<link>http://localhost:1313/decouvrir/2021-piolit/</link>
+				<pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/2021-piolit/</guid>
+				<description>Première sortie CAF Embrun avec la Carto des vigilances :grinning_face_with_big_eyes:</description>
+			</item>
+			<item>
+				<title>Crête de la Plate d&#39;Arvieux et Mourre Froid du Queyras</title>
+				<link>http://localhost:1313/decouvrir/2026-validation-initie-caf/</link>
+				<pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/2026-validation-initie-caf/</guid>
+				<description>Faire ensemble, le cadre idéal pour un week-end de formation</description>
+			</item>
+			<item>
+				<title>Tour du pic du Cros</title>
+				<link>http://localhost:1313/decouvrir/2025-tour-pic-du-cros/</link>
+				<pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/2025-tour-pic-du-cros/</guid>
+				<description>C&amp;rsquo;est instructif de comparer le prévu et le vécu</description>
 			</item>
 			<item>
 				<title>Pendant la course / tous co-pilotes</title>
@@ -72,10 +142,45 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Tête de la Moulinière et arêtes de la Bruyère</title>
+				<link>http://localhost:1313/decouvrir/2026-alpi/</link>
+				<pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/2026-alpi/</guid>
+				<description>Faire ensemble, ça marche aussi pour les courses d&amp;rsquo;alpinisme :thumbs_up:</description>
+			</item>
+			<item>
 				<title>Débriefing / ancrage</title>
 				<link>http://localhost:1313/comment-faire/debriefing/</link>
 				<pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/comment-faire/debriefing/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tour de la montagne Pellat</title>
+				<link>http://localhost:1313/decouvrir/2026-tour-montagne-pellat/</link>
+				<pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/2026-tour-montagne-pellat/</guid>
+				<description>Tout le monde peut passer devant et s&amp;rsquo;essayer à la trace</description>
+			</item>
+			<item>
+				<title>Tricotage autour du Piolit</title>
+				<link>http://localhost:1313/decouvrir/2026-mourre-froid-queyras/</link>
+				<pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/2026-mourre-froid-queyras/</guid>
+				<description>Première sortie CAF Embrun avec la Carto des vigilances :grinning_face_with_big_eyes:</description>
+			</item>
+			<item>
+				<title>À propos</title>
+				<link>http://localhost:1313/a-propos/</link>
+				<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/a-propos/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mentions légales</title>
+				<link>http://localhost:1313/mentions-legales/</link>
+				<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/mentions-legales/</guid>
 				<description></description>
 			</item>
 			<item>

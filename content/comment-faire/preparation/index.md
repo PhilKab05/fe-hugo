@@ -44,7 +44,7 @@ On co-construit l’itinéraire, on imagine les modes de vigilance et les passag
 
 On utilise les outils techniques que les participants connaissent (outils carto, BERA, Cristal, DCMR, EvalBERA, Skitourenguru…) mais sans imposer d’outillage minimum. Les “débutants en nivologie” peuvent participer. On peut aussi apprendre de nouveaux outils. 
 
-Quels outils utiliser ? Voir [Quelques outils]({{< ref "blog/memento" >}}) !!!! Lien à mettre à jour !!!!!
+Quels outils utiliser ? Voir [Quelques outils]({{< ref "aller-plus-loin/quelques-outils" >}}) !!!! Lien à mettre à jour !!!!!
 
 ## Préparer ce qui peut l’être, mais aussi se préparer…
 Un peu comme le fait le sportif la veille d’une compétition, il faut visualiser, c’est à dire {{< primary >}}simuler mentalement ce qu’on va vivre{{< /primary >}} (conditions, risques, prises de décision, perturbations…) La visualisation, ce n’est pas la prédiction de ce qui va se passer. Ce qu’on prévoit ou ce qu’on imagine est souvent très idéal (itinéraire, passages critiques…). Mais c’est très difficile d’imaginer les perturbations : erreurs, fatigues, conditions pires que prévues, manque de visibilité, retard… 

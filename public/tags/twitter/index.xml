@@ -9,17 +9,17 @@
 		
 		
 		
-			<copyright>&amp;copy; 2024-2026 Faire ensemble</copyright>
+			<copyright>&amp;copy; 2023-2026 Faire ensemble</copyright>
 		
 		
 			<lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Rich Content</title>
-				<link>http://localhost:1313/pourquoi/rich-content/</link>
+				<title>Une belle sortie</title>
+				<link>http://localhost:1313/decouvrir/sortie/</link>
 				<pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/pourquoi/rich-content/</guid>
+				<guid>http://localhost:1313/decouvrir/sortie/</guid>
 				<description>This is an &lt;em&gt;example&lt;/em&gt; of a &lt;strong&gt;rich&lt;/strong&gt; content summary.</description>
 			</item>
 	</channel>

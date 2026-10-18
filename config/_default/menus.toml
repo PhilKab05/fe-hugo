@@ -40,11 +40,11 @@
    weight = 5
 
 [[footer]]
-   name = "Tags"
-   pageRef = "tags"
+   name = "A propos"
+   pageRef = "a-propos"
    weight = 10
 
 [[footer]]
    name = "Mentions légales"
-   pageRef = "tags"
+   pageRef = "mentions-legales"
    weight = 20

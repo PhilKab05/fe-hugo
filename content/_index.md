@@ -13,7 +13,7 @@ Construisons ensemble notre sortie montagne hivernale pour plus de sécurité et
 
 {{< figure
     src="CNT-20ter.jpg"
-    alt="marguareis"
+    alt="Marguareis"
     caption="On est tous d'accord pour aller par là ?"
     >}}
 
@@ -22,19 +22,21 @@ Construisons ensemble notre sortie montagne hivernale pour plus de sécurité et
 
 Faire ensemble donne la priorité au collectif et aux comportements. [Pourquoi ?]({{< ref "pourquoi" >}}) présente les atouts de cette approche.
 
-[Comment faire ?]({{< ref "comment-faire" >}}) On entre dans le vif du sujet. On trouve ici les 4 étapes, les points à aborder, l'organisation, et des propositions pour mieux observer, communiquer, décider... Sous forme super courte, on retrouve ça dans le [Mémento du Faire ensemble.]({{< ref "blog/memento" >}})
+[Comment faire ?]({{< ref "comment-faire" >}}) On entre dans le vif du sujet. On trouve ici les 4 étapes, les points à aborder, l'organisation, et des propositions pour mieux observer, communiquer, décider... Sous forme résumée, on retrouve ça dans le [Mémento du Faire ensemble.]({{< ref "memento" >}})
+
+{{< button href="memento" target="_self" >}}
+Je télécharge le memento
+{{< /button >}}
 
 Faire ensemble n'invente pas grand chose :winking_face: L'approche propose juste de respecter 4 étapes et de réfléchir ensemble à quelques points. C'est très flexible. Les outils à utiliser et les fondements "théoriques" liés aux comportements sont décrits si vous souhaitez [Aller plus loin.]({{< ref "aller-plus-loin" >}}) 
 
 {{< alert >}}
-Faire ensemble est une proposition. A chacun de s'en approprier tout ou partie et d'en retenir quelque chose (ou pas :grinning_face_with_sweat:). Ca conviendra à certains et pas à d'autres (voir [Faire ensemble, ça convient à tout le monde ?]({{< ref "comment-faire" >}}) Dans tous les cas, la pratique d'activités montagne hivernale se fait sous la seule responsabilité des pratiquants.
+Faire ensemble est une proposition. A chacun d'en retenir quelque chose (ou pas :grinning_face_with_sweat:) et de s'en approprier tout ou partie. Ca conviendra à certains et pas à d'autres (voir [Faire ensemble, ça convient à tout le monde ?]({{< ref "comment-faire" >}}) Dans tous les cas, la pratique d'activités montagne hivernale se fait sous la seule responsabilité des pratiquants.
 {{< /alert >}}
 
 Un dernier point : si la démarche vous intéresse, n'hésitez pas à réagir par mail ou à poster un commentaire (pas besoin de vous inscrire). Tout ça peut évoluer et vous pouvez contribuer à l'évolution. On fera ça ensemble !
 
-{{< button href="#button" target="_self" >}}
-Je télécharge le memento
-{{< /button >}}
+
 
 
 

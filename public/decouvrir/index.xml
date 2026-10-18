@@ -12,6 +12,57 @@
 			<copyright>&amp;copy; 2023-2026 Faire ensemble</copyright>
 		
 		
+			<lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
+		
 			<atom:link href="http://localhost:1313/decouvrir/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cime de la Charvie, traversée Prafauchier - Lasseron</title>
+				<link>http://localhost:1313/decouvrir/2025-charvie/</link>
+				<pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/2025-charvie/</guid>
+				<description>Une boucle un peu longue : il faut tenir le rythme</description>
+			</item>
+			<item>
+				<title>Tricotage autour du Piolit</title>
+				<link>http://localhost:1313/decouvrir/2021-piolit/</link>
+				<pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/2021-piolit/</guid>
+				<description>Première sortie CAF Embrun avec la Carto des vigilances :grinning_face_with_big_eyes:</description>
+			</item>
+			<item>
+				<title>Crête de la Plate d&#39;Arvieux et Mourre Froid du Queyras</title>
+				<link>http://localhost:1313/decouvrir/2026-validation-initie-caf/</link>
+				<pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/2026-validation-initie-caf/</guid>
+				<description>Faire ensemble, le cadre idéal pour un week-end de formation</description>
+			</item>
+			<item>
+				<title>Tour du pic du Cros</title>
+				<link>http://localhost:1313/decouvrir/2025-tour-pic-du-cros/</link>
+				<pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/2025-tour-pic-du-cros/</guid>
+				<description>C&amp;rsquo;est instructif de comparer le prévu et le vécu</description>
+			</item>
+			<item>
+				<title>Tête de la Moulinière et arêtes de la Bruyère</title>
+				<link>http://localhost:1313/decouvrir/2026-alpi/</link>
+				<pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/2026-alpi/</guid>
+				<description>Faire ensemble, ça marche aussi pour les courses d&amp;rsquo;alpinisme :thumbs_up:</description>
+			</item>
+			<item>
+				<title>Tour de la montagne Pellat</title>
+				<link>http://localhost:1313/decouvrir/2026-tour-montagne-pellat/</link>
+				<pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/2026-tour-montagne-pellat/</guid>
+				<description>Tout le monde peut passer devant et s&amp;rsquo;essayer à la trace</description>
+			</item>
+			<item>
+				<title>Tricotage autour du Piolit</title>
+				<link>http://localhost:1313/decouvrir/2026-mourre-froid-queyras/</link>
+				<pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/2026-mourre-froid-queyras/</guid>
+				<description>Première sortie CAF Embrun avec la Carto des vigilances :grinning_face_with_big_eyes:</description>
+			</item>
 	</channel>
 </rss>

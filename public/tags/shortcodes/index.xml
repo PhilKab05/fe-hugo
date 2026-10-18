@@ -17,9 +17,9 @@
 			<atom:link href="http://localhost:1313/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Le mémento</title>
-				<link>http://localhost:1313/blog/memento/</link>
+				<link>http://localhost:1313/memento/</link>
 				<pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/memento/</guid>
+				<guid>http://localhost:1313/memento/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -48,6 +48,48 @@
 				<link>http://localhost:1313/blog/faire-ensemble-vs-csv/</link>
 				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/blog/faire-ensemble-vs-csv/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gestion du risque ou culture de la prudence ?</title>
+				<link>http://localhost:1313/blog/risque-et-prudence/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/risque-et-prudence/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>La montagne est-elle dangereuse ?</title>
+				<link>http://localhost:1313/blog/montagne-dangereuse/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/montagne-dangereuse/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Les outils numériques</title>
+				<link>http://localhost:1313/blog/outils-numeriques/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/outils-numeriques/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>On est pas tous pareils</title>
+				<link>http://localhost:1313/blog/pas-tous-pareils/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/pas-tous-pareils/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Préparer ensemble depuis son salon</title>
+				<link>http://localhost:1313/blog/preparer-chez-soi/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/preparer-chez-soi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>titre</title>
+				<link>http://localhost:1313/blog/cristal/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/cristal/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -105,6 +147,13 @@
 				<pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/aller-plus-loin/modes-cognitifs/</guid>
 				<description>Comportements, modes cognitifs&amp;hellip; ça explique plein de choses, et ça fait partie des “fondements théoriques” du Faire ensemble.</description>
+			</item>
+			<item>
+				<title>Une belle sortie</title>
+				<link>http://localhost:1313/decouvrir/sortie/</link>
+				<pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/decouvrir/sortie/</guid>
+				<description>This is an &lt;em&gt;example&lt;/em&gt; of a &lt;strong&gt;rich&lt;/strong&gt; content summary.</description>
 			</item>
 	</channel>
 </rss>

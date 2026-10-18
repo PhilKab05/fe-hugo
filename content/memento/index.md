@@ -7,6 +7,7 @@ description: "xxxx"
 tags: ["icons", "sample", "shortcodes"]
 showDateUpdated: true
 weight: 10
+showPagination: false
 ---
 {{< figure
     src="memento.jpg"
