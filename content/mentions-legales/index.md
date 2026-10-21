@@ -5,9 +5,8 @@ draft: false
 description: "Mentions légales et informations réglementaires du site www.faire-ensemble.org."
 ---
 ## Édition du site
-Le site {{<primary>}}faire-ensemble.org{{</primary>}} est édité à titre personnel.
+Le site {{<primary>}}faire-ensemble.org{{</primary>}} est édité à titre personnel par Philippe Cabanal.
 
-Responsable de la publication : Philippe C.<br>
 Contact : via l'espace de commentaires du site ou l'adresse mail philippe@faire-ensemble.org
 
 ## Hébergement

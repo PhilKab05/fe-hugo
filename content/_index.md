@@ -8,13 +8,15 @@ showRecent: true
 Construisons ensemble notre sortie montagne hivernale pour plus de sécurité et pour mieux apprendre.
 {{< /lead >}}
 {{< alert "circle-info">}}
-{{< primary >}}Faire ensemble{{< /primary >}} est {{< primary >}}une approche concrète et simple, accessible à tous et centrée sur le collectif et les rituels{{< /primary >}}. <br>Les comportements, les attitudes et les bonnes pratiques priment sur les outils de la nivologie et la technique. La vigilance partagée est construite sur l’écoute, l’observation et le dialogue. Chaque sortie devient une expérience qui permet d’apprendre et de progresser.
+{{< primary >}}Faire ensemble{{< /primary >}} est {{< primary >}}une démarche concrète et simple, accessible à tous et centrée sur le collectif et les rituels.{{< /primary >}} <br>Les comportements, les attitudes et les bonnes pratiques priment sur les outils de la nivologie et la technique. La vigilance partagée est construite sur l’écoute, l’observation et le dialogue. Chaque sortie devient une expérience qui permet d’apprendre et progresser.
+
+Faire ensemble n'est pas une méthode de gestion des risques mais plutôt une approche {{<primary>}}pour cultiver la prudence.{{</primary>}}
 {{< /alert >}}
 
 {{< figure
     src="CNT-20ter.jpg"
     alt="Marguareis"
-    caption="On est tous d'accord pour aller par là ?"
+    caption="On est tous d'accord pour aller par là ? - Montée à la Pointe Marguareis"
     >}}
 
 ## On trouve quoi ici ?
@@ -28,7 +30,7 @@ Faire ensemble donne la priorité au collectif et aux comportements. [Pourquoi ?
 Je télécharge le memento
 {{< /button >}}
 
-Faire ensemble n'invente pas grand chose :winking_face: L'approche propose juste de respecter 4 étapes et de réfléchir ensemble à quelques points. C'est très flexible. Les outils à utiliser et les fondements "théoriques" liés aux comportements sont décrits si vous souhaitez [Aller plus loin.]({{< ref "aller-plus-loin" >}}) 
+Faire ensemble n'invente pas grand chose :winking_face: La démarche propose juste de respecter 4 étapes et de réfléchir ensemble à quelques points. C'est très flexible. Les outils à utiliser et les fondements "théoriques" liés aux comportements sont décrits si vous souhaitez [Aller plus loin.]({{< ref "aller-plus-loin" >}}) 
 
 {{< alert >}}
 Faire ensemble est une proposition. A chacun d'en retenir quelque chose (ou pas :grinning_face_with_sweat:) et de s'en approprier tout ou partie. Ca conviendra à certains et pas à d'autres (voir [Faire ensemble, ça convient à tout le monde ?]({{< ref "comment-faire" >}}) Dans tous les cas, la pratique d'activités montagne hivernale se fait sous la seule responsabilité des pratiquants.

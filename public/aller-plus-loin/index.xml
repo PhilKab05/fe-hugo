@@ -12,7 +12,7 @@
 			<copyright>&amp;copy; 2023-2026 Faire ensemble</copyright>
 		
 		
-			<lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 18 Apr 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/aller-plus-loin/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -20,7 +20,14 @@
 				<link>http://localhost:1313/aller-plus-loin/quelques-outils/</link>
 				<pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/aller-plus-loin/quelques-outils/</guid>
-				<description>Quelques outils</description>
+				<description>Quelques outils, pour les 4 étapes du Faire ensemble, de la préparation au débriefing</description>
+			</item>
+			<item>
+				<title>Foire aux questions</title>
+				<link>http://localhost:1313/aller-plus-loin/faq/</link>
+				<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/faq/</guid>
+				<description>On essaye de répondre à quelques questions. Vous en avez d&amp;rsquo;autres ?</description>
 			</item>
 			<item>
 				<title>La sécurité : une affaire de groupe</title>
@@ -30,11 +37,11 @@
 				<description>Comment évoluent la sécurité et les risques en fonction de l’implication et de la coopération au sein du groupe ?</description>
 			</item>
 			<item>
-				<title>Conscience de la situation et modes cognitifs</title>
-				<link>http://localhost:1313/aller-plus-loin/modes-cognitifs/</link>
+				<title>L&#39;outil indispensable</title>
+				<link>http://localhost:1313/aller-plus-loin/comprendre-son-cerveau/</link>
 				<pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/modes-cognitifs/</guid>
-				<description>Comportements, modes cognitifs&amp;hellip; ça explique plein de choses, et ça fait partie des “fondements théoriques” du Faire ensemble.</description>
+				<guid>http://localhost:1313/aller-plus-loin/comprendre-son-cerveau/</guid>
+				<description>Quel est l&amp;rsquo;outil inspensable ? On essaye d&amp;rsquo;y voir un peu plus clair</description>
 			</item>
 	</channel>
 </rss>

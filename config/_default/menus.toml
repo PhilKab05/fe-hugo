@@ -48,3 +48,8 @@
    name = "Mentions légales"
    pageRef = "mentions-legales"
    weight = 20
+
+[[footer]]
+   name = "Contact"
+   pageRef = "contact"
+   weight = 30

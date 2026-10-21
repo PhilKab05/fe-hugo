@@ -23,13 +23,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Préparation / co-construction</title>
-				<link>http://localhost:1313/comment-faire/preparation/</link>
-				<pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/comment-faire/preparation/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Quelques outils</title>
 				<link>http://localhost:1313/aller-plus-loin/quelques-outils/</link>
 				<pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
@@ -51,81 +44,11 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Gestion du risque ou culture de la prudence ?</title>
-				<link>http://localhost:1313/blog/risque-et-prudence/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/risque-et-prudence/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>La montagne est-elle dangereuse ?</title>
-				<link>http://localhost:1313/blog/montagne-dangereuse/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/montagne-dangereuse/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Les outils numériques</title>
-				<link>http://localhost:1313/blog/outils-numeriques/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/outils-numeriques/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>On est pas tous pareils</title>
-				<link>http://localhost:1313/blog/pas-tous-pareils/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/pas-tous-pareils/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Préparer ensemble depuis son salon</title>
-				<link>http://localhost:1313/blog/preparer-chez-soi/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/preparer-chez-soi/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>titre</title>
-				<link>http://localhost:1313/blog/cristal/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/cristal/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Alignement et briefing</title>
-				<link>http://localhost:1313/comment-faire/alignement-briefing/</link>
-				<pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/comment-faire/alignement-briefing/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Pendant la course / tous co-pilotes</title>
-				<link>http://localhost:1313/comment-faire/pendant-la-course/</link>
-				<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/comment-faire/pendant-la-course/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Débriefing / ancrage</title>
-				<link>http://localhost:1313/comment-faire/debriefing/</link>
-				<pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/comment-faire/debriefing/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>C&#39;est une bonne façon d&#39;apprendre</title>
 				<link>http://localhost:1313/pourquoi/bien-pour-apprendre/</link>
 				<pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/pourquoi/bien-pour-apprendre/</guid>
 				<description></description>
-			</item>
-			<item>
-				<title>La sécurité : une affaire de groupe</title>
-				<link>http://localhost:1313/aller-plus-loin/risque-groupe/</link>
-				<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/risque-groupe/</guid>
-				<description>Comment évoluent la sécurité et les risques en fonction de l’implication et de la coopération au sein du groupe ?</description>
 			</item>
 			<item>
 				<title>On n’a pas besoin d’être expert en nivologie ou en gestion du risque !</title>
@@ -147,13 +70,6 @@
 				<pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/aller-plus-loin/modes-cognitifs/</guid>
 				<description>Comportements, modes cognitifs&amp;hellip; ça explique plein de choses, et ça fait partie des “fondements théoriques” du Faire ensemble.</description>
-			</item>
-			<item>
-				<title>Une belle sortie</title>
-				<link>http://localhost:1313/decouvrir/sortie/</link>
-				<pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/decouvrir/sortie/</guid>
-				<description>This is an &lt;em&gt;example&lt;/em&gt; of a &lt;strong&gt;rich&lt;/strong&gt; content summary.</description>
 			</item>
 	</channel>
 </rss>

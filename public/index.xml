@@ -12,7 +12,7 @@
 			<copyright>&amp;copy; 2023-2026 Faire ensemble</copyright>
 		
 		
-			<lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -34,14 +34,14 @@
 				<link>http://localhost:1313/comment-faire/preparation/</link>
 				<pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/comment-faire/preparation/</guid>
-				<description></description>
+				<description>Groupe, itinéraire, conditions, sur quoi porter son attention, préparer et SE préparer&amp;hellip;</description>
 			</item>
 			<item>
 				<title>Quelques outils</title>
 				<link>http://localhost:1313/aller-plus-loin/quelques-outils/</link>
 				<pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/aller-plus-loin/quelques-outils/</guid>
-				<description>Quelques outils</description>
+				<description>Quelques outils, pour les 4 étapes du Faire ensemble, de la préparation au débriefing</description>
 			</item>
 			<item>
 				<title>Les dangers sont avant tout liés aux comportements</title>
@@ -55,7 +55,7 @@
 				<link>http://localhost:1313/pourquoi/groupe-securite/</link>
 				<pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/pourquoi/groupe-securite/</guid>
-				<description>xxxxxx</description>
+				<description>Un groupe qui coopère évolue avec beaucoup plus de sécurité et moins de stress</description>
 			</item>
 			<item>
 				<title>Faire ensemble et Carto des vigilances : quelles différences ?</title>
@@ -65,53 +65,11 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Gestion du risque ou culture de la prudence ?</title>
-				<link>http://localhost:1313/blog/risque-et-prudence/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/risque-et-prudence/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>La montagne est-elle dangereuse ?</title>
-				<link>http://localhost:1313/blog/montagne-dangereuse/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/montagne-dangereuse/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Les outils numériques</title>
-				<link>http://localhost:1313/blog/outils-numeriques/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/outils-numeriques/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>On est pas tous pareils</title>
-				<link>http://localhost:1313/blog/pas-tous-pareils/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/pas-tous-pareils/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Préparer ensemble depuis son salon</title>
-				<link>http://localhost:1313/blog/preparer-chez-soi/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/preparer-chez-soi/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>titre</title>
-				<link>http://localhost:1313/blog/cristal/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/cristal/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Alignement et briefing</title>
 				<link>http://localhost:1313/comment-faire/alignement-briefing/</link>
 				<pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/comment-faire/alignement-briefing/</guid>
-				<description></description>
+				<description>Communication sur ON, aligement sur l&amp;rsquo;objectif, rappel des règles, checks et c&amp;rsquo;est parti !</description>
 			</item>
 			<item>
 				<title>Tricotage autour du Piolit</title>
@@ -139,7 +97,7 @@
 				<link>http://localhost:1313/comment-faire/pendant-la-course/</link>
 				<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/comment-faire/pendant-la-course/</guid>
-				<description></description>
+				<description>Communiquer, observer, repérer les perturbations&amp;hellip; pour ne pas oublier les décisions à prendre !</description>
 			</item>
 			<item>
 				<title>Tête de la Moulinière et arêtes de la Bruyère</title>
@@ -153,7 +111,7 @@
 				<link>http://localhost:1313/comment-faire/debriefing/</link>
 				<pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/comment-faire/debriefing/</guid>
-				<description></description>
+				<description>Le debriefing doit être rituel. C&amp;rsquo;est l&amp;rsquo;étape la plus importante pour progresser</description>
 			</item>
 			<item>
 				<title>Tour de la montagne Pellat</title>
@@ -163,17 +121,17 @@
 				<description>Tout le monde peut passer devant et s&amp;rsquo;essayer à la trace</description>
 			</item>
 			<item>
-				<title>Tricotage autour du Piolit</title>
-				<link>http://localhost:1313/decouvrir/2026-mourre-froid-queyras/</link>
-				<pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/decouvrir/2026-mourre-froid-queyras/</guid>
-				<description>Première sortie CAF Embrun avec la Carto des vigilances :grinning_face_with_big_eyes:</description>
-			</item>
-			<item>
 				<title>À propos</title>
 				<link>http://localhost:1313/a-propos/</link>
 				<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/a-propos/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Contact</title>
+				<link>http://localhost:1313/contact/</link>
+				<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/contact/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -182,6 +140,13 @@
 				<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/mentions-legales/</guid>
 				<description></description>
+			</item>
+			<item>
+				<title>Foire aux questions</title>
+				<link>http://localhost:1313/aller-plus-loin/faq/</link>
+				<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/faq/</guid>
+				<description>On essaye de répondre à quelques questions. Vous en avez d&amp;rsquo;autres ?</description>
 			</item>
 			<item>
 				<title>C&#39;est une bonne façon d&#39;apprendre</title>
@@ -212,11 +177,11 @@
 				<description>Faire autrement, ne pas faire comme d&amp;rsquo;habitude&amp;hellip; Ca demande un petit effort mais c&amp;rsquo;est idéal pour apprendre.</description>
 			</item>
 			<item>
-				<title>Conscience de la situation et modes cognitifs</title>
-				<link>http://localhost:1313/aller-plus-loin/modes-cognitifs/</link>
+				<title>L&#39;outil indispensable</title>
+				<link>http://localhost:1313/aller-plus-loin/comprendre-son-cerveau/</link>
 				<pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/modes-cognitifs/</guid>
-				<description>Comportements, modes cognitifs&amp;hellip; ça explique plein de choses, et ça fait partie des “fondements théoriques” du Faire ensemble.</description>
+				<guid>http://localhost:1313/aller-plus-loin/comprendre-son-cerveau/</guid>
+				<description>Quel est l&amp;rsquo;outil inspensable ? On essaye d&amp;rsquo;y voir un peu plus clair</description>
 			</item>
 			<item>
 				<title>advanced</title>

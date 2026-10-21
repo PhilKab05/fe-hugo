@@ -3,9 +3,9 @@ title: "Quelques outils"
 date: 2023-02-03
 lastmod: 2026-01-28
 showDateUpdated: true
-description: "xxxxxxxxxx"
-summary: "Quelques outils"
-tags: ["mermaid", "sample", "diagram", "shortcodes"]
+description: "Quelques outils, pour les 4 étapes du Faire ensemble, de la préparation au débriefing"
+summary: "Quelques outils, pour les 4 étapes du Faire ensemble, de la préparation au débriefing"
+#tags: ["mermaid", "sample", "diagram", "shortcodes"]
 weight: 10
 ---
 Même si les outils ne sont pas la “priorité” du Faire ensemble, nous allons en utiliser. Je peux vous en proposer et on peut bien sûr discuter de ceux que vous utilisez.

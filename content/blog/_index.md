@@ -1,9 +1,8 @@
 ---
 title: "Blog"
-description: "Pour approfondir l'approche Faire ensemble et les fondements théoriques, tout est là !"
-
+description: "Articles de blog : approfondissements, idées"
 ---
-
+Approfondissements et idées
 
 
 

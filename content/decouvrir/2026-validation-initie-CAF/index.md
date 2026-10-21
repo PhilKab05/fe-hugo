@@ -8,7 +8,8 @@ coverCaption: "Montée vers la crête de la Plate"
 # tags: ["shortcodes", "privacy", "sample", "gist", "twitter", "youtube", "vimeo"]
 weight: 25
 ---
-Avec Sophie, on propose un week-end de formation / validation "Initié ski de rando". Les cursus de formation ont évolué côté FFCAM. On se lance et on invente un format adapté aux pratiquants du club.
+Avec Sophie, on propose un week-end de formation / validation "Initié ski de rando". Les cursus de formation ont évolué côté FFCAM[^1]. On se lance et on invente un format adapté aux pratiquants du club.
+[^1]: Pour info, voir la fiche référentiel [Fiche de compétences initié en ski de randonnée](https://drive.google.com/file/d/1RlifmMat-_kIYskZIetcFYM-dmB4UKNw/view) dans la base de connaissances FFCAM.
 
 Le Faire ensemble a une place de choix pour cadrer les formations et apporter les ingrédients de l'appentissage et de l'ancrage des expériences et des nouveaux savoirs.
 

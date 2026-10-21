@@ -57,12 +57,5 @@
 				<guid>http://localhost:1313/decouvrir/2026-tour-montagne-pellat/</guid>
 				<description>Tout le monde peut passer devant et s&amp;rsquo;essayer à la trace</description>
 			</item>
-			<item>
-				<title>Tricotage autour du Piolit</title>
-				<link>http://localhost:1313/decouvrir/2026-mourre-froid-queyras/</link>
-				<pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/decouvrir/2026-mourre-froid-queyras/</guid>
-				<description>Première sortie CAF Embrun avec la Carto des vigilances :grinning_face_with_big_eyes:</description>
-			</item>
 	</channel>
 </rss>

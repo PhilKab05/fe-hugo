@@ -6,10 +6,10 @@ description: "Déroulement d'une sortie en mode Faire ensemble au CAF Embrun"
 Comment se déroule une sortie club en mode {{< primary >}}Faire ensemble{{< /primary >}} ? 
 {{< /lead >}}
 
-Rassurez-vous, la démarche a été largement expérimentée pour des sorties club, mais aussi pour des sorties entre copains. Il faut juste un peu d'énergie pour animer la démarche.
+Rassurez-vous, la démarche a été largement expérimentée dans des sorties club, mais aussi pour des sorties entre copains. Il faut juste un peu d'énergie pour animer la démarche.
 
 {{< alert "circle-info">}}
-Au CAF Embrun, on annonce la couleur lors de la publication de la sortie. On va faire "autrement". Et l'annonce de la sortie renvoie sur cette page décrivant les "premiers pas du Faire ensemble". Les gens sont prévenus. 
+Au CAF Embrun, on annonce la couleur lors de la publication de la sortie. {{< primary >}}On va faire "autrement".{{< /primary >}} Et l'annonce de la sortie renvoie ici sur cette page décrivant les {{< primary >}}premiers pas du Faire ensemble.{{< /primary >}} Les gens sont prévenus. 
 {{< /alert>}}
 
 ## Tous co-pilotes
@@ -58,6 +58,6 @@ C’est souvent l’occasion de déjouer des pièges !
 
 {{< primary >}}L'important est avant tout de communiquer, de mettre des mots sur les ressentis{{< /primary >}}, d'éviter les non-dits. Le formalisme et les outils utilisés évolueront au fil des sorties.
 
-{{<primary>}}On fait ça au CAF depuis plus de 5 ans !{{</primary>}}
+{{<primary>}}On fait ça au CAF Embrun depuis plus de 5 ans !{{</primary>}}
 
 Je vous laisse regarder quelques sorties pour vous faire une idée...
