@@ -1,15 +1,14 @@
 ---
-title: "Tricotage autour du Piolit"
+title: article draft xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 date: 2021-02-19
-description: "A brief description of Rich Content"
+description: A brief description of Rich Content
 summary: "Première sortie CAF Embrun avec la Carto des vigilances :grinning_face_with_big_eyes:"
-coverAlt: "xxxxx"
-coverCaption: "Le choix de la destination est collectif. Sacré challenge !"
-# tags: ["shortcodes", "privacy", "sample", "gist", "twitter", "youtube", "vimeo"]
+coverAlt: xxxxx
+coverCaption: Le choix de la destination est collectif. Sacré challenge !
 weight: 60
 draft: true
 ---
-Première sortie avec la Carto des vigilances. 
+draft draft draft draft draft draft draft
 
 On sort péniblement de la crise COVID... Lors d'un webinaire CAF Embrun sur les comportements et les approches neige-avalanche, 
 nous y parlons de plein de trucs, de facteurs humains, de l'intérêt du "faire ensemble" et de l'approche Carto des vigilances.

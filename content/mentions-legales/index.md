@@ -20,7 +20,7 @@ Les textes et ressources publiés sur ce site sont mis à disposition selon les 
 
 Vous êtes libre de partager, copier et redistribuer le contenu sous réserve d'en citer la source. 
 -->
-## Protection des données personnelles & mesure d'audience
+## Protection des données personnelles 
 Ce site est conçu dans le respect de la vie privée de ses visiteurs :
 * {{<primary>}}Aucun cookie de traçage publicitaire{{</primary>}} n'est déposé sur votre équipement.
 * L'analyse statistique du trafic est réalisée de manière anonyme et conforme au RGPD (sans collecte de données à caractère personnel).

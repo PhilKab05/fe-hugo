@@ -1,54 +1,78 @@
 ---
-title: "Pendant la course / tous co-pilotes"
+title: Copiloter
 date: 2024-02-17
-lastmod: 2026-11-02
+lastmod: 2026-10-02
 draft: false
-description: "Les clés du comportement - Communiquer, observer, repérer les perturbations... pour ne pas oublier les décisions à prendre !"
-#tags: ["icons", "sample", "shortcodes"]
+description: Pendant la sortie, chacun contribue à la vigilance du groupe.
 showDateUpdated: true
-summary: "Communiquer, observer, repérer les perturbations... pour ne pas oublier les décisions à prendre !"
-coverCaption: "Là, on va rejoinde la piste forestière - On profite de la pause pour refaire un point"
+summary: Pendant la sortie, chacun contribue à la vigilance du groupe.
+coverCaption: Là, on va rejoinde la piste forestière - On profite de la pause pour refaire un point
 weight: 30
 ---
-## Des vigilances actives, une vigilance collective
-Sur le terrain, on s'exprime sur ses ressentis, on questionne : Comment ça va ?[^1]... Je commence à être très fatigué !... est-ce qu'on est toujours dans l'horaire prévu ?...
-[^1]: Ca peut-être perçu comme de la condescendance, mais c'est de la réelle bienveillance. Lors d'une sortie en mode Faire ensemble, lors du débriefing, Didier nous dit "Ah ben c'est la 1ère fois qu'on me demande *comment ça va ?* dans une sortie ski de rando" :grinning_face:
+{{<lead>}}Pendant la sortie, chacun contribue à la vigilance du groupe.{{</lead>}}
 
-On partage ce qu’on voit, on partage ses doutes... Et c’est plus facile quand on a rappelé le droit au doute au départ ! Le doute est souvent déjà une perception informelle de quelque chose ou un début de décision.
+La préparation nous a donné des repères, mais la réalité ne se déroule jamais exactement comme prévu. Les conditions changent, la fatigue s'installe, un passage se révèle différent de ce que nous avions imaginé. Nous pouvons aussi passer à côté d'un signal important, simplement parce que notre attention est ailleurs.
 
-<primary>La vigilance collective ne sert pas uniquement à additionner les observations individuelles. Elle sert aussi à compenser les angles morts de chacun.</primary>
+Progresser en co-pilotage, c'est rester attentifs ensemble, partager ce que nous remarquons et réexaminer le projet lorsque la situation évolue.
 
-## Observer, c'est compliqué
-On observe, et c’est sûrement ce qu’il y a de plus compliqué ! Les *capteurs et les antennes* sont ouverts. Qu’est ce qu’on voit ? la météo qui change, la fatigue d’un copain, des signaux “neige”... Il ne faut pas rater les signaux faibles. 
+## Observer : que se passe-t-il autour de nous ?
 
-{{<primary>}}Tout le monde participe à l’observation{{</primary>}} (tous co-pilotes 😉). Et {{<primary>}}les débutants ont un rôle important à jouer{{</primary>}} : on ne leur demande pas d’être *expert en nivologie* mais simplement efficace en observation.
+On porte attention à la neige et au terrain, mais aussi à la météo, à l'horaire, à la progression du groupe et à l'état des participants. On questionne[^1].
+[^1]: Lors d'une sortie en mode Faire ensemble, lors du débriefing, Didier nous dit "Ah ben c'est la 1ère fois qu'on me demande *comment ça va ?* dans une sortie ski de rando" :grinning_face: 
 
-Pourquoi c’est compliqué d’observer ? parce qu’on discute intensément avec les copains, ou bien on avance le nez dans ses spatules en pensant à plein de choses... Mais il faut régulièrement {{<primary>}}se reconnecter au terrain, à la neige et aux équipiers du jour pour percevoir les changements.{{</primary>}} Garder cette “connexion” pour *avoir conscience*, c’est peut être au final ce qu’il y a de plus difficile (voir [L'outil indispensable]({{< ref "aller-plus-loin/comprendre-son-cerveau" >}})). 
+Un changement peut être évident : le brouillard arrive, une pente est plus raide que prévu, un participant est très fatigué. D'autres signaux sont plus discrets : le groupe avance moins vite, quelqu'un devient silencieux ou une personne exprime une hésitation.
 
-La préparation de la course en imaginant les modes de vigilance (détendu, méfiant, alerté) et en identifiant les passages clé facilite en partie la reconnexion sur les “événements” liés aux changements. 
+L'observation est parfois difficile. On peut être absorbé par l'effort, la concentration à tracer dans une pente plus raide, une conversation avec les copains ou la résolution d'un problème. Il est donc utile de se reconnecter régulièrement à la situation, notamment lors des pauses et aux passages clés.
+
+Tout le monde peut contribuer. Il n'est pas nécessaire d'être expert en nivologie pour remarquer un changement, poser une question ou signaler un doute. Les compétences techniques restent essentielles pour analyser certaines observations ou situations, mais elles ne sont pas la seule ressource utile au groupe.
+
+## Partager : qu'est-ce qui attire notre attention ?
+
+On dit ce que l'on voit, ce que l'on ressent et ce qui nous questionne. « On est toujours dans l'horaire ? », « Je commence à être fatigué. », « La visibilité baisse. », « Je ne sais pas exactement pourquoi, mais ce passage me met mal à l'aise. »...
+
+Ces remarques peuvent paraître simples. Elles aident pourtant le groupe à confronter ses perceptions et à remarquer ce qu'une personne seule aurait pu manquer.
+
+Le droit au doute rappelé au départ facilite cette parole. Il n'est pas nécessaire d'avoir déjà une explication complète pour s'exprimer.
+
+## Réévaluer : faut-il changer quelque chose ?
+
+À certains moments, il est utile de faire un point : avant un passage clé, au début d'une descente, lors d'une pause ou lorsqu'un changement important est observé.
+
+On peut se poser quelques questions :
+- On est toujours dans le cadre et l'horaire prévus ?
+- Les conditions correspondent-elles à ce qu'on avait imaginé ?
+- Tout le monde est toujours en forme et ok pour continuer ?
+- Faut-il faire une pause, adapter la progression, choisir une alternative ...ou renoncer ?
+
+Une difficulté ou une perturbation peut mobiliser toute notre attention. Il est alors utile de s'arrêter pour la traiter collectivement, sans perdre de vue le reste de la situation : le terrain, les conditions et les autres participants.
+
+Le leader/l'encadrant facilite les échanges et les décisions, rappelle les règles et intervient si nécessaire. Mais il n'est pas le seul à pouvoir déclencher un point d'étape : chacun peut proposer une pause ou un micro-briefing.
+
 
 {{<alert "circle-info">}}
-Le plus grand risque n'est pas de prendre une mauvaise décision, c'est d'oublier qu'il y a une décision à prendre. L'accident de montagne n'est que très rarement le résultat d'une "mauvaise décision" face à un danger identifié. Il est presque toujours le résultat d'une non-décision face à un danger non-perçu. 
+L'intérêt du co-pilotage n'est pas de garantir la meilleure décision. C'est de permettre au groupe de repérer qu'une décision est peut-être nécessaire, puis de la construire à partir de plusieurs perceptions.
 {{</alert >}}
 
-## Perturbations, décisions, validations collectives…
-{{<primary>}}À chaque arrêt prévu (par exemple avant un passage clé), avant de commencer la descente, lors de la perception de nouveaux signaux, lors de la détection d’une perturbation… on échange et on valide !{{</primary>}} Tout le monde est toujours OK pour la suite ? On active le plan B ? Comment on gère notre erreur ? On décide d’un changement d’itinéraire ? On renonce ?...
+## Expérimenter et partager les rôles
 
-Le leader/encadrant garde un rôle de facilitateur et d’arbitre : conduite de la réflexion et des prises de décision, arbitrages, rappel des règles et des mesures à prendre… Mais tout le monde peut lancer un *micro-briefing* lorsqu'il estime que c'est nécessaire.
+Lorsque les conditions, les compétences et la sécurité le permettent, chacun peut expérimenter certains rôles : faire la trace et/ou passer devant, contribuer à faire le point, proposer/animer un point d'étape ou pourquoi pas conduire une prise de décision. 
 
-En résumé :
-- {{<primary>}}Prévoir, c’est facile{{</primary>}} … parce qu’on l’a fait la veille en préparation.
-- {{<primary>}}Observer, c’est difficile{{</primary>}}, parce qu’on “déconnecte” souvent, ce qui conduit à oublier qu’il y a des décisions à prendre.
-- {{<primary>}}Détecter et gérer les perturbations, c’est compliqué aussi !{{</primary>}} La fatigue d’un copain, une petite erreur d’itinéraire, une fixation qui casse… on s’en rend vite compte, mais il faut “traiter” la perturbation collectivement[^2] : on s’arrête, on en discute, on décide de la suite.
+Le leader/encadrant ne se limite pas à conduire le groupe, toujours devant. Il facilite la participation et la circulation des rôles, tout en conservant les responsabilités qui lui incombent.
 
+L'expérience permet de développer ses repères et son jugement. Elle ne dispense jamais de tenir compte de ses limites ni des compétences nécessaires dans situation donnée.
 
-[^2]: Détecter une perturbation : attention à na pas mettre toute son énergie à résoudre le problème : le *tunnel cognitif* de résolution du problème fait perdre la lucidité nécessaire pour observer le reste : le terrain, les conditions, les copains (voir aussi [L'outil indispensable]({{< ref "aller-plus-loin/comprendre-son-cerveau" >}})).
+Les pauses peuvent également être l'occasion de réviser des gestes essentiels, notamment les exercices de secours en avalanche lors de sorties qui s'y prêtent.
 
-La préparation “mentale” et la visualisation (*se* préparer) aident à gérer les imprévus et à détecter les perturbations. 
+Voir [les outils à utiliser pendant la sortie]({{< ref "aller-plus-loin/quelques-outils/#sur-le-terrain" >}}).
 
-Quels outils "techniques" utiliser pendant la sortie ? Voir [Quelques outils]({{< ref "aller-plus-loin/quelques-outils/#sur-le-terrain" >}})
+{{% cadre %}} ### 📌 Ce qu'il faut retenir
+- Observer la situation, les conditions et l'état du groupe.
+- Partager les informations, les impressions et les doutes.
+- Faire des points d'étape lorsque cela est utile.
+- Réexaminer ensemble le projet et adapter la suite si nécessaire.
+- Permettre à chacun de contribuer, dans le respect des compétences et des responsabilités.
+{{% /cadre %}}
 
-## Expérimentations / rotation des rôles
-Selon les conditions, chacun peut s'essayer à la trace, à la montée comme à la descente. Le leader/encadrant n'est pas un guide touristique “toujours devant”, il facilite les changements de rôles. Pour chacun, c’est en expérimentant qu’on développe le “sens” de l’itinéraire, de la neige… (on développe son intuition).
-
-Ah, et une petite parenthèse : tant qu'on est sur le terrain, on n'oublie pas de faire de temps en temps des exercices secours avalanche.
+{{<lead>}}
+Le co-pilotage ne signifie pas que tout le monde décide de tout en permanence. Il signifie que chacun peut contribuer à la vigilance et signaler qu'il est temps de réfléchir à la suite.
+{{</lead>}}

@@ -1,0 +1,36 @@
+<div class="hugo-grid">
+  {{ .Inner | markdownify }}
+</div>
+
+<style>
+.hugo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.hugo-grid > div {
+  background: var(--entry, #f8f9fa);
+  border: 1px solid var(--border, #e9ecef);
+  border-radius: 8px;
+  padding: 1.25rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.hugo-grid > div:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+}
+
+.hugo-grid h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.15rem;
+}
+
+.hugo-grid p:last-child {
+  margin-bottom: 0;
+}
+</style>

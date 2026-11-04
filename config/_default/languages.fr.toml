@@ -13,10 +13,10 @@ copyright = "&copy; 2023-2026 Faire ensemble"
   description = "Description du Faire ensemble"
 
 [params.author]
-  name = "Phil Kab"
-  image = "img/author.jpg"
-  headline = "Not your ordinary theme!"
-  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  name = "Philippe Cabanal"
+  image = ""
+  headline = ""
+  bio = "Voir section A propos"
   links = [
     { facebook = "https://facebook.com/" },
   ]

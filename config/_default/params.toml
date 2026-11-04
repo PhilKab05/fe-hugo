@@ -23,7 +23,7 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  logo = "img/logo-fe2.jpg"
+  logo = "img/logo-fe3.png"
   # logoDark = "img/logo-dark.jpg"
   showTitle = true
 

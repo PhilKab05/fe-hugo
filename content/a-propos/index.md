@@ -1,41 +1,70 @@
 ---
-title: "À propos"
+title: À propos
 date: 2026-09-03
 draft: false
-description: "Découvrez la démarche et les objectifs de l'initiative Faire ensemble."
+description: L'origine de la démarche et le projet.
 ---
-## L'origine du projet
-Quand j'ai commencé le ski de rando il y a plus de 20 ans, à la soirée "sécurité neige" du club de l'époque, on me parlait de flocons, de gobelets, de métamorphoses... Je pensais que connaître la neige m'aiderait à sortir en sécurité.
+## L’origine du projet
 
-Comme je suis curieux, j'ai cherché à apprendre. Je me suis formé. J'ai découvert les pièges heuristiques[^1]. Pas facile d'ajouter les facteurs humains dans la recette du ski de rando.
-[^1]: Pièges heuristiques identifiés par Ian Mc Cammon.
+Quand j’ai commencé le ski de rando, il y a près de 30 ans, les soirées « sécurité neige » de mon club étaient surtout consacrées à la neige : flocons, gobelets, métamorphoses... Je pensais qu’en comprenant mieux la neige un jour, je saurais sortir en sécurité.
 
-J'ai découvert Cristal lors de son démarrage : "tiens, ça me parle, ce n'est pas un algorithme". Quelques observables neige et un mode de vigilance à adopter. Pas un risque calculé mais une attitude (je peux rester désinvolte... je dois resté concentré). On est sur du comportement.
+Je suis curieux, j'ai cherché à apprendre et à me former. J’ai découvert les pièges heuristiques identifiés par Ian McCammon. Pas facile d'ajouter les facteurs humains dans la recette du ski de rando. 
 
-Seb Escande m'a convaincu qu'il faut porter les efforts sur les comportements. "Et si le piège principal, ce n'était pas tant la montagne que notre difficulté à nous y comporter raisonnablement ?"
+La découverte de Cristal (vigilance encadrée) m’a marqué : il ne s’agit pas  de calculer un risque, mais d’adopter une attitude adaptée. Le langage parle de comportement. 
 
-Paulo Grobel a proposé {{<primary>}}la Carto des vigilances. J'ai tout de suite adopté ça.{{</primary>}} J'ai longuement échangé avec Paulo et même co-écrit avec lui un article sur le sujet dans la revue de l'Anéna.
+Seb Escande m’a conforté dans cette idée : il faut porter davantage l’attention sur nos comportements.
+> "Et si le piège principal, ce n'était pas tant la montagne que notre difficulté à nous y comporter raisonnablement ?"
 
-En 2021, j'ai encadré ma première sortie club avec la Carto des vigilances. Post Covid oblige, il a fallut faire ensemble à distance. Avec un groupe très hétérogène côté nivologie.
+Puis Paulo Grobel a proposé la Carto des vigilances. J’ai immédiatement adhéré et adopté cette approche. J’ai longuement échangé avec Paulo et coécrit avec lui un article sur le sujet dans la revue de l’ANENA.
 
-Les réglages se sont affinés au fil des sorties, et {{<primary>}}je retiens en priorité l'approche collective, le respect de quelques rituels, et le focus sur les comportements.{{</primary>}} Tout le reste est optionnel et on ajoute les ingrédients selon le groupe. {{<primary>}}Le Faire ensemble est le résultat de tout ça{{</primary>}} : pour des groupes hétérogènes (y compris avec des débutants), pour des groupes souvent éphémères (constitués souvent pour une seule sortie), avec le moins possible de "technique obligatoire".
+En 2021, j’ai encadré ma première sortie club avec la Carto des vigilances. Le contexte post-Covid nous a conduits à préparer la sortie à distance, avec un groupe très hétérogène en matière de nivologie.
 
-Même si un participant ne connaît rien en carto, en nivologie... et n'a pas le temps pour contribuer à la préparation, il reste le bienvenu et peut goûter au Faire ensemble : ses rituels (avec briefing et dé-briefing), le droit à la parole pour exprimer parfois juste un doute, les échanges et les décisions collectives, la bienveillance collective, etc
+Au fil des sorties, j’ai adapté la démarche à ces groupes et à leurs contraintes. Trois éléments se sont progressivement imposés comme essentiels : {{< primary>}}la dimension collective, quelques rituels partagés et l’attention portée aux comportements.{{< /primary>}}
 
-## Les objectifs
-L'objectif de ce site est simplement de partager et  {{<primary>}}documenter la démarche{{</primary>}} :
-- pour les participants à des sorties qui souhaitent un mode d'emploi
-- pour ceux qui sont susceptibles de l'adopter (groupe de copains, encadrants bénévoles en clubs...)
-- pour les curieux qui suivent l'évolution des outils et approches liés à la montagne hivernale (et pas que)
+C’est de cette expérience qu’est né Faire ensemble.
 
-## Rejoindre et contribuer au projet
-Le projet repose sur la transmission et le retour d'expérience. Faire ensemble peut aussi être un projet pour  , ce n'est pas que lors d'une sortie en montagne ! C'est aussi dans l'évolution de ces approches, démarches et outils.
+Je voulais une démarche accessible à des groupes hétérogènes, souvent constitués pour une seule sortie, et incluant parfois des débutants. Pas besoin d’être expert en nivologie ou en cartographie pour commencer à participer à la vigilance collective.
 
-Que vous soyez simple skieur de rando, encadrant bénévole en club, professionnel de la montagne, expert en nivologie ou même simple curieux, vous pouvez en discuter et contribuer si vous le souhaitez.
+Une observation, une question, une impression, ou parfois un simple doute ont leur place dans les échanges. L’enjeu est de permettre à chacun de contribuer, d’écouter les autres et de participer à une réflexion commune. 
 
-Pour toute question, suggestion ou contribution, vous pouvez utiliser l'espace de discussion sur le site ou nous contacter directement par mail.
+Ca ne signifie pas que les compétences techniques sont secondaires, mais ont peut les apprendre de manière très progressive. 
 
-## Les auteurs
-- Philippe
-- Bientôt vous :hugging: 
+{{< alert "circle-info">}}
+Faire ensemble est ainsi une démarche issue de mon expérience de terrain : une façon de mettre la vigilance collective au cœur de la sortie, en donnant toute leur place aux comportements, aux échanges et à l’apprentissage.
+{{< /alert>}}
+
+## L’objectif du site
+
+Ce site a pour objectif de partager et de documenter la démarche Faire ensemble, mais aussi de nourrir la réflexion sur la prudence, les facteurs humains et la vigilance collective en montagne.
+
+Vous y trouverez des repères pratiques pour préparer et vivre une sortie, des réflexions sur les comportements et les mécanismes qui influencent nos décisions, ainsi que des ressources pour aller plus loin.
+
+Le site s’adresse à différents publics :
+
+- aux participants qui souhaitent comprendre la démarche et disposer d’un mode d’emploi ;
+- aux groupes d’amis et aux encadrants bénévoles qui souhaitent l’expérimenter ou l’adapter à leurs sorties ;
+- aux professionnels et aux personnes intéressées par les facteurs humains, la prévention et les pratiques de la montagne hivernale ;
+- plus largement, à toutes celles et ceux qui s’interrogent sur nos façons de décider, individuellement et collectivement, dans des situations incertaines.
+
+Faire ensemble n’est pas une méthode figée. Le site est aussi un espace pour partager les expériences, confronter les idées et documenter ce qui mérite d’être exploré.
+
+## Rejoindre et contribuer
+
+Faire ensemble est né de l’expérience du terrain. La démarche continuera à évoluer grâce aux sorties, aux échanges et aux retours d’expérience : en questionnant une idée, en apportant un éclairage issu de son expérience ou signalant une ressource utile...
+
+Que vous soyez pratiquant de ski de randonnée, encadrant bénévole, professionnel de la montagne, spécialiste de nivologie ou simplement curieux de ces questions, votre regard peut enrichir la réflexion.
+
+Les contributions critiques sont aussi les bienvenues : l’objectif n’est pas de défendre une méthode à tout prix, mais de comprendre ce qui aide réellement les groupes à observer, échanger, décider et apprendre.
+
+Une question, une suggestion, un retour d’expérience ? Vous pouvez participer aux discussions sur le site ou me contacter directement par mail.
+
+## Qui porte le projet ?
+
+Je m’appelle Philippe. Je pratique le ski de rando (et l'alpinisme, escalade...) depuis près de 30 ans. Je me suis progressivement intéressé à la prévention et aux facteurs humains dans les décisions en montagne. Je suis bénévole en club de montagne (encadrant, formateur). Je ne suis pas un professionnel de la montagne et je n'ai rien à vendre.
+
+Je suis ingénieur de formation. J'ai travaillé dans plusieurs domaines : marketing produit, formation, développement, innovation, consulting... avec des préoccupations récurrentes : transmettre et coopérer. C'est un peu dans mon ADN.
+
+Je ne prétends pas apporter une approche nouvelle. Je souhaite juste contribuer, à mon échelle, à faire évoluer nos pratiques et à partager les réflexions qui peuvent nous aider à apprendre ensemble.
+
+{{< lead>}}Faire ensemble est un projet ouvert : il se construit aussi par les échanges avec celles et ceux qui le découvrent, l’expérimentent et le questionnent.{{< /lead>}}
 

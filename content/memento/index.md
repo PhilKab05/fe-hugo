@@ -1,16 +1,16 @@
 ---
-title: "Le mémento"
+title: Le mémento
 date: 2025-02-02
-lastmod: 2025-05-04
+lastmod: 2026-10-22
 draft: false
-description: "xxxx"
-tags: ["icons", "sample", "shortcodes"]
+description: Le mémento du Faire ensemble
+tags:
 showDateUpdated: true
 weight: 10
 showPagination: false
 ---
 {{< figure
-    src="memento.jpg"
-    alt="Le mémento fu Faire ensemble"
-    caption="Pour retenir les 4 étapes systématiques et quelques points clé"
+    src="FE-memento-v3.jpg"
+    alt="Le mémento du Faire ensemble"
+    caption="Pour retenir les 4 étapes et quelques points clé"
     >}}

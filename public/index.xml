@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Faire ensemble :heart_eyes: on Faire ensemble</title>
+		<title>Faire ensemble</title>
 		<link>http://localhost:1313/</link>
-		<description>Recent content in Faire ensemble :heart_eyes: on Faire ensemble</description>
+		<description>Recent content on Faire ensemble</description>
 		<generator>Hugo</generator>
 		<language>fr-FR</language>
 		
@@ -12,9 +12,16 @@
 			<copyright>&amp;copy; 2023-2026 Faire ensemble</copyright>
 		
 		
-			<lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>1 - Faire groupe : la vigilance se construit ensemble</title>
+				<link>http://localhost:1313/aller-plus-loin/faire-groupe/</link>
+				<pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/faire-groupe/</guid>
+				<description>Un groupe compétent n’est pas forcément  vigilant</description>
+			</item>
 			<item>
 				<title>Cime de la Charvie, traversée Prafauchier - Lasseron</title>
 				<link>http://localhost:1313/decouvrir/2025-charvie/</link>
@@ -30,46 +37,39 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Préparation / co-construction</title>
+				<title>Préparer ensemble</title>
 				<link>http://localhost:1313/comment-faire/preparation/</link>
 				<pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/comment-faire/preparation/</guid>
-				<description>Groupe, itinéraire, conditions, sur quoi porter son attention, préparer et SE préparer&amp;hellip;</description>
+				<description>La veille : construire un projet commun et se préparer à l&amp;rsquo;adapter.</description>
 			</item>
 			<item>
-				<title>Quelques outils</title>
-				<link>http://localhost:1313/aller-plus-loin/quelques-outils/</link>
-				<pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/quelques-outils/</guid>
-				<description>Quelques outils, pour les 4 étapes du Faire ensemble, de la préparation au débriefing</description>
+				<title>Gérer le risque ou cultiver la prudence ?</title>
+				<link>http://localhost:1313/blog/risque-et-prudence/</link>
+				<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/risque-et-prudence/</guid>
+				<description>Le risque zéro n’existe pas. Et alors ?</description>
 			</item>
 			<item>
-				<title>Les dangers sont avant tout liés aux comportements</title>
-				<link>http://localhost:1313/pourquoi/dangers-comportements/</link>
-				<pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/pourquoi/dangers-comportements/</guid>
-				<description>Donnons la priorité aux comportements plutôt qu&amp;rsquo;à la nivologie elle même</description>
+				<title>2 - Comment nos décisions se fabriquent</title>
+				<link>http://localhost:1313/aller-plus-loin/comment-nos-decisions-se-fabriquent/</link>
+				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/comment-nos-decisions-se-fabriquent/</guid>
+				<description>On peut connaître les risques, avoir de l’expérience et disposer de bons outils, sans pour autant prendre la bonne décision.</description>
 			</item>
 			<item>
-				<title>L’implication de tous apporte plus de sécurité</title>
-				<link>http://localhost:1313/pourquoi/groupe-securite/</link>
-				<pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/pourquoi/groupe-securite/</guid>
-				<description>Un groupe qui coopère évolue avec beaucoup plus de sécurité et moins de stress</description>
+				<title>La sortie commence avant le départ</title>
+				<link>http://localhost:1313/blog/la-sortie-commence-avant-le-depart/</link>
+				<pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/la-sortie-commence-avant-le-depart/</guid>
+				<description>Comment je prépare une sortie avec le groupe, avant même de se retrouver.</description>
 			</item>
 			<item>
-				<title>Faire ensemble et Carto des vigilances : quelles différences ?</title>
-				<link>http://localhost:1313/blog/faire-ensemble-vs-csv/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/faire-ensemble-vs-csv/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Alignement et briefing</title>
+				<title>S&#39;accorder avant de partir</title>
 				<link>http://localhost:1313/comment-faire/alignement-briefing/</link>
 				<pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/comment-faire/alignement-briefing/</guid>
-				<description>Communication sur ON, aligement sur l&amp;rsquo;objectif, rappel des règles, checks et c&amp;rsquo;est parti !</description>
+				<description>Prenons quelques minutes pour nous accorder sur le projet et sur l&amp;rsquo;état du groupe.</description>
 			</item>
 			<item>
 				<title>Tricotage autour du Piolit</title>
@@ -86,6 +86,13 @@
 				<description>Faire ensemble, le cadre idéal pour un week-end de formation</description>
 			</item>
 			<item>
+				<title>3 - De l’expérience à l’apprentissage</title>
+				<link>http://localhost:1313/aller-plus-loin/de-l-experience-a-l-apprentissage/</link>
+				<pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/de-l-experience-a-l-apprentissage/</guid>
+				<description>Comment on progresse et comment on évite de reproduire indéfiniment les mêmes erreurs</description>
+			</item>
+			<item>
 				<title>Tour du pic du Cros</title>
 				<link>http://localhost:1313/decouvrir/2025-tour-pic-du-cros/</link>
 				<pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
@@ -93,11 +100,11 @@
 				<description>C&amp;rsquo;est instructif de comparer le prévu et le vécu</description>
 			</item>
 			<item>
-				<title>Pendant la course / tous co-pilotes</title>
+				<title>Copiloter</title>
 				<link>http://localhost:1313/comment-faire/pendant-la-course/</link>
 				<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/comment-faire/pendant-la-course/</guid>
-				<description>Communiquer, observer, repérer les perturbations&amp;hellip; pour ne pas oublier les décisions à prendre !</description>
+				<description>Pendant la sortie, chacun contribue à la vigilance du groupe.</description>
 			</item>
 			<item>
 				<title>Tête de la Moulinière et arêtes de la Bruyère</title>
@@ -107,11 +114,18 @@
 				<description>Faire ensemble, ça marche aussi pour les courses d&amp;rsquo;alpinisme :thumbs_up:</description>
 			</item>
 			<item>
-				<title>Débriefing / ancrage</title>
+				<title>Débriefer et apprendre</title>
 				<link>http://localhost:1313/comment-faire/debriefing/</link>
 				<pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/comment-faire/debriefing/</guid>
-				<description>Le debriefing doit être rituel. C&amp;rsquo;est l&amp;rsquo;étape la plus importante pour progresser</description>
+				<description>Au retour, prendre le temps d&amp;rsquo;en parler permet de mieux comprendre ce qu&amp;rsquo;on a vécu et de préparer les sorties suivantes.</description>
+			</item>
+			<item>
+				<title>Quelques outils</title>
+				<link>http://localhost:1313/aller-plus-loin/quelques-outils/</link>
+				<pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/quelques-outils/</guid>
+				<description>Quelques outils, pour les 4 étapes du Faire ensemble, de la préparation au débriefing</description>
 			</item>
 			<item>
 				<title>Tour de la montagne Pellat</title>
@@ -119,6 +133,13 @@
 				<pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/decouvrir/2026-tour-montagne-pellat/</guid>
 				<description>Tout le monde peut passer devant et s&amp;rsquo;essayer à la trace</description>
+			</item>
+			<item>
+				<title>Faire ensemble et Carto des vigilances : deux approches complémentaires</title>
+				<link>http://localhost:1313/aller-plus-loin/faire-ensemble-vs-csv/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/faire-ensemble-vs-csv/</guid>
+				<description></description>
 			</item>
 			<item>
 				<title>À propos</title>
@@ -143,58 +164,16 @@
 			</item>
 			<item>
 				<title>Foire aux questions</title>
-				<link>http://localhost:1313/aller-plus-loin/faq/</link>
+				<link>http://localhost:1313/faq/</link>
 				<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/faq/</guid>
+				<guid>http://localhost:1313/faq/</guid>
 				<description>On essaye de répondre à quelques questions. Vous en avez d&amp;rsquo;autres ?</description>
 			</item>
 			<item>
-				<title>C&#39;est une bonne façon d&#39;apprendre</title>
-				<link>http://localhost:1313/pourquoi/bien-pour-apprendre/</link>
-				<pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/pourquoi/bien-pour-apprendre/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>La sécurité : une affaire de groupe</title>
-				<link>http://localhost:1313/aller-plus-loin/risque-groupe/</link>
-				<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/risque-groupe/</guid>
-				<description>Comment évoluent la sécurité et les risques en fonction de l’implication et de la coopération au sein du groupe ?</description>
-			</item>
-			<item>
-				<title>On n’a pas besoin d’être expert en nivologie ou en gestion du risque !</title>
-				<link>http://localhost:1313/pourquoi/biais-expertise/</link>
-				<pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/pourquoi/biais-expertise/</guid>
-				<description>Donnons la priorité aux comportements plutôt qu&amp;rsquo;à la nivologie elle même</description>
-			</item>
-			<item>
-				<title>Ca change et c&#39;est convivial</title>
-				<link>http://localhost:1313/pourquoi/sortir-des-habitudes/</link>
-				<pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/pourquoi/sortir-des-habitudes/</guid>
-				<description>Faire autrement, ne pas faire comme d&amp;rsquo;habitude&amp;hellip; Ca demande un petit effort mais c&amp;rsquo;est idéal pour apprendre.</description>
-			</item>
-			<item>
-				<title>L&#39;outil indispensable</title>
-				<link>http://localhost:1313/aller-plus-loin/comprendre-son-cerveau/</link>
-				<pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/comprendre-son-cerveau/</guid>
-				<description>Quel est l&amp;rsquo;outil inspensable ? On essaye d&amp;rsquo;y voir un peu plus clair</description>
-			</item>
-			<item>
-				<title>advanced</title>
-				<link>http://localhost:1313/tags/advanced/_index.zh-cn/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/advanced/_index.zh-cn/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Tags</title>
-				<link>http://localhost:1313/tags/_index.zh-cn/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/_index.zh-cn/</guid>
+				<title>Pourquoi Faire ensemble ?</title>
+				<link>http://localhost:1313/pourquoi/</link>
+				<pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pourquoi/</guid>
 				<description></description>
 			</item>
 	</channel>

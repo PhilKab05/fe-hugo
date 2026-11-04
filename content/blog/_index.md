@@ -2,7 +2,7 @@
 title: "Blog"
 description: "Articles de blog : approfondissements, idées"
 ---
-Approfondissements et idées
+Prolonger la réflexion et idées
 
 
 

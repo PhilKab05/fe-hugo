@@ -10,7 +10,7 @@ weight: 10
 ---
 Deux belles journées dans le Briançonnais et 2 grandes boucles.
 
-On prépare la 1ère course avant le départ, à distance. Un joli tour des Peygus. Nous sommes au gîte à Cervières pour préparer notre 2ème course. Pas de difficulté particulière et une nivo peu inquiétante. 
+On prépare la 1ère course avant le départ, à distance. Un joli tour des Peygus depuis le Laus. Nous sommes au gîte à Cervières pour préparer notre 2ème course. Pas de difficulté particulière et une nivo peu inquiétante. 
 
 La vigilance principale porte sur la forme de Françoise et de Christine. Si on veut réussir la boucle, il nous faut adopter un rythme pas trop soutenu. Tout le monde s'applique à ne pas faire d'échappée (merci Gilbert).
 

@@ -12,36 +12,36 @@
 			<copyright>&amp;copy; 2023-2026 Faire ensemble</copyright>
 		
 		
-			<lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/comment-faire/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Préparation / co-construction</title>
+				<title>Préparer ensemble</title>
 				<link>http://localhost:1313/comment-faire/preparation/</link>
 				<pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/comment-faire/preparation/</guid>
-				<description>Groupe, itinéraire, conditions, sur quoi porter son attention, préparer et SE préparer&amp;hellip;</description>
+				<description>La veille : construire un projet commun et se préparer à l&amp;rsquo;adapter.</description>
 			</item>
 			<item>
-				<title>Alignement et briefing</title>
+				<title>S&#39;accorder avant de partir</title>
 				<link>http://localhost:1313/comment-faire/alignement-briefing/</link>
 				<pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/comment-faire/alignement-briefing/</guid>
-				<description>Communication sur ON, aligement sur l&amp;rsquo;objectif, rappel des règles, checks et c&amp;rsquo;est parti !</description>
+				<description>Prenons quelques minutes pour nous accorder sur le projet et sur l&amp;rsquo;état du groupe.</description>
 			</item>
 			<item>
-				<title>Pendant la course / tous co-pilotes</title>
+				<title>Copiloter</title>
 				<link>http://localhost:1313/comment-faire/pendant-la-course/</link>
 				<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/comment-faire/pendant-la-course/</guid>
-				<description>Communiquer, observer, repérer les perturbations&amp;hellip; pour ne pas oublier les décisions à prendre !</description>
+				<description>Pendant la sortie, chacun contribue à la vigilance du groupe.</description>
 			</item>
 			<item>
-				<title>Débriefing / ancrage</title>
+				<title>Débriefer et apprendre</title>
 				<link>http://localhost:1313/comment-faire/debriefing/</link>
 				<pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/comment-faire/debriefing/</guid>
-				<description>Le debriefing doit être rituel. C&amp;rsquo;est l&amp;rsquo;étape la plus importante pour progresser</description>
+				<description>Au retour, prendre le temps d&amp;rsquo;en parler permet de mieux comprendre ce qu&amp;rsquo;on a vécu et de préparer les sorties suivantes.</description>
 			</item>
 	</channel>
 </rss>

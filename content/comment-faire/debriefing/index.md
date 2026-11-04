@@ -1,42 +1,72 @@
 ---
-title: "Débriefing / ancrage"
+title: Débriefer et apprendre
 date: 2024-02-19
 draft: false
-description: "blablabla"
-# tags: ["icons", "sample", "shortcodes"]
+description: "Une sortie ne s'arrête pas au retour : prendre le temps d'en parler permet de mieux comprendre ce que nous avons vécu et de préparer les sortie suivantes."
 showDateUpdated: true
-summary: "Le debriefing doit être rituel. C'est l'étape la plus importante pour progresser"
-coverCaption: "Au retour de Côte Belle"
+summary: Au retour, prendre le temps d'en parler permet de mieux comprendre ce qu'on a vécu et de préparer les sorties suivantes.
+coverCaption: Au retour de Côte Belle
 weight: 40
+lastmod: 2026-10-20
 ---
-Le débriefing fait partie du rituel. Chez l'un ou chez l'autre, au parking, au bistrot, c’est comme on veut. Avec ou sans bière :beer:, peu importe.
+{{<lead>}}Une sortie ne s'arrête pas au retour : prendre le temps d'en parler permet de mieux comprendre ce qu'on a vécu et de préparer les suivantes.{{</lead>}}
 
-Il y a plein de manière de débriefer. Au retour de course, c'est difficile d'imposer ou de s'imposer la rigueur et de suivre des étapes obligatoires. Retenons quelques principes.
+Le débriefing fait partie de la démarche Faire ensemble. On peut le faire au parking, chez l'un des participants ou autour d'un verre. Le lieu et la durée importent moins que la possibilité de partager les expériences et d'en tirer quelques enseignements.
 
-{{< alert "circle-info">}}Principes du débriefing :
-- {{<primary>}}Tout le monde prend la parole.{{</primary>}} On a déjà fait un "tour de table" au départ, donc l'habitude est prise 
-- {{<primary>}}On parle de choses factuelles{{</primary>}} : les faits ou observations, les perceptions, les décisions
-- {{<primary>}}On n'oublie pas les émotions{{</primary>}}
-- {{<primary>}}On exclue le jugement{{</primary>}} : on reste dans le “no blame” (pas de sanction) : c’est fondamental pour développer la “culture” de l’erreur.
-{{< /alert >}}
+Il ne s'agit pas d'organiser une réunion formelle ni de refaire la sortie en jugeant les décisions prises. On cherche à comprendre ce qui s'est passé, comment chacun l'a vécu et ce que nous pouvons en retenir.
 
-On parle de :
+## 1. Que s'est-il passé ?
 
-## Ce qui s’est passé
-On parle du déroulement, et en particulier de {{<primary>}}ce qu'on avait pas prévu.{{</primary>}} Attention au biais de résultat : ce n'est pas parce que tout le monde est content qu'on n'a pas commis quelques erreurs. Dans ce cas, on ne cherche pas de responsable !
+On revient sur le déroulement de la sortie : ce que nous avions prévu, ce que nous avons observé, les décisions prises et les événements qui ont modifié le projet.
 
-{{<primary>}}On confronte le vécu et ce qu’on avait imaginé ou prévu.{{</primary>}}  Qu’est-ce qui ne s’est pas passé comme prévu (météo, neige, horaire…) ?  On imaginait un passage critique … c’était débonnaire. Ou bien l’inverse. Pourquoi ? C’est en soulignant les écarts entre prévu et vécu qu’on arrive à mieux préparer la sortie suivante. 
+Qu'est-ce qui s'est déroulé comme prévu ? Qu'est-ce qui nous a surpris ? Avons-nous rencontré des conditions différentes de celles que nous avions imaginées ? À quels moments avons-nous dû adapter le projet ?
 
-On peut aussi souligner les décisions importantes prises, les niveaux de prudence “après coup” (insuffisant ou excessif), les moments de déconnexion (*“à ce moment là, j’ai débranché mon antenne, il aurait fallu être plus attentif !”*, la conscience et la lucidité, ça se travaille aussi), ce qui aurait pu mal tourner (à quel moment a-t-on eu de la chance ?”), etc
+On peut aussi revenir sur les décisions importantes, les erreurs sans conséquence, les réussites et les moments où nous avons eu de la chance.
 
-{{<primary>}}On parle des réussites, mais aussi des erreurs{{</primary>}} souvent sans conséquences, {{<primary>}}sans jugement.{{</primary>}} 
+L'objectif est de confronter ce qu'on avait anticipé à ce qu'on a vécu. Une sortie qui s'est bien terminée ne signifie pas que toutes les décisions étaient bonnes ; inversement, une difficulté ne signifie pas nécessairement qu'une erreur a été commise.
 
-## Notre ressenti et nos émotions
-Le bon, le moins bon. Des surprises ? Un moment fort ? {{<primary>}}Du plaisir ? Un moment d'inconfort ou de doute ? Des peurs ?{{</primary>}}
+## 2. Comment l'avons-nous vécu ?
 
-Chacun s'exprime. Tous écoutent. La bienveillance doit favoriser la prise de parole. 
+Les faits ne racontent pas toute l'expérience de la sortie. Il est également utile de partager les impressions et les émotions : plaisir, surprise, confiance, inquiétude, inconfort, fatigue ou peur.
 
-## Ce qu’on en retient
-Une perturbation bien ou mal gérée, un comportement qu’on a trouvé très adapté à un moment donné, un outil nivologie ou d’aide à la décision qu’on a appris… 
+Chacun peut exprimer ce qu'il a ressenti et ce qui l'a marqué. Les autres écoutent, sans chercher immédiatement à expliquer ou à corriger son ressenti.
 
-{{<primary>}}Qu’est ce qu’on retient pour la fois prochaine ? Et qu’est ce qu’on change ?{{</primary>}} En soulignant tous ces points, on transforme l’expérience du jour en compétence pour la prochaine fois.
+Une personne peut avoir trouvé un passage compliqué quand une autre l'a vécu tranquillement.  Ces différences sont intéressantes : elles nous aident à mieux comprendre comment chacun a perçu la situation.
+
+## 3. Qu'en retenons-nous ?
+
+On termine en identifiant quelques enseignements utiles pour les prochaines sorties.
+
+Qu'avons-nous bien fait ? Qu'aurions-nous pu faire autrement ? Avons-nous repéré assez tôt les changements ? Une question aurait-elle mérité d'être posée plus tôt ? Une alternative préparée nous a-t-elle aidés ? Avons-nous appris quelque chose sur le terrain, sur nos façons de décider ou sur le fonctionnement du groupe ?
+
+Les enseignements peuvent être très concrets : mieux anticiper un horaire, clarifier une règle, utiliser un outil, faire un point d'étape plus tôt ou mieux accueillir les doutes.
+
+Il n'est pas nécessaire de tout analyser, de trouver après coup une explication à tout ni de produire une longue liste d'actions. Quelques enseignements bien choisis peuvent suffire.
+
+
+## Parler sans chercher de coupable
+
+Pour que le débriefing soit utile, chacun doit pouvoir parler sans craindre d'être jugé ou désigné comme responsable de tout ce qui s'est mal passé.
+
+On examine les faits, les perceptions, les décisions et leur contexte. Cela n'interdit pas de parler des erreurs ou des responsabilités ; cela évite de réduire l'analyse au jugement d'une personne.
+
+Le débriefing est un temps d'apprentissage collectif, pas un tribunal.
+
+## Garder une trace
+
+On a utilisé un document partagé pour préparer la sortie. On peut aussile compléter au retour, mais ce n'est pas obligatoire. On y retrouve alors le projet initial, les questions soulevées, les adaptations réalisées et les enseignements retenus.
+
+Ce journal de sortie permet de conserver une trace de l'expérience et de retrouver les points utiles lors d'une prochaine préparation.
+
+{{% cadre %}} ### 📌 Ce qu'il faut retenir
+- Revenir sur les faits et les décisions, sans se limiter au résultat final.
+- Faire une place aux perceptions et aux émotions de chacun.
+- Identifier les écarts entre ce qui était prévu et ce qui a été vécu.
+- Tirer quelques enseignements concrets pour la suite.
+- Apprendre ensemble, sans chercher un coupable.
+{{% /cadre %}}
+
+{{% lead %}}
+Le débriefing ne change pas la sortie passée. Il peut changer notre manière de préparer et de vivre les suivantes.
+{{% /lead %}}
+

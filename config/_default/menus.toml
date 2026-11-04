@@ -18,12 +18,12 @@
 [[main]]
   name = "Pourquoi ?"
   pageRef = "pourquoi"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Comment faire ?"
   pageRef = "comment-faire"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Aller plus loin"
@@ -39,10 +39,16 @@
    pageRef = "blog"
    weight = 5
 
+
 [[footer]]
    name = "A propos"
    pageRef = "a-propos"
    weight = 10
+
+[[footer]]
+   name = "FAQ"
+   pageRef = "faq"
+   weight = 15
 
 [[footer]]
    name = "Mentions légales"

@@ -1,0 +1,23 @@
+<div class="hugo-cadre">
+  {{ .Inner | markdownify }}
+</div>
+
+<style>
+.hugo-cadre {
+  background: var(--entry, #f8f9fa);
+  border: 1px solid var(--border, #e9ecef);
+/*  border-left: 4px solid var(--primary, #0066cc); */
+  border-radius: 6px;
+  padding: 1.25rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.hugo-cadre p:first-child {
+  margin-top: 0;
+}
+
+.hugo-cadre p:last-child {
+  margin-bottom: 0;
+}
+</style>

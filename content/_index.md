@@ -1,42 +1,70 @@
 ---
-title: "Faire ensemble :heart_eyes:"
-description: "Construisons ensemble notre sortie montagne hivernale pour plus de sécurité et pour mieux apprendre."
+title: Faire ensemble
+description: "Préparer, observer, décider et apprendre : faisons de la vigilance une affaire collective"
 showRecent: true
 ---
-
 {{< lead >}}
-Construisons ensemble notre sortie montagne hivernale pour plus de sécurité et pour mieux apprendre.
+Préparer, observer, décider et apprendre : faisons de la prudence une affaire collective.
 {{< /lead >}}
 {{< alert "circle-info">}}
-{{< primary >}}Faire ensemble{{< /primary >}} est {{< primary >}}une démarche concrète et simple, accessible à tous et centrée sur le collectif et les rituels.{{< /primary >}} <br>Les comportements, les attitudes et les bonnes pratiques priment sur les outils de la nivologie et la technique. La vigilance partagée est construite sur l’écoute, l’observation et le dialogue. Chaque sortie devient une expérience qui permet d’apprendre et progresser.
+En montagne, les connaissances techniques et les outils nous aident à comprendre les situations. Mais la prudence se construit aussi dans notre manière d’être attentifs, de partager nos perceptions, d’accueillir les doutes et de prendre des décisions ensemble.
 
-Faire ensemble n'est pas une méthode de gestion des risques mais plutôt une approche {{<primary>}}pour cultiver la prudence.{{</primary>}}
+Faire ensemble propose une démarche simple et adaptable, accessible à tous, pour donner une place à la vigilance collective, à travers quatre étapes qui accompagnent la sortie, de sa préparation au retour d’expérience.
+
+Faire ensemble n’est pas une méthode de gestion des risques mais plutôt une approche pour cultiver la prudence.
 {{< /alert >}}
 
+Pas besoin de maîtriser une méthode particulière pour commencer. Chacun peut contribuer par ce qu’il observe, ressent, questionne ou comprend de la situation.
+
 {{< figure
-    src="CNT-20ter.jpg"
-    alt="Marguareis"
-    caption="On est tous d'accord pour aller par là ? - Montée à la Pointe Marguareis"
+    src="crachet.jpg"
+    alt="En revenant de la tête du Crachet"
+    caption="On va descendre rive gauche. On est tous d'accord ?"
     >}}
+## Une démarche en quatre temps
 
-## On trouve quoi ici ?
-[Découvrir]({{< ref "decouvrir" >}}) présente une sortie ski de randonnée en mode Faire ensemble. L'approche fonctionne pour les sorties encadrées en club de montagne, mais aussi pour les sorties entre amis, les sorties en couple et même - c'est moins conseillé - les sorties en solo. 
+{{% grid %}} 
+{{% card %}} ###  Préparer ensemble
+Construire un projet partagé, anticiper les points de vigilance et envisager des alternatives. {{% /card %}} 
+{{% card %}} ###  S'accorder avant de partir 
+Partager les attentes, les préoccupations et les objectifs du jour. {{% /card %}}
+{{% card %}} ### Pendant la course, tous co-pilotes
+Croiser les observations, exprimer les doutes et réexaminer le projet lorsque la situation évolue. {{% /card %}}
+{{% card %}} ###  Apprendre de l’expérience
+Prendre du recul sur nos décisions et notre fonctionnement collectif. {{% /card %}} 
+{{% /grid %}}
 
-Faire ensemble donne la priorité au collectif et aux comportements. [Pourquoi ?]({{< ref "pourquoi" >}}) présente les atouts de cette approche.
+Quelques repères communs, des modalités souples, et une conviction : chacun peut contribuer à la vigilance du groupe, quel que soit son niveau d’expérience.
 
-[Comment faire ?]({{< ref "comment-faire" >}}) On entre dans le vif du sujet. On trouve ici les 4 étapes, les points à aborder, l'organisation, et des propositions pour mieux observer, communiquer, décider... Sous forme résumée, on retrouve ça dans le [Mémento du Faire ensemble.]({{< ref "memento" >}})
+## Explorer la démarche
+
+[Découvrir]({{< ref "decouvrir" >}}) - Pour voir ce que cette démarche change concrètement dans la préparation, la vie du groupe et les décisions sur le terrain.
+
+[Comment faire ?]({{< ref "comment-faire" >}}) - Pour découvrir et mettre en oeuvre les quatre étapes et les pratiques proposées. On entre dans le vif du sujet. 
 
 {{< button href="memento" target="_self" >}}
 Je télécharge le memento
 {{< /button >}}
 
-Faire ensemble n'invente pas grand chose :winking_face: La démarche propose juste de respecter 4 étapes et de réfléchir ensemble à quelques points. C'est très flexible. Les outils à utiliser et les fondements "théoriques" liés aux comportements sont décrits si vous souhaitez [Aller plus loin.]({{< ref "aller-plus-loin" >}}) 
+[Pourquoi ?]({{< ref "pourquoi" >}}) - Pour comprendre la vision qui porte Faire ensemble : une prudence active, qui se cultive individuellement et collectivement.
 
-{{< alert >}}
-Faire ensemble est une proposition. A chacun d'en retenir quelque chose (ou pas :grinning_face_with_sweat:) et de s'en approprier tout ou partie. Ca conviendra à certains et pas à d'autres (voir [Faire ensemble, ça convient à tout le monde ?]({{< ref "comment-faire" >}}) Dans tous les cas, la pratique d'activités montagne hivernale se fait sous la seule responsabilité des pratiquants.
-{{< /alert >}}
+[Aller plus loin]({{< ref "aller-plus-loin" >}}) - Pour explorer les mécanismes humains, les idées, les outils et les références qui nourrissent la démarche. Et [Le blog]({{< ref "blog" >}}) pour prolonger la réflexion sur la prudence, la vigilance collective et nos façons de décider en montagne.
 
-Un dernier point : si la démarche vous intéresse, n'hésitez pas à réagir par mail ou à poster un commentaire (pas besoin de vous inscrire). Tout ça peut évoluer et vous pouvez contribuer à l'évolution. On fera ça ensemble !
+## Une démarche à faire vivre
+
+Faire ensemble est une démarche en construction, nourrie par l’expérience des sorties, les échanges et les réflexions. 
+
+Elle ne prétend ni apporter une réponse à toutes les situations ni remplacer les compétences et les méthodes existantes. Elle propose un cadre pour expérimenter, partager ce qui fonctionne, questionner ce qui fonctionne moins bien et continuer à apprendre.
+
+Vos retours, vos expériences et vos questions sont les bienvenus. Ils peuvent contribuer à faire évoluer la démarche et à la rendre plus utile à des groupes et des pratiques différents.
+
+{{<lead>}}Parce que la prudence ne se décrète pas : elle se travaille, se partage et se cultive, sortie après sortie.{{</lead>}}
+
+---
+
+
+
+
 
 
 

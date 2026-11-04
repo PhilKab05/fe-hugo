@@ -12,9 +12,30 @@
 			<copyright>&amp;copy; 2023-2026 Faire ensemble</copyright>
 		
 		
-			<lastBuildDate>Sat, 18 Apr 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/aller-plus-loin/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>1 - Faire groupe : la vigilance se construit ensemble</title>
+				<link>http://localhost:1313/aller-plus-loin/faire-groupe/</link>
+				<pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/faire-groupe/</guid>
+				<description>Un groupe compétent n’est pas forcément  vigilant</description>
+			</item>
+			<item>
+				<title>2 - Comment nos décisions se fabriquent</title>
+				<link>http://localhost:1313/aller-plus-loin/comment-nos-decisions-se-fabriquent/</link>
+				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/comment-nos-decisions-se-fabriquent/</guid>
+				<description>On peut connaître les risques, avoir de l’expérience et disposer de bons outils, sans pour autant prendre la bonne décision.</description>
+			</item>
+			<item>
+				<title>3 - De l’expérience à l’apprentissage</title>
+				<link>http://localhost:1313/aller-plus-loin/de-l-experience-a-l-apprentissage/</link>
+				<pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/de-l-experience-a-l-apprentissage/</guid>
+				<description>Comment on progresse et comment on évite de reproduire indéfiniment les mêmes erreurs</description>
+			</item>
 			<item>
 				<title>Quelques outils</title>
 				<link>http://localhost:1313/aller-plus-loin/quelques-outils/</link>
@@ -23,25 +44,11 @@
 				<description>Quelques outils, pour les 4 étapes du Faire ensemble, de la préparation au débriefing</description>
 			</item>
 			<item>
-				<title>Foire aux questions</title>
-				<link>http://localhost:1313/aller-plus-loin/faq/</link>
-				<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/faq/</guid>
-				<description>On essaye de répondre à quelques questions. Vous en avez d&amp;rsquo;autres ?</description>
-			</item>
-			<item>
-				<title>La sécurité : une affaire de groupe</title>
-				<link>http://localhost:1313/aller-plus-loin/risque-groupe/</link>
-				<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/risque-groupe/</guid>
-				<description>Comment évoluent la sécurité et les risques en fonction de l’implication et de la coopération au sein du groupe ?</description>
-			</item>
-			<item>
-				<title>L&#39;outil indispensable</title>
-				<link>http://localhost:1313/aller-plus-loin/comprendre-son-cerveau/</link>
-				<pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/comprendre-son-cerveau/</guid>
-				<description>Quel est l&amp;rsquo;outil inspensable ? On essaye d&amp;rsquo;y voir un peu plus clair</description>
+				<title>Faire ensemble et Carto des vigilances : deux approches complémentaires</title>
+				<link>http://localhost:1313/aller-plus-loin/faire-ensemble-vs-csv/</link>
+				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/faire-ensemble-vs-csv/</guid>
+				<description></description>
 			</item>
 	</channel>
 </rss>

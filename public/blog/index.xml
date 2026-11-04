@@ -12,15 +12,22 @@
 			<copyright>&amp;copy; 2023-2026 Faire ensemble</copyright>
 		
 		
-			<lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Faire ensemble et Carto des vigilances : quelles différences ?</title>
-				<link>http://localhost:1313/blog/faire-ensemble-vs-csv/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/faire-ensemble-vs-csv/</guid>
-				<description></description>
+				<title>Gérer le risque ou cultiver la prudence ?</title>
+				<link>http://localhost:1313/blog/risque-et-prudence/</link>
+				<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/risque-et-prudence/</guid>
+				<description>Le risque zéro n’existe pas. Et alors ?</description>
+			</item>
+			<item>
+				<title>La sortie commence avant le départ</title>
+				<link>http://localhost:1313/blog/la-sortie-commence-avant-le-depart/</link>
+				<pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/la-sortie-commence-avant-le-depart/</guid>
+				<description>Comment je prépare une sortie avec le groupe, avant même de se retrouver.</description>
 			</item>
 	</channel>
 </rss>
