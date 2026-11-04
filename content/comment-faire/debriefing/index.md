@@ -54,7 +54,7 @@ Le débriefing est un temps d'apprentissage collectif, pas un tribunal.
 
 ## Garder une trace
 
-On a utilisé un document partagé pour préparer la sortie. On peut aussile compléter au retour, mais ce n'est pas obligatoire. On y retrouve alors le projet initial, les questions soulevées, les adaptations réalisées et les enseignements retenus.
+On a utilisé un document partagé pour préparer la sortie. On peut aussi le compléter au retour, mais ce n'est pas obligatoire. On y retrouve alors le projet initial, les questions soulevées, les adaptations réalisées et les enseignements retenus.
 
 Ce journal de sortie permet de conserver une trace de l'expérience et de retrouver les points utiles lors d'une prochaine préparation.
 

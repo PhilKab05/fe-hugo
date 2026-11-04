@@ -1,6 +1,6 @@
 ---
 title: Faire ensemble
-description: "Préparer, observer, décider et apprendre : faisons de la vigilance une affaire collective"
+description: "En montagne hivernale, Faire ensemble propose une démarche simple et adaptable, accessible à tous, pour donner une place à la vigilance collective, à travers quatre étapes qui accompagnent la sortie, de sa préparation au retour d’expérience. Préparer, observer, décider et apprendre : faisons de la vigilance une affaire collective"
 showRecent: true
 ---
 {{< lead >}}

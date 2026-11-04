@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/comment-faire/debriefing/index.md",
+                "file": "content/aller-plus-loin/faire-groupe/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,6 +190,8 @@
   },
   "active": "b565603a5bb010a0",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/comment-faire/debriefing/index.md",
     "content/comment-faire/pendant-la-course/index.md",
     "content/comment-faire/alignement-briefing/index.md",
     "content/comment-faire/preparation/index.md",
@@ -201,7 +203,6 @@
     "content/aller-plus-loin/_index.md",
     "content/aller-plus-loin/de-l-experience-a-l-apprentissage/index.md",
     "content/blog/la-sortie-commence-avant-le-depart/index.md",
-    "content/_index.md",
     "public/blog/la-sortie-commence-avant-le-depart/thumb-doc-partage_hu_a991d1de7cf44a68.jpg",
     "resources/_gen/images/blog/la-sortie-commence-avant-le-depart/thumb-doc-partage_hu_a991d1de7cf44a68.jpg",
     "public/blog/la-sortie-commence-avant-le-depart/thumb-doc-partage_hu_aa64a8c05f6052f7.jpg",
@@ -234,7 +235,6 @@
     "public/_index.md vieille version",
     "content/memento/index.md",
     "content/tags/advanced/_index.md",
-    "content/tags/_index.md",
-    "content/faq/index.md"
+    "content/tags/_index.md"
   ]
 }

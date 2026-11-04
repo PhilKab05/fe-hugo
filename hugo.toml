@@ -4,5 +4,7 @@ locale = "fr-FR"
 title = "Faire Ensemble"
 theme = "congo"
 
+enableRobotsTXT = true
+
 [security]
   allowContent = ['.*']

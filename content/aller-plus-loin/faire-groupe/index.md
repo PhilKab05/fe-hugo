@@ -11,7 +11,7 @@ En montagne, on parle souvent du leader, de son expérience, de ses compétences
 
 C’est normal : quelqu’un doit préparer la sortie, proposer un itinéraire, arbitrer et parfois décider de renoncer.
 
-Mais que font les autres ? Ils suivent juste le mouvement ? Ou bien ils contribuent-ils réellement à la vigilance et aux décisions du groupe ?
+Mais que font les autres ? Ils suivent juste le mouvement ? Ou bien ils contribuent réellement à la vigilance et aux décisions du groupe ?
 
 On ne cherche pas à priver le leader de tout rôle.  On cherche surtout à ne pas réduire le groupe à un leader + suiveurs.
 
@@ -56,9 +56,7 @@ La courbe de Bradley est un modèle souvent utilisé pour illustrer différentes
 
 Cette idée d'interdépendance (l'étape la plus aboutie) me paraît particulièrement intéressante pour la montagne.
 
-On ne veille pas seulement sur soi-même. On contribue aussi à la vigilance des autres. On peut signaler un changement, exprimer un doute, écouter une observation ou aider quelqu'un à prendre du recul.
-
-On passe ainsi d'une logique où chacun est s'occupe de sa propre sécurité (en suivant des consignes) à une logique où la sécurité devient largement une affaire collective[^2].
+On ne veille pas seulement sur soi-même. On contribue aussi à la vigilance des autres[^2]. 
 [^2]: Les modes de V.Bradley : *Réactif, dépendant*, c’est suivre le guide ou l’encadrant et respecter les consignes de sécurité (sécurité passive). *Indépendant* correspond à une pratique autonome de l’activité, et à une pratique responsable : compréhension des enjeux, prévention active des risques. *Interdépendant* c’est le niveau de la coopération, engagement collectif, vigilance collective... La sécurité devient une dynamique collective. Voir le Michelive (Tony Lamiche) ["Culture & plaisir dans un milieu à risques"](https://www.youtube.com/watch?v=UwSuTCxpU7M) du 23/11/2020 avec Bertrand Soulhol (président de Human Impact). 
 
 
