@@ -51,7 +51,7 @@ A la maison, pour plus de confort, on peut travailler sur l’ordi. Pour ma part
 - Pour les pentes, on peut aussi utiliser le test du baton ou une appli clinomètre sur mobile.
 
 - Pour l’observation et le dialogue, les yeux et les oreilles sont les meilleurs outils. Connaître {{< primary >}}Cristal{{< /primary >}} et ses 6 paramètres observables permet d’avoir en tête {{< primary >}}un référentiel simple pour les “paramètres neige”.{{< /primary >}} Et on essaye d’être attentif à ce qui change (fatigue, météo, neige, perturbations…).
-- Le fait d’avoir imaginé les modes de vigilance selon Cristal (détendu, méfiant, alerté) fait s’interroger lors des des changements de mode. En fonction des observations, on peut aussi constater que le mode prévu n’était pas le bon. On actualise.
+- Le fait d’avoir imaginé les modes de vigilance selon Cristal (détendu, méfiant, alerté) fait s’interroger lors des changements de mode. En fonction des observations, on peut aussi constater que le mode prévu n’était pas le bon. On actualise.
 
 - Lors des pauses, en début de descente, lors des points de décision prévu, lors d’un changement perçu ou d’une perturbation, {{< primary >}}on réfléchit : micro-briefing, échanges, prise de décision.{{< /primary >}} Sur les risques (DCMR nous aide à évaluer danger + conséquences) et sur les stratégies pour la suite (contournement du danger, mesures de réduction…). Là encore, Cristal et DCMR nous aident dans l’analyse et la prise de décision. Bien sûr, le cerveau reste l’outil principal en particulier pour détecter les pièges, les tunnels cognitifs, les biais décisionnels, les perturbations etc. Lors des prises de décision, on n’oublie jamais le renoncement dans le champ des possibles 😉
 

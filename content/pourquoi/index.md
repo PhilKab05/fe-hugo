@@ -4,6 +4,7 @@ description: La prudence ne se résume pas à évaluer les risques. Elle se cult
 date: 2025-12-06
 lastmod: 2026-08-21
 showDateUpdated: true
+showPagination: false
 ---
 {{< figure
     src="CNT-20ter.jpg"

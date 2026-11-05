@@ -1,8 +1,9 @@
 ---
-title: "Mentions légales"
+title: Mentions légales
 date: 2026-09-02
 draft: false
-description: "Mentions légales et informations réglementaires du site www.faire-ensemble.org."
+description: Mentions légales et informations réglementaires du site www.faire-ensemble.org.
+showPagination: false
 ---
 ## Édition du site
 Le site {{<primary>}}faire-ensemble.org{{</primary>}} est édité à titre personnel par Philippe Cabanal.
@@ -28,6 +29,6 @@ Ce site est conçu dans le respect de la vie privée de ses visiteurs :
 ## Espace de commentaires
 Les espaces de discussion et de commentaires présents sur le site sont gérés par le service GraphComment (Société Semiologic - Aix en Provence).
 
-La publication d'un commentaire ne nécessite pas d'enregistrement. En publiant un commentaire, vous acceptez le traitement de vos données (pseudonyme, adresse e-mail, commentaire) nécessaire au fonctionnement du service. Les données sont stockées en France).
+La publication d'un commentaire ne nécessite pas d'enregistrement. En publiant un commentaire, vous acceptez le traitement de vos données (pseudonyme, adresse e-mail, commentaire) nécessaire au fonctionnement du service. Les données sont stockées en France.
 
 Modération : L'éditeur se réserve le droit de supprimer tout commentaire contraire aux lois en vigueur (propos diffamatoires, injurieux, haineux ou spams) sans préavis.

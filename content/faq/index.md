@@ -5,6 +5,7 @@ lastmod: 2026-10-08
 showDateUpdated: true
 description: Foire aux questions
 summary: On essaye de répondre à quelques questions. Vous en avez d'autres ?
+showPagination: false
 ---
 ### Faire ensemble, une méthode de plus ?
 L’objectif n’est pas d’ajouter une méthode en plus (il y en a déjà beaucoup), mais de faire évoluer nos pratiques collectives : préparer ensemble, partager nos perceptions, exprimer nos doutes et apprendre de nos sorties.
@@ -13,7 +14,7 @@ Non. Le BERA, les cartes, les outils d’aide à la décision (Cristal, DCMR, M�
 ### Faut-il avoir des connaissances en nivologie pour participer ?
 Non, ce n'est pas obligatoire. Chacun peut partager ses observations, ses questions et ses doutes. 
 
-Les étapes et le choix des outils utilisés sont adaptées au groupe. Lors d'une sortie, on peut aussi décider d'utiliser un outil nouveau que les participants ne connaissent pas. 
+Les étapes et le choix des outils utilisés sont adaptés au groupe. Lors d'une sortie, on peut aussi décider d'utiliser un outil nouveau que les participants ne connaissent pas. 
 
 ### Qui décide, finalement, dans le groupe ?
 Le groupe contribue à la réflexion et à la décision. L'encadrant peut conserver un rôle de coordination ou d’arbitrage, selon le contexte, mais son rôle global est plus celui d'un accompagnant. Faire ensemble ne signifie ni décider systématiquement à l’unanimité, ni diluer les responsabilités.

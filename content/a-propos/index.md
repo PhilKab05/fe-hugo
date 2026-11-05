@@ -3,10 +3,11 @@ title: À propos
 date: 2026-09-03
 draft: false
 description: L'origine de la démarche et le projet.
+showPagination: false
 ---
 ## L’origine du projet
 
-Quand j’ai commencé le ski de rando, il y a près de 30 ans, les soirées « sécurité neige » de mon club étaient surtout consacrées à la neige : flocons, gobelets, métamorphoses... Je pensais qu’en comprenant mieux la neige un jour, je saurais sortir en sécurité.
+Quand j’ai commencé le ski de rando, il y a 30 ans, les soirées « sécurité neige » de mon club étaient surtout consacrées à la neige : flocons, gobelets, métamorphoses... Je pensais qu’en comprenant mieux la neige un jour, je saurais sortir en sécurité.
 
 Je suis curieux, j'ai cherché à apprendre et à me former. J’ai découvert les pièges heuristiques identifiés par Ian McCammon. Pas facile d'ajouter les facteurs humains dans la recette du ski de rando. 
 
@@ -60,7 +61,7 @@ Une question, une suggestion, un retour d’expérience ? Vous pouvez participer
 
 ## Qui porte le projet ?
 
-Je m’appelle Philippe. Je pratique le ski de rando (et l'alpinisme, escalade...) depuis près de 30 ans. Je me suis progressivement intéressé à la prévention et aux facteurs humains dans les décisions en montagne. Je suis bénévole en club de montagne (encadrant, formateur). Je ne suis pas un professionnel de la montagne et je n'ai rien à vendre.
+Je m’appelle Philippe. Je pratique le ski de rando (et l'alpinisme, escalade...) depuis longtemps, sans rechercher à faire d'exploits. Je me suis progressivement intéressé à la prévention et aux facteurs humains dans les décisions en montagne. Je suis bénévole en club de montagne (encadrant, formateur). Je ne suis pas un professionnel de la montagne et je n'ai rien à vendre.
 
 Je suis ingénieur de formation. J'ai travaillé dans plusieurs domaines : marketing produit, formation, développement, innovation, consulting... avec des préoccupations récurrentes : transmettre et coopérer. C'est un peu dans mon ADN.
 

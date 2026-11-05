@@ -4,18 +4,21 @@ description: "En montagne hivernale, Faire ensemble propose une démarche simple
 showRecent: true
 ---
 {{< lead >}}
-Préparer, observer, décider et apprendre : faisons de la prudence une affaire collective.
+La prudence se cultive ensemble.
 {{< /lead >}}
 
-En montagne, les connaissances techniques et les outils nous aident à comprendre les situations. Mais la prudence se construit aussi dans notre manière d’être attentifs, de partager nos perceptions, d’accueillir les doutes et de prendre des décisions ensemble.
+Préparer, observer, décider et apprendre : faisons de la prudence une affaire collective.
+
+En montagne, les connaissances techniques et les outils nous aident à comprendre les situations. Mais la vigilance se construit aussi dans notre manière de partager nos observations, d'accueillir les doutes et de questionner nos décisions.
 
 {{< alert "circle-info">}}
-Faire ensemble propose une démarche simple et adaptable, accessible à tous les participants d'une sortie, quels que soient leur niveau d'expérience et leurs connaissances des outils. Elle donne une place centrale à la vigilance collective, à travers quatre étapes qui accompagnent la sortie, de sa préparation au retour d’expérience.
-
-Faire ensemble n'est pas une méthode d'évaluation ou de gestion des risques. C'est une démarche pour cultiver la prudence et la vigilance collective.
+**Faire ensemble propose des pratiques simples et adaptables pour que chacun puisse contribuer à la vigilance du groupe**, quels que soient son expérience et sa connaissance des outils. La démarche accompagne les quatre temps d'une sortie : préparer ensemble, s'accorder avant le départ, copiloter sur le terrain et débriefer pour apprendre.
 {{< /alert >}}
 
-Pas besoin de maîtriser une méthode particulière pour commencer. Chacun peut contribuer par ce qu’il observe, ressent, questionne ou comprend de la situation.
+Faire ensemble n'est pas une méthode supplémentaire d'évaluation ou de gestion des risques. Les outils et les connaissances techniques restent indispensables, mais ils ne suffisent pas : la prudence se construit aussi dans les échanges et l'attention que nous nous portons collectivement.
+
+
+Pas besoin d'un outil particulier pour commencer. Chacun peut contribuer par ce qu'il observe, ressent ou questionne.
 
 {{< figure
     src="crachet.jpg"
