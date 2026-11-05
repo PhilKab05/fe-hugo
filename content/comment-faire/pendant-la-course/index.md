@@ -6,7 +6,7 @@ draft: false
 description: Pendant la sortie, chacun contribue à la vigilance du groupe.
 showDateUpdated: true
 summary: Pendant la sortie, chacun contribue à la vigilance du groupe.
-coverCaption: Là, on va rejoinde la piste forestière - On profite de la pause pour refaire un point
+coverCaption: Là, on va rejoindre la piste forestière - On profite de la pause pour refaire un point
 weight: 30
 ---
 {{<lead>}}Pendant la sortie, chacun contribue à la vigilance du groupe.{{</lead>}}
@@ -22,7 +22,8 @@ On porte attention à la neige et au terrain, mais aussi à la météo, à l'hor
 
 Un changement peut être évident : le brouillard arrive, une pente est plus raide que prévu, un participant est très fatigué. D'autres signaux sont plus discrets : le groupe avance moins vite, quelqu'un devient silencieux ou une personne exprime une hésitation.
 
-L'observation est parfois difficile. On peut être absorbé par l'effort, la concentration à tracer dans une pente plus raide, une conversation avec les copains ou la résolution d'un problème. Il est donc utile de se reconnecter régulièrement à la situation, notamment lors des pauses et aux passages clés.
+L'observation est parfois difficile. Les perturbations détournent notre attention[^2]. On peut être absorbé par l'effort, la concentration à tracer dans une pente plus raide, une conversation avec les copains ou la résolution d'un problème. Il est donc utile de se reconnecter régulièrement à la situation, notamment lors des pauses et aux passages clés.
+[^2]: Voir "notre attention nous joue parfois des tours" dans  [Aller plus loin - Comment nos décisions se fabriquent]({{< ref "aller-plus-loin/comment-nos-decisions-se-fabriquent/" >}}). Les perturbations peuvent parfois totalement capter notre attention et réduisent notre capacité à observer.
 
 Tout le monde peut contribuer. Il n'est pas nécessaire d'être expert en nivologie pour remarquer un changement, poser une question ou signaler un doute. Les compétences techniques restent essentielles pour analyser certaines observations ou situations, mais elles ne sont pas la seule ressource utile au groupe.
 

@@ -47,7 +47,7 @@ Il ne s’agit pas de juger, mais de tirer des enseignements de l’expérience,
 
 Faire ensemble ne demande pas de connaître au préalable des outils particuliers ou d'être un spécialiste. Une observation ou un doute peut être utile sans qu'on sache immédiatement l'expliquer.
 
-En revanche, la démarche repose sur l'implication de chacun. Participer à une sortie Faire ensemble, c’est accepter de prendre part à la préparation commune, de partager ses observations, d’écouter celles des autres et de rester ouvert à la remise en question du projet.
+En revanche, la démarche repose sur l'implication de chacun. Participer à une sortie Faire ensemble, c’est prendre part à la préparation commune, être disponible pour partager ses observations et pour’écouter celles des autres, et accepter que le projet puisse être remis en question. 
 
 
 ## Commencer avant de maîtriser les outils

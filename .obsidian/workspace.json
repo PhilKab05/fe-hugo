@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/aller-plus-loin/faire-groupe/index.md",
+                "file": "content/comment-faire/pendant-la-course/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,18 +190,21 @@
   },
   "active": "b565603a5bb010a0",
   "lastOpenFiles": [
-    "content/_index.md",
-    "content/comment-faire/debriefing/index.md",
-    "content/comment-faire/pendant-la-course/index.md",
-    "content/comment-faire/alignement-briefing/index.md",
-    "content/comment-faire/preparation/index.md",
-    "{{<.md",
-    "content/aller-plus-loin/comment-nos-decisions-se-fabriquent/index.md",
-    "content/decouvrir/_index.md",
-    "content/aller-plus-loin/faire-ensemble-vs-csv/index.md",
+    "content/a-propos/index.md",
     "content/aller-plus-loin/quelques-outils/index.md",
-    "content/aller-plus-loin/_index.md",
+    "content/pourquoi/index.md",
     "content/aller-plus-loin/de-l-experience-a-l-apprentissage/index.md",
+    "content/aller-plus-loin/comment-nos-decisions-se-fabriquent/index.md",
+    "content/aller-plus-loin/faire-groupe/index.md",
+    "content/comment-faire/pendant-la-course/index.md",
+    "content/_index.md",
+    "content/comment-faire/preparation/index.md",
+    "content/decouvrir/_index.md",
+    "content/comment-faire/debriefing/index.md",
+    "content/comment-faire/alignement-briefing/index.md",
+    "{{<.md",
+    "content/aller-plus-loin/faire-ensemble-vs-csv/index.md",
+    "content/aller-plus-loin/_index.md",
     "content/blog/la-sortie-commence-avant-le-depart/index.md",
     "public/blog/la-sortie-commence-avant-le-depart/thumb-doc-partage_hu_a991d1de7cf44a68.jpg",
     "resources/_gen/images/blog/la-sortie-commence-avant-le-depart/thumb-doc-partage_hu_a991d1de7cf44a68.jpg",
@@ -212,7 +215,6 @@
     "content/blog/la-sortie-commence-avant-le-depart/thumb-doc-partage.jpg",
     "public/aller-plus-loin/de-l-experience-a-l-apprentissage/index.md.old",
     "content/aller-plus-loin/de-l-experience-a-l-apprentissage/index.md.old",
-    "content/aller-plus-loin/faire-groupe/index.md",
     "content/blog/_index.md",
     "content/blog/risque-et-prudence/index.md",
     "public/aller-plus-loin/comment-nos-decisions-se-fabriquent/thumb-décision_hu_d11ac94d2348ec15.jpg",
@@ -224,7 +226,6 @@
     "public/aller-plus-loin/comment-nos-decisions-se-fabriquent/index.md.old",
     "public/aller-plus-loin/comment-nos-decisions-se-fabriquent",
     "content/aller-plus-loin/comment-nos-decisions-se-fabriquent/index.md.old2",
-    "content/pourquoi/index.md",
     "content/comment-faire/_index.md",
     "content/decouvrir/2026-tour-montagne-pellat/index.md",
     "content/decouvrir/2026-mourre-froid-queyras/index.md",
@@ -234,7 +235,6 @@
     "content/crachet.jpg.part",
     "public/_index.md vieille version",
     "content/memento/index.md",
-    "content/tags/advanced/_index.md",
-    "content/tags/_index.md"
+    "content/tags/advanced/_index.md"
   ]
 }

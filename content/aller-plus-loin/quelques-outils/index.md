@@ -18,14 +18,14 @@ L'important n'est pas d'utiliser le plus d'outils possible, mais de choisir ceux
 {{</lead>}}
 
 ## Pour préparer ensemble
-- {{< primary >}}La carte IGN SCAN25{{< /primary >}} en France et {{< primary >}}les pentes.{{< /primary >}} C’est fondamental pour préparer quelque chose. Pas de nivologie sans regarder les pentes. On trouve des équivalents pour l’Italie, la Suisse…
+- {{< primary >}}La carte IGN SCAN25{{< /primary >}} en France et {{< primary >}}les pentes.{{< /primary >}} C’est fondamental pour préparer quelque chose. L'analyse nivologique doit toujours tenir compte du terrain et des pentes de l'itinéraire. <br>On trouve des équivalents pour l’Italie, la Suisse…
 A la maison, pour plus de confort, on peut travailler sur l’ordi. Pour ma part, j’utilise VisuGPX.
 - Les traces hivernales (issues du projet Skitourenguru / fondation Petzl). A utiliser avec prudence
 
 - {{< primary >}}Pour la météo : Météo France, MétéoBlue ou d’autres sites.{{< /primary >}}
 - Pour les conditions neige : {{< primary >}}le BERA{{< /primary >}} sort vers 16h 16h30 sur le site Météo France. On peut trouver plein d’infos “neige” via Synthesis de Data-Avalanche (les avalanches, hauteurs de neige, etc). Pour apprendre à “décoder” le BERA : EvalBERA (ANENA), notices de lecture Météo France. L’important est de bien identifier le(s) problème(s) avalanche du jour et leur localisation.
 - D’autres info de “retour de course” sur Skitour, Camptocamp…
-- On peut {{< primary >}}utiliser les 6 paramètres Cristal pour synthétiser la situation{{< /primary >}} : par exemple : BERA 3 / pentes itinéraire 30° max / avalanches récentes / pas de redoux / surcharges (neige récente + vent) / couches fragiles persistantes indiquées dans le BERA. Dans ce cas on part avec 4 signaux allumés sur 6 🤔 
+- On peut {{< primary >}}utiliser les 6 paramètres Cristal pour synthétiser la situation{{< /primary >}} : par exemple : BERA 3 / pentes itinéraire 30° max / avalanches récentes / pas de redoux / surcharges (neige récente + vent) / couches fragiles persistantes indiquées dans le BERA. Dans cet exemple, on peut s'interroger 🤔 
   C'est une manière pertinente qui allie le décodage du BERA, lié avec le terrain.
 
 - {{< primary >}}Pour “qualifier” une idée de course{{< /primary >}} (itinéraire adapté aux conditions ?), on peut utiliser les {{< primary >}}méthodes de réduction{{< /primary >}} MRE, MRD ou des outils numériques comme Yéti ou Skitourenguru. A utiliser avec prudence !  Les méthodes de réduction ne tiennent pas compte des subtilités du BERA. {{< primary >}}

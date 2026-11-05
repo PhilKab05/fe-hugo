@@ -1,4 +1,5 @@
 {
   "showInlineTitle": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "newFileLocation": "current"
 }

@@ -79,7 +79,7 @@ Le débriefing n'est ni un tribunal ni une recherche systématique d'erreurs. Il
 
 On doit pouvoir distinguer les faits, les perceptions et les interprétations. Les points de vue peuvent diverger. Il n'est pas toujours possible de trouver une explication unique ou une leçon à retenir.
 
-Et surtout, il ne faut pas forcer l'apprentissage. Parfois, on ne sait pas vraiment ce qu'on aurait pu faire autrement. Reconnaître cette incertitude fait aussi partie du job.
+Et surtout, il ne faut pas forcer l'apprentissage. Parfois, on ne sait pas vraiment ce qu'on aurait pu faire autrement. Reconnaître cette incertitude fait aussi partie de l'apprentissage.
 
 ## Les outils et les connaissances : attention à l'illusion de maîtrise
 
@@ -89,7 +89,7 @@ On apprend à utiliser un outil comme Skitourenguru, on consulte plusieurs sourc
 
 Un outil ne répond qu'à certaines questions. Il ne remplace ni l'observation du terrain, ni l'interprétation des conditions, ni l'expérience, ni les échanges dans le groupe.
 
-Des travaux sur l'illusion de connaissance montrent d'ailleurs qu'accumuler de l'information peut parfois augmenter notre confiance sans améliorer notre capacité à prévoir ou à comprendre une situation. C'est d'autant plus vrai avec les outils numériques avec lesquels on a tendance à la sur-confiance.
+Des travaux sur l'illusion de connaissance montrent d'ailleurs qu'accumuler de l'information peut parfois augmenter notre confiance sans améliorer notre capacité à prévoir ou à comprendre une situation. Ce phénomène mérite une attention particulière avec les outils numériques, qui peuvent donner une impression de précision parfois trompeuse. 
 
 Il existe aussi des limites à notre capacité à évaluer nos propres compétences. Les travaux de Kruger et Dunning (1999) ont notamment montré que les personnes les moins performantes dans un domaine peuvent avoir du mal à reconnaître leurs propres lacunes. Il faut toutefois éviter de réduire ces travaux à la fameuse courbe simplifiée qu'on voit circuler partout : leur portée est plus nuancée.
 

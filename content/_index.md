@@ -6,12 +6,13 @@ showRecent: true
 {{< lead >}}
 Préparer, observer, décider et apprendre : faisons de la prudence une affaire collective.
 {{< /lead >}}
-{{< alert "circle-info">}}
+
 En montagne, les connaissances techniques et les outils nous aident à comprendre les situations. Mais la prudence se construit aussi dans notre manière d’être attentifs, de partager nos perceptions, d’accueillir les doutes et de prendre des décisions ensemble.
 
-Faire ensemble propose une démarche simple et adaptable, accessible à tous, pour donner une place à la vigilance collective, à travers quatre étapes qui accompagnent la sortie, de sa préparation au retour d’expérience.
+{{< alert "circle-info">}}
+Faire ensemble propose une démarche simple et adaptable, accessible à tous les participants d'une sortie, quels que soient leur niveau d'expérience et leurs connaissances des outils. Elle donne une place centrale à la vigilance collective, à travers quatre étapes qui accompagnent la sortie, de sa préparation au retour d’expérience.
 
-Faire ensemble n’est pas une méthode de gestion des risques mais plutôt une approche pour cultiver la prudence.
+Faire ensemble n'est pas une méthode d'évaluation ou de gestion des risques. C'est une démarche pour cultiver la prudence et la vigilance collective.
 {{< /alert >}}
 
 Pas besoin de maîtriser une méthode particulière pour commencer. Chacun peut contribuer par ce qu’il observe, ressent, questionne ou comprend de la situation.

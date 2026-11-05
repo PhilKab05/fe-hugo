@@ -27,7 +27,7 @@ Je voulais une démarche accessible à des groupes hétérogènes, souvent const
 
 Une observation, une question, une impression, ou parfois un simple doute ont leur place dans les échanges. L’enjeu est de permettre à chacun de contribuer, d’écouter les autres et de participer à une réflexion commune. 
 
-Ca ne signifie pas que les compétences techniques sont secondaires, mais ont peut les apprendre de manière très progressive. 
+Ca ne signifie pas que les compétences techniques sont secondaires, mais ont peut les acquérir de manière très progressive. 
 
 {{< alert "circle-info">}}
 Faire ensemble est ainsi une démarche issue de mon expérience de terrain : une façon de mettre la vigilance collective au cœur de la sortie, en donnant toute leur place aux comportements, aux échanges et à l’apprentissage.
@@ -43,7 +43,7 @@ Le site s’adresse à différents publics :
 
 - aux participants qui souhaitent comprendre la démarche et disposer d’un mode d’emploi ;
 - aux groupes d’amis et aux encadrants bénévoles qui souhaitent l’expérimenter ou l’adapter à leurs sorties ;
-- aux professionnels et aux personnes intéressées par les facteurs humains, la prévention et les pratiques de la montagne hivernale ;
+- aux personnes intéressées par les facteurs humains, la prévention et les pratiques de la montagne hivernale ;
 - plus largement, à toutes celles et ceux qui s’interrogent sur nos façons de décider, individuellement et collectivement, dans des situations incertaines.
 
 Faire ensemble n’est pas une méthode figée. Le site est aussi un espace pour partager les expériences, confronter les idées et documenter ce qui mérite d’être exploré.

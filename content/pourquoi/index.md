@@ -47,6 +47,8 @@ Cette capacité se développe avec l'expérience, mais aussi en prenant le temps
 Faire ensemble propose des pratiques simples pour préparer les sorties, partager les perceptions, discuter les décisions et apprendre de l'expérience.
 
 La démarche ne supprime pas les risques et ne garantit pas que les décisions seront toujours bonnes[^1]. Elle cherche à créer les conditions pour que chacun puisse contribuer à la vigilance du groupe, et que le groupe puisse continuer à apprendre.
-[^1]: Dans la pratique, on s'aperçoit que beaucoup d'accidents ou d'incidents se produisent non pas parce qu'on a pris une mauvaise décision, mais le plus souvent parce qu'on n'a pris aucune décision.
+[^1]: Dans certaines situations, le problème n'est pas l'absence d'information, mais le fait de ne pas réexaminer un projet alors que des signaux devraient nous conduire à le questionner.
 
-**La prudence ne se décrète pas : elle se travaille, se partage et se cultive, sortie après sortie.**
+{{<lead>}}
+La prudence ne se décrète pas : elle se travaille, se partage et se cultive, sortie après sortie.
+{{</lead>}}

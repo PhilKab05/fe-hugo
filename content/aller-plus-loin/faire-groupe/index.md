@@ -46,7 +46,7 @@ Cela ne veut pas dire que tout le monde doit décider de tout, ni que toutes les
 
 En revanche, chacun doit pouvoir contribuer à la compréhension de la situation.
 
-Le rôle du leader évolue alors un peu : il n'est pas seulement là pour proposer, pour passer devant et pour arbitrer, mais aussi pour solliciter les avis, pour faciliter les échanges et pour accueillir les désaccords. Ca devient un rôle d'accompagnant ou de coach.
+Le rôle du leader évolue alors un peu : il ne se limite pas à proposer, conduire et arbitrer. Il facilite aussi les échanges, sollicite les avis et accueille les désaccords. Il reste responsable, mais il n'est plus le seul à contribuer à la vigilance.
 
 Ce n'est pas simple... Proclamer qu'on est ouvert aux remarques ne suffit pas. Encore faut-il que les doutes soient réellement entendus et qu'ils puissent, si nécessaire, faire évoluer le projet. Et le leader doit être suffisamment ouvert pour accepter le challenge et les contradictions éventuelles !
 
@@ -74,7 +74,7 @@ Les modèles de préférences comportementales, comme DISC et ses déclinaisons 
 [^3]: : Voir par exemple le [Blog profil 4 colors](https://blog.profil4colors.com/fr/blog/methode-4colors/methode-4colors-les-composantes-de-notre-personnalite.html)
 
 {{<lead>}}
-L'idée n'est pas de mettre les gens dans des cases. C'est surtout de ne pas supposer que tout le monde observe, communique ou contribue de la même façon.
+En bref, l'idée n'est pas de mettre les gens dans des cases ! C'est surtout de ne pas supposer que tout le monde observe, communique ou contribue de la même façon.
 {{</lead>}}
 ## Ce que cela change dans Faire ensemble
 

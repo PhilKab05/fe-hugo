@@ -123,7 +123,7 @@ Confronter les perceptions, expliciter les interprétations, accepter les désac
 
 C'est un des propos de Faire ensemble : préparer ensemble, se mettre d'accord avant de partir, co-piloter sur le terrain et débriefer après la sortie. Ces pratiques créent des occasions de partager ce qu'on observe, de questionner ce qu'on comprend et de prendre du recul sur ce qui influence nos choix.
 
-Le groupe ne remplace pas le leader/encadrant pour décider. Et on ne recherche pas systématiquement le consensus. Maison cherche à ne pas laisser une seule perception, une seule interprétation ou une seule préoccupation orienter toute la réflexion.
+Le groupe ne remplace pas le leader/encadrant pour décider. Et on ne recherche pas systématiquement le consensus. Mais on cherche à ne pas laisser une seule perception, une seule interprétation ou une seule préoccupation orienter toute la réflexion.
 
 ## Cultiver sa vigilance, sans perdre le plaisir
 
