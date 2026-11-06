@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/pourquoi/index.md",
+                "file": "content/blog/la-sortie-commence-avant-le-depart/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,21 +190,21 @@
   },
   "active": "b565603a5bb010a0",
   "lastOpenFiles": [
+    "content/aller-plus-loin/quelques-outils/index.md",
+    "content/a-propos/index.md",
+    "content/pourquoi/index.md",
     "content/decouvrir/_index.md",
     "content/_index.md",
     "content/blog/_index.md",
     "content/blog/la-sortie-commence-avant-le-depart/index.md",
     "content/memento/index.md",
     "content/mentions-legales/index.md",
-    "content/a-propos/index.md",
     "content/faq/index.md",
-    "content/pourquoi/index.md",
     "layouts/partials/home/custom.html",
     "layouts/partials/home",
     "layouts/partials/comments.html",
     "layouts/partials/analytics.html",
     "layouts/partials",
-    "content/aller-plus-loin/quelques-outils/index.md",
     "content/aller-plus-loin/faire-ensemble-vs-csv/index.md",
     "content/comment-faire/pendant-la-course/index.md",
     "content/aller-plus-loin/de-l-experience-a-l-apprentissage/index.md",

@@ -33,9 +33,9 @@ Le plus souvent, l'annonce de sortie propose une destination[^2]. Elle inclut le
 Une fois les inscriptions faites et les participants connus, j’envoie à tous le lien vers l’espace de préparation partagé[^3], environ 24 à 48h avant le départ.
 [^3]: Hier, on faisait ça avec un groupe WhatsApp, mais la chronologie des échanges empêche le regroupement des contributions par thème. On a essayé plusieurs outils. On utilise aujourd'hui un doc partagé accessible en ligne.
 
-J’y rassemble les premières informations : lieu et heure de départ, itinéraire envisagé, météo, BERA... Peu d'outils au début. La préparation commence donc la veille de la sortie vers 16h30[^3].
+J’y rassemble les premières informations : lieu et heure de départ, itinéraire envisagé, météo, BERA... Peu d'outils au début. La préparation commence donc la veille de la sortie vers 16h30[^4].
 J’indique aussi les questions que je me pose et les points sur lesquels j’aimerais avoir des avis.
-[^3]: On a commencé à préparer plus tôt, mais sans le BERA qui sort vers 16h, on tourne un peu en rond et on perd notre temps.
+[^4]: On a commencé à préparer plus tôt, mais sans le BERA qui sort vers 16h, on tourne un peu en rond et on perd notre temps.
 
 Je ne cherche pas à fournir un "dossier" parfait. Je propose une base de travail que chacun peut consulter et compléter.
 
@@ -59,8 +59,8 @@ Le matin, nous faisons le point sur la situation réelle : conditions, état de 
 
 ## Pas besoin d’une usine à gaz
 
-Pour commencer, un simple document partagé peut suffire[^4]. Ce qui compte, ce n’est pas l’outil, mais la façon dont je m’en sers : donner un cadre, faciliter les contributions, en tenir compte et garder du temps pour échanger ensemble.
-[^4]: On a essayé Etherpad, puis un doc partagé plus classique. Google doc est un peu complexe (le menu est très/trop riche). On utilise actuellement Proton doc. Dans le doc, j'ai inclus un mini mode d'emploi : chacun sa couleur de texte pour reconnaître les contributions. Même les moins aguerris avec les outils numériques s'en sortent très bien !
+Pour commencer, un simple document partagé peut suffire[^5]. Ce qui compte, ce n’est pas l’outil, mais la façon dont je m’en sers : donner un cadre, faciliter les contributions, en tenir compte et garder du temps pour échanger ensemble.
+[^5]: On a essayé Etherpad, puis un doc partagé plus classique. Google doc manque de simplicité (le menu est très/trop riche). On utilise actuellement Proton doc. Dans le doc, j'ai inclus un mini mode d'emploi : chacun sa couleur de texte pour reconnaître les contributions. Même les moins aguerris avec les outils numériques s'en sortent très bien !
 
 Je ne cherche pas à faire décider tout le monde de tout, ni à transférer au groupe mes responsabilités d’encadrant. Je veux éviter que la préparation reste l’affaire d’une seule personne alors que la sortie sera vécue par tout le monde.
 

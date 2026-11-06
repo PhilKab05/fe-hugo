@@ -20,7 +20,7 @@ Puis Paulo Grobel a proposé la Carto des vigilances. J’ai immédiatement adh�
 
 En 2021, j’ai encadré ma première sortie club avec la Carto des vigilances. Le contexte post-Covid nous a conduits à préparer la sortie à distance, avec un groupe très hétérogène en matière de nivologie.
 
-Au fil des sorties, j’ai adapté la démarche à ces groupes et à leurs contraintes. Trois éléments se sont progressivement imposés comme essentiels : {{< primary>}}la dimension collective, quelques rituels partagés et l’attention portée aux comportements.{{< /primary>}}
+Au fil des sorties, j’ai adapté la démarche à ces groupes et à leurs contraintes. Trois éléments se sont progressivement imposés comme essentiels : **la dimension collective, quelques rituels partagés et l’attention portée aux comportements.**
 
 C’est de cette expérience qu’est né Faire ensemble.
 
@@ -61,7 +61,7 @@ Une question, une suggestion, un retour d’expérience ? Vous pouvez participer
 
 ## Qui porte le projet ?
 
-Je m’appelle Philippe. Je pratique le ski de rando (et l'alpinisme, escalade...) depuis longtemps, sans rechercher à faire d'exploits. Je me suis progressivement intéressé à la prévention et aux facteurs humains dans les décisions en montagne. Je suis bénévole en club de montagne (encadrant, formateur). Je ne suis pas un professionnel de la montagne et je n'ai rien à vendre.
+Je m’appelle Philippe. Je pratique le ski de rando (et l'alpinisme, escalade...) depuis longtemps, sans rechercher aucun exploit. Je me suis progressivement intéressé à la prévention et aux facteurs humains dans les décisions en montagne. Je suis bénévole en club de montagne (encadrant, formateur). Je ne suis pas un professionnel de la montagne et je n'ai rien à vendre.
 
 Je suis ingénieur de formation. J'ai travaillé dans plusieurs domaines : marketing produit, formation, développement, innovation, consulting... avec des préoccupations récurrentes : transmettre et coopérer. C'est un peu dans mon ADN.
 

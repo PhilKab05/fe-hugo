@@ -23,9 +23,9 @@ A la maison, pour plus de confort, on peut travailler sur l’ordi. Pour ma part
 - Les traces hivernales (issues du projet Skitourenguru / fondation Petzl). A utiliser avec prudence
 
 - {{< primary >}}Pour la météo : Météo France, MétéoBlue ou d’autres sites.{{< /primary >}}
-- Pour les conditions neige : {{< primary >}}le BERA{{< /primary >}} sort vers 16h 16h30 sur le site Météo France. On peut trouver plein d’infos “neige” via Synthesis de Data-Avalanche (les avalanches, hauteurs de neige, etc). Pour apprendre à “décoder” le BERA : EvalBERA (ANENA), notices de lecture Météo France. L’important est de bien identifier le(s) problème(s) avalanche du jour et leur localisation.
+- Pour les conditions neige : le [BERA](https://meteofrance.com/meteo-montagne/alpes-du-sud/risques-avalanche) sort vers 16h 16h30 sur le site Météo France. On peut trouver plein d’infos “neige” via Synthesis de Data-Avalanche (les avalanches, hauteurs de neige, etc). Pour apprendre à “décoder” le BERA : EvalBERA (ANENA), notices de lecture Météo France. L’important est de bien identifier le(s) problème(s) avalanche du jour et leur localisation.
 - D’autres info de “retour de course” sur Skitour, Camptocamp…
-- On peut {{< primary >}}utiliser les 6 paramètres Cristal pour synthétiser la situation{{< /primary >}} : par exemple : BERA 3 / pentes itinéraire 30° max / avalanches récentes / pas de redoux / surcharges (neige récente + vent) / couches fragiles persistantes indiquées dans le BERA. Dans cet exemple, on peut s'interroger 🤔 
+- On peut utiliser les 6 paramètres [Cristal](https://www.data-avalanche.org/cristal) pour synthétiser la situation : par exemple : BERA 3 / pentes itinéraire 30° max / avalanches récentes / pas de redoux / surcharges (neige récente + vent) / couches fragiles persistantes indiquées dans le BERA. Dans cet exemple, on peut s'interroger 🤔 
   C'est une manière pertinente qui allie le décodage du BERA, lié avec le terrain.
 
 - {{< primary >}}Pour “qualifier” une idée de course{{< /primary >}} (itinéraire adapté aux conditions ?), on peut utiliser les {{< primary >}}méthodes de réduction{{< /primary >}} MRE, MRD ou des outils numériques comme Yéti ou Skitourenguru. A utiliser avec prudence !  Les méthodes de réduction ne tiennent pas compte des subtilités du BERA. {{< primary >}}
