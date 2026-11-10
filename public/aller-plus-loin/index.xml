@@ -16,30 +16,37 @@
 		
 			<atom:link href="http://localhost:1313/aller-plus-loin/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>1 - Faire groupe : la vigilance se construit ensemble</title>
-				<link>http://localhost:1313/aller-plus-loin/faire-groupe/</link>
-				<pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/faire-groupe/</guid>
-				<description>Un groupe compétent n’est pas forcément  vigilant</description>
+				<title>Apprendre à décider en montagne</title>
+				<link>http://localhost:1313/aller-plus-loin/apprendre-a-decider-en-montagne/</link>
+				<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/apprendre-a-decider-en-montagne/</guid>
+				<description>Décider, c&amp;rsquo;est avant tout construire une compréhension de la situation pour adapter nos actions.</description>
 			</item>
 			<item>
-				<title>2 - Comment nos décisions se fabriquent</title>
+				<title>3/3 - De l’expérience à l’apprentissage</title>
+				<link>http://localhost:1313/aller-plus-loin/de-l-experience-a-l-apprentissage/</link>
+				<pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/de-l-experience-a-l-apprentissage/</guid>
+				<description>Comment on progresse et comment on évite de reproduire indéfiniment les mêmes erreurs</description>
+			</item>
+			<item>
+				<title>2/3 - Comment nos décisions se fabriquent</title>
 				<link>http://localhost:1313/aller-plus-loin/comment-nos-decisions-se-fabriquent/</link>
 				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/aller-plus-loin/comment-nos-decisions-se-fabriquent/</guid>
 				<description>On peut connaître les risques, avoir de l’expérience et disposer de bons outils, sans pour autant prendre la bonne décision.</description>
 			</item>
 			<item>
-				<title>3 - De l’expérience à l’apprentissage</title>
-				<link>http://localhost:1313/aller-plus-loin/de-l-experience-a-l-apprentissage/</link>
-				<pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/de-l-experience-a-l-apprentissage/</guid>
-				<description>Comment on progresse et comment on évite de reproduire indéfiniment les mêmes erreurs</description>
+				<title>1/3 - Faire groupe : la vigilance se construit ensemble</title>
+				<link>http://localhost:1313/aller-plus-loin/faire-groupe/</link>
+				<pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aller-plus-loin/faire-groupe/</guid>
+				<description>Un groupe compétent n’est pas forcément  vigilant</description>
 			</item>
 			<item>
 				<title>Quelques outils</title>
 				<link>http://localhost:1313/aller-plus-loin/quelques-outils/</link>
-				<pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+				<pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/aller-plus-loin/quelques-outils/</guid>
 				<description>Quelques outils, pour les 4 étapes du Faire ensemble, de la préparation au débriefing</description>
 			</item>

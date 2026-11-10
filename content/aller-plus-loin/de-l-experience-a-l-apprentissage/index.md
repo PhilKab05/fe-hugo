@@ -1,11 +1,11 @@
 ---
-title: 3 - De l’expérience à l’apprentissage
-date: 2026-04-11
+title: 3/3 - De l’expérience à l’apprentissage
+date: 2026-09-27
 lastmod: 2026-10-27
 showDateUpdated: true
 description: "De l'expérience à l'apprentissage : comment on progresse et comment on évite de reproduire indéfiniment les mêmes erreurs"
 summary: Comment on progresse et comment on évite de reproduire indéfiniment les mêmes erreurs
-weight: 30
+weight:
 ---
 On apprend en pratiquant la montagne. Mais est-ce qu'on apprend automatiquement de chaque sortie ?
 

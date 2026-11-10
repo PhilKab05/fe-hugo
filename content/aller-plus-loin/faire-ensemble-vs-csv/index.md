@@ -5,7 +5,7 @@ draft: false
 description: "Faire ensemble et Carto des vigilances : deux approches complémentaires"
 tags:
 showDateUpdated: true
-weight: 50
+weight:
 lastmod: 2026-10-11
 ---
 La Cartographie des vigilances(CSV[^1] ) et Faire ensemble partagent une conviction : la prudence en montagne ne repose pas uniquement sur les connaissances techniques. Nos comportements et notre manière de décider comptent aussi.

@@ -5,7 +5,7 @@ draft: false
 description: La sortie commence avant le départ
 tags:
 showDateUpdated: true
-weight: 20
+weight:
 summary: Comment je prépare une sortie avec le groupe, avant même de se retrouver.
 ---
 {{<lead>}}

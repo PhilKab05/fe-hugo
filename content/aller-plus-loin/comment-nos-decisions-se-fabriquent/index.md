@@ -1,12 +1,12 @@
 ---
-title: 2 - Comment nos décisions se fabriquent
+title: 2/3 - Comment nos décisions se fabriquent
 date: 2026-08-11
 lastmod: 2026-10-18
 showDateUpdated: true
 description: On peut connaître les risques, avoir de l’expérience et disposer de bons outils, sans pour autant prendre la bonne décision.
 summary: On peut connaître les risques, avoir de l’expérience et disposer de bons outils, sans pour autant prendre la bonne décision.
 tags:
-weight: 20
+weight:
 ---
 {{<lead>}}
 Ce qui influence notre regard et notre jugement, parfois à notre insu.

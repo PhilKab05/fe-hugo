@@ -1,11 +1,11 @@
 ---
-title: "1 - Faire groupe : la vigilance se construit ensemble"
+title: "1/3 - Faire groupe : la vigilance se construit ensemble"
 date: 2025-12-11
 lastmod: 2026-10-08
 showDateUpdated: true
 description: Un groupe compétent n’est pas forcément  vigilant
 summary: Un groupe compétent n’est pas forcément  vigilant
-weight: 10
+weight:
 ---
 En montagne, on parle souvent du leader, de son expérience, de ses compétences et de sa capacité à prendre les bonnes décisions.
 

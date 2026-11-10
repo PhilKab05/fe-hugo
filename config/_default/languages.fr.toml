@@ -9,8 +9,8 @@ copyright = "&copy; 2023-2026 Faire ensemble"
 [params]
   dateFormat = "2 January 2006"
 # Sources des articles de la une
-  mainSections = ["blog"]
-  description = "Description du Faire ensemble"
+  mainSections = ["blog", "aller-plus-loin"]
+  description = "Faire ensemble propose des pratiques simples pour que chacun puisse contribuer à la vigilance du groupe, quels que soient son expérience et sa connaissance des outils. La démarche accompagne les quatre temps d’une sortie montagne hivernale : préparer ensemble, s’accorder avant le départ, copiloter sur le terrain et débriefer pour apprendre."
 
 [params.author]
   name = "Philippe Cabanal"

@@ -1,11 +1,11 @@
 ---
 title: Quelques outils
-date: 2023-02-03
+date: 2025-02-03
 lastmod: 2026-01-28
 showDateUpdated: true
 description: Quelques outils, pour les 4 étapes du Faire ensemble, de la préparation au débriefing
 summary: Quelques outils, pour les 4 étapes du Faire ensemble, de la préparation au débriefing
-weight: 40
+weight:
 ---
 Faire ensemble s'appuie d'abord sur quelques pratiques collectives : préparer ensemble, s'accorder avant de partir, rester attentifs sur le terrain et apprendre de l'expérience.
 

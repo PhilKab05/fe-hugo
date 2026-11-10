@@ -4,6 +4,7 @@ date: 2026-09-02
 draft: false
 description: Mentions légales et informations réglementaires du site www.faire-ensemble.org.
 showPagination: false
+showComments: false
 ---
 ## Édition du site
 Le site {{<primary>}}faire-ensemble.org{{</primary>}} est édité à titre personnel par Philippe Cabanal.
