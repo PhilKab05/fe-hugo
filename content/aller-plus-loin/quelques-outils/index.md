@@ -45,7 +45,7 @@ A la maison, pour plus de confort, on peut travailler sur l’ordi. Pour ma part
 
 - On peut aussi décider de rester à la maison…
 ## Pour le briefing du départ
-- Pas vraiment besoin d’outils particuliers. Chacun s’exprime sur sa forme. On précise l’objectif, éventuellement quelques règles, test DVAs et c’est parti. Le briefing, {{< primary >}}c’est 100% papotage.{{< /primary >}}
+- Pas vraiment besoin d’outils particuliers. Chacun s’exprime sur sa forme. On précise l’objectif, éventuellement quelques règles, test DVAs et c’est parti. 
 ## Sur le terrain
 - {{< primary >}}La carte + les pentes + la localisation, c’est indispensable.{{< /primary >}} Chacun utilise son appli mobile préférée (AlpineQuest, CartoExplorer ou autre). On peut avoir préalablement enregistré une trace, des repères (passages clé, points de décision…) mais quand on a vu ça en préparation, on a ça en tête. Sur le terrain, il suffit de consulter son appli pour connaître les pentes environnantes.
 - Pour les pentes, on peut aussi utiliser le test du baton ou une appli clinomètre sur mobile.
