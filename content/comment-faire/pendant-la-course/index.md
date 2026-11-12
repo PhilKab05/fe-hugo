@@ -56,7 +56,8 @@ L'intérêt du co-pilotage n'est pas de garantir la meilleure décision. C'est d
 
 ## Expérimenter et partager les rôles
 
-Lorsque les conditions, les compétences et la sécurité le permettent, chacun peut expérimenter certains rôles : faire la trace et/ou passer devant, contribuer à faire le point, proposer/animer un point d'étape ou pourquoi pas conduire une prise de décision. 
+Lorsque les conditions, les compétences et la sécurité le permettent[^3], chacun peut expérimenter certains rôles : faire la trace et/ou passer devant, contribuer à faire le point, proposer/animer un point d'étape ou pourquoi pas conduire une prise de décision. 
+[^3]: Le fonctionnement du groupe peut être modulé : Des conditions favorables permettent les expérimentations, les changements de rôles et autorisent un fonctionnement souple. A l'inverse, un niveau de vigilance accrue conduit à plus de rigueur, à une communication plus structurée et explicite, à la mise en oeuvre stricte de consignes. 
 
 Le leader/encadrant ne se limite pas à conduire le groupe, toujours devant. Il facilite la participation et la circulation des rôles, tout en conservant les responsabilités qui lui incombent.
 

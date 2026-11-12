@@ -7,6 +7,7 @@ tags:
 showDateUpdated: true
 weight:
 summary: Le risque zéro n’existe pas. Et alors ?
+new: true
 ---
 {{<lead>}}Le risque zéro n’existe pas. Et alors ?{{</lead>}}
 

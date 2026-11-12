@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "showComments": "checkbox",
-    "new": "checkbox"
+    "new": "checkbox",
+    "favori": "checkbox"
   }
 }

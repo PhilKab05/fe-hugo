@@ -7,6 +7,7 @@ description: On peut connaître les risques, avoir de l’expérience et dispose
 summary: On peut connaître les risques, avoir de l’expérience et disposer de bons outils, sans pour autant prendre la bonne décision.
 tags:
 weight:
+favori: true
 ---
 {{<lead>}}
 Ce qui influence notre regard et notre jugement, parfois à notre insu.

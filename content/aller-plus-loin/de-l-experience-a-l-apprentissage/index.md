@@ -6,6 +6,7 @@ showDateUpdated: true
 description: "De l'expérience à l'apprentissage : comment on progresse et comment on évite de reproduire indéfiniment les mêmes erreurs"
 summary: Comment on progresse et comment on évite de reproduire indéfiniment les mêmes erreurs
 weight:
+favori: true
 ---
 On apprend en pratiquant la montagne. Mais est-ce qu'on apprend automatiquement de chaque sortie ?
 

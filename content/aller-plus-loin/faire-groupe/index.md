@@ -6,6 +6,7 @@ showDateUpdated: true
 description: Un groupe compétent n’est pas forcément  vigilant
 summary: Un groupe compétent n’est pas forcément  vigilant
 weight:
+favori: true
 ---
 En montagne, on parle souvent du leader, de son expérience, de ses compétences et de sa capacité à prendre les bonnes décisions.
 

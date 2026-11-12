@@ -7,7 +7,7 @@ description: Décider, c'est avant tout construire une compréhension de la situ
 summary: Décider, c'est avant tout construire une compréhension de la situation pour adapter nos actions.
 weight:
 draft: false
-badge_new: true
+new: true
 ---
 En montagne hivernale, quand on parle de décision, on pense souvent aux grands choix : partir ou rester à la maison, poursuivre ou faire demi-tour, traverser une pente ou modifier son itinéraire.
 
