@@ -18,13 +18,13 @@ Peut-être. Mais comment le savoir sans regarder ce qui s’est passé ?
 
 ## Le risque, une fatalité ?
 
-En montagne, on entend souvent que le risque zéro n’existe pas. C’est vrai. Mais cette évidence sert aussi à justifier qu’on accepte de prendre des risques et qu'on ne peut pas faire autrement[^2].
-[^2]: C'est sans doute mon côté rationnel, mais j'ai du mal à comprendre cette posture "fataliste" face au risques liés à la montagne. On n'accepterait pas de prendre l'avion ou une intervention chirurgicale si le maximum n'était pas fait pour la sécurité, en particulier vis à vis de l'erreur humaine. En montagne, le rapport au risque reste très variable et élastique, entre fatalité, acceptation rationnelle et glorification.
+En montagne, on entend souvent que le risque zéro n’existe pas. C’est vrai. Mais cette évidence sert aussi à justifier qu’on accepte de prendre des risques et qu'on ne peut pas faire autrement[^1].
+[^1]: C'est sans doute mon côté rationnel, mais j'ai du mal à comprendre cette posture "fataliste" face au risques liés à la montagne. On n'accepterait pas de prendre l'avion ou une intervention chirurgicale si le maximum n'était pas fait pour la sécurité, en particulier vis à vis de l'erreur humaine. En montagne, le rapport au risque reste très variable et élastique, entre fatalité, acceptation rationnelle et glorification.
 
 À l’inverse, on valorise parfois l’engagement, l’exposition, la difficulté, l’éloignement. Comme si prendre des risques était une preuve de courage ou d’expérience.
 
-Dans leur article sur la culture du risque en montagne[^1], Blaise Agresti et Erik Decamp interrogent cette valorisation du risque et la difficulté à tirer collectivement les leçons des accidents. 
-[^1]: Cet article m'a interpellé. Il appelle à tirer des leçons des accidents et à revisiter la prudence. L'article est disponible avec de nombreux commentaires sur le [forum camptocamp](https://forum.camptocamp.org/t/tribune-de-blaise-agresti-et-erik-decamp/361710)
+Dans leur article sur la culture du risque en montagne[^2], Blaise Agresti et Erik Decamp interrogent cette valorisation du risque et la difficulté à tirer collectivement les leçons des accidents. 
+[^2]: Cet article m'a interpellé. Il appelle à tirer des leçons des accidents et à revisiter la prudence. L'article est disponible avec de nombreux commentaires sur le [forum camptocamp](https://forum.camptocamp.org/t/tribune-de-blaise-agresti-et-erik-decamp/361710)
 
 On peut très bien connaître les dangers, savoir les évaluer, et choisir quand même de s’y exposer. Pourquoi ? Pour atteindre un objectif, pour vivre une expérience, pour l'adrénaline que ça procure, parce qu’on se croit capable de gérer la situation. Ou parce qu’on n’a pas envie de renoncer.
 
@@ -34,8 +34,8 @@ Ce n’est pas toujours un problème de connaissance.
 
 On consulte le BERA, on prépare l’itinéraire, on analyse le terrain, on évalue les risques avec des outils, on prévoit des alternatives... C’est indispensable. Mais est-ce suffisant ?
 
-Les travaux de Maud Vanpoulle sur l’accidentologie des sports de montagne[^2] apportent un éclairage intéressant. Son étude de retours d’expérience et son enquête auprès de pratiquants montrent que le danger est souvent perçu, au moins en partie, avant même qu’on s’y engage. Ses recherches soulignent aussi le rôle des biais de décision, des perturbations de la vigilance et des problèmes de communication.
-[^2]: Voir la thèse de Maud Vanpoulle [Accidentologie des sports de montagne : combiner les approches quantitatives et qualitatives pour définir des axes de prévention](https://petzl.my.salesforce.com/sfc/p/20000000HrHq/a/680000004SNp/P0PJgYvUrcb.tWBpb5zlnQbfDdZUMpNOhUtuRtXTfFU) et une analyse parue dans Montagnes Magazine [Accidentologie : une première analyse pour le ski de randonnée](https://www.montagnes-magazine.com/actus-accidentologie-premiere-analyse-ski-randonnee)
+Les travaux de Maud Vanpoulle sur l’accidentologie des sports de montagne[^3] apportent un éclairage intéressant. Son étude de retours d’expérience et son enquête auprès de pratiquants montrent que le danger est souvent perçu, au moins en partie, avant même qu’on s’y engage. Ses recherches soulignent aussi le rôle des biais de décision, des perturbations de la vigilance et des problèmes de communication.
+[^3]: Voir la thèse de Maud Vanpoulle [Accidentologie des sports de montagne : combiner les approches quantitatives et qualitatives pour définir des axes de prévention](https://petzl.my.salesforce.com/sfc/p/20000000HrHq/a/680000004SNp/P0PJgYvUrcb.tWBpb5zlnQbfDdZUMpNOhUtuRtXTfFU) et une analyse parue dans Montagnes Magazine [Accidentologie : une première analyse pour le ski de randonnée](https://www.montagnes-magazine.com/actus-accidentologie-premiere-analyse-ski-randonnee)
 
 Autrement dit, on peut savoir qu’il y a un danger et continuer quand même. On peut avoir les bonnes informations et une bonne analyse, et pourtant mal décider. On peut aussi se faire piéger sur un terrain familier, réputé facile.
 
