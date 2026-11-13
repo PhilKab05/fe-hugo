@@ -47,7 +47,7 @@ En montagne, cela signifie qu'une sortie ne devient pas automatiquement une exp�
 
 Cette réflexion peut porter sur les choix d'itinéraire, mais aussi sur notre attention, nos réactions, nos échanges ou le fonctionnement du groupe. On peut apprendre d'une situation qui s'est bien passée, d'une hésitation, d'un désaccord ou d'une décision qui aurait pu avoir d'autres conséquences.
 
-On retrouve une logique proche dans le cycle PDCA de Deming, utilisé dans les démarches d'amélioration continue[²] :
+On retrouve une logique proche dans le cycle PDCA de Deming, utilisé dans les démarches d'amélioration continue[^2] :
 [^2]: C'est la fameuse roue de Deming, largement mise en avant dans la Carto des Vigilances de Paulo Grobel.
 
 - **Plan** : préparer et anticiper une action.    
@@ -60,7 +60,7 @@ Les deux approches ne décrivent pas exactement la même chose. Kolb s'intéress
 
 Cette logique rejoint les quatre étapes de Faire ensemble : préparer ensemble, se mettre d'accord avant de partir, co-piloter sur le terrain, puis débriefer et apprendre.
 
-Le débriefing ne constitue donc pas une simple conclusion à la sortie. Il prépare aussi les suivantes. Ce qu'on a compris peut modifier notre manière de préparer, les questions qu'on se pose ou la façon dont on fonctionne en groupe.
+Le débriefing n'est donc pas une simple conclusion à la sortie. Il prépare aussi les suivantes. Ce qu'on a compris peut modifier notre manière de préparer,  au travers des questions qu'on se pose ou la façon dont on fonctionne en groupe.
 
 ## Le débriefing : transformer l'expérience en apprentissage
 
@@ -76,11 +76,11 @@ Quelques questions peuvent aider :
 - Qu'aimerions-nous faire différemment lors d'une prochaine sortie ?
 
 
-Le débriefing n'est ni un tribunal ni une recherche systématique d'erreurs. Il ne s'agit pas non plus de reconstruire après coup une histoire dans laquelle tout aurait dû être évident.
+Le débriefing n'est ni un tribunal ni une recherche d'erreurs "à tout prix". Il ne s'agit pas non plus de reconstruire après coup une histoire dans laquelle tout aurait dû être évident.
 
-On doit pouvoir distinguer les faits, les perceptions et les interprétations. Les points de vue peuvent diverger. Il n'est pas toujours possible de trouver une explication unique ou une leçon à retenir.
+On doit pouvoir distinguer les faits, les perceptions et les interprétations. Les points de vue peuvent diverger. Il n'est pas toujours possible de trouver une explication unique ou d'en tirer une leçon.
 
-Et surtout, il ne faut pas forcer l'apprentissage. Parfois, on ne sait pas vraiment ce qu'on aurait pu faire autrement. Reconnaître cette incertitude fait aussi partie de l'apprentissage.
+Et surtout, il ne faut pas "forcer" l'apprentissage. Parfois, on ne sait pas vraiment ce qu'on aurait pu faire autrement. Reconnaître cette incertitude fait aussi partie de l'apprentissage.
 
 ## Les outils et les connaissances : attention à l'illusion de maîtrise
 
