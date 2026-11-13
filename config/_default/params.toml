@@ -7,7 +7,7 @@
 # ou trouver les nouvelles publications
 mainSections = ["pourquoi","blog"]
 
-colorScheme = "ocean"
+colorScheme = "humain"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
