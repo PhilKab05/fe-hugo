@@ -22,7 +22,7 @@ fingerprintAlgorithm = "sha256"
 
 
 [header]
-  layout = "basic" # valid options: basic, hamburger, hybrid, custom
+  layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
   logo = "img/logo-fe3.png"
   # logoDark = "img/logo-dark.jpg"
   showTitle = true
