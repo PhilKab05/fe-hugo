@@ -4,13 +4,21 @@
 
 <style>
 .hugo-cadre {
-  background: var(--entry, #f8f9fa);
-  border: 1px solid var(--border, #e9ecef);
-/*  border-left: 4px solid var(--primary, #0066cc); */
+  /* Mode clair : fond neutral-100 sur fond neutral-50 */
+  background-color: rgb(var(--color-neutral-100, 242, 240, 235));
+  border: 1px solid rgb(var(--color-neutral-300, 204, 199, 189));
   border-radius: 6px;
   padding: 1.25rem;
-  margin: 1.5rem 0;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+/* Mode sombre : fond plus clair (neutral-700) et bordure visible (neutral-500) */
+.dark .hugo-cadre {
+  background-color: rgb(var(--color-neutral-700, 68, 64, 57));
+  border-color: rgb(var(--color-neutral-500, 119, 113, 103));
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 .hugo-cadre p:first-child {

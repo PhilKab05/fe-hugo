@@ -46,9 +46,14 @@
 
 
 [[footer]]
-   name = "A propos"
-   pageRef = "a-propos"
+   name = "Témoignages"
+   pageRef = "temoignages"
    weight = 10
+
+[[footer]]
+   name = "FAQ"
+   pageRef = "faq"
+   weight = 8
 
 [[footer]]
    name = "FAQ"

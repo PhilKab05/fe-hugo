@@ -3,7 +3,7 @@ title: Le mémento
 date: 2025-02-02
 lastmod: 2026-10-22
 draft: false
-description: Le mémento du Faire ensemble
+description: Le mémento du Faire ensemble en ski de randonnée
 tags:
 showDateUpdated: true
 weight: 10

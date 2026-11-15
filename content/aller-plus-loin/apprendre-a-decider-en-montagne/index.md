@@ -8,6 +8,7 @@ summary: Décider, c'est avant tout construire une compréhension de la situatio
 weight:
 draft: false
 new: true
+coverCaption: Pointe Marguareis - On rejoint le pied du couloir et on fera le point.
 ---
 En montagne hivernale, quand on parle de décision, on pense souvent aux grands choix : partir ou rester à la maison, poursuivre ou faire demi-tour, traverser une pente ou modifier son itinéraire.
 

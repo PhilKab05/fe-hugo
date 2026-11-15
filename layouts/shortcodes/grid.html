@@ -11,17 +11,29 @@
 }
 
 .hugo-grid > div {
-  background: var(--entry, #f8f9fa);
-  border: 1px solid var(--border, #e9ecef);
+  /* Mode clair : fond neutral-100 et bordure neutral-300 */
+  background-color: rgb(var(--color-neutral-100, 242, 240, 235));
+  border: 1px solid rgb(var(--color-neutral-300, 204, 199, 189));
   border-radius: 8px;
   padding: 1.25rem;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Mode sombre : fond plus clair (neutral-700) et bordure visible (neutral-500) */
+.dark .hugo-grid > div {
+  background-color: rgb(var(--color-neutral-700, 68, 64, 57));
+  border-color: rgb(var(--color-neutral-500, 119, 113, 103));
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 .hugo-grid > div:hover {
   transform: translateY(-3px);
-  box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.dark .hugo-grid > div:hover {
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
 }
 
 .hugo-grid h3 {

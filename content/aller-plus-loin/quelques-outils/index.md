@@ -7,6 +7,7 @@ description: Quelques outils, pour les 4 étapes du Faire ensemble, de la prépa
 summary: Quelques outils, pour les 4 étapes du Faire ensemble, de la préparation au débriefing
 weight:
 favori: true
+coverCaption: Une nouvelle méthode de réduction des risques ? 🤣
 ---
 Faire ensemble s'appuie d'abord sur quelques pratiques collectives : préparer ensemble, s'accorder avant de partir, rester attentifs sur le terrain et apprendre de l'expérience.
 

@@ -7,6 +7,7 @@ tags:
 showDateUpdated: true
 weight:
 lastmod: 2026-10-11
+summary:
 ---
 La Cartographie des vigilances(CSV[^1] ) et Faire ensemble partagent une conviction : la prudence en montagne ne repose pas uniquement sur les connaissances techniques. Nos comportements et notre manière de décider comptent aussi.
 [^1]: Voir le site [csv-news.com](https://csv-news.com) de Paulo Grobel
@@ -21,9 +22,11 @@ La CSV s’organise autour d’une représentation graphique co-construite de la
 
 Dans mes pratiques de la CSV, cette représentation demande un travail d’analyse et mobilise des connaissances techniques, notamment en nivologie pour les sorties hivernales.
 
-Faire ensemble ne demande pas de maîtriser au préalable la nivologie, la carto ou un outil particulier. Une personne débutante peut participer pleinement en partageant une observation, une impression ou un doute.
+Faire ensemble ne demande pas de maîtriser au préalable la nivologie, la carto ou un outil particulier. Une personne débutante peut participer pleinement en partageant une observation, une impression ou un doute. 
 
 Cela ne signifie pas que les compétences techniques sont secondaires. Elles restent indispensables à la pratique de la montagne. Mais elles ne sont pas un préalable à la participation à une démarche de vigilance collective.
+
+
 
 **Des pratiques collectives plutôt qu’une représentation graphique au coeur**
 
@@ -42,6 +45,8 @@ Faire ensemble n’est ni une version simplifiée de la CSV ni une méthode dest
 Les deux démarches peuvent se compléter. Un groupe peut utiliser la représentation graphique de la CSV tout en s’appuyant sur les pratiques de Faire ensemble pour favoriser les échanges, accueillir les doutes et apprendre de l’expérience.
 
 Mon choix n’est pas de renoncer aux outils. C’est de ne pas faire d’un outil la condition pour commencer à apprendre à décider ensemble.
+
+Paulo Grobel positionne la CSV comme une démarche de gestion des risques. Faire ensemble mets plus l'accent sur le fonctionnement du groupe et sur les mécanismes humains d'observation, de compréhension et de décision.
 
 {{<primary>}}
 La question n’est pas seulement de savoir comment mieux représenter le projet , mais aussi comment donner aux vigilances une place réelle dans les décisions du groupe.

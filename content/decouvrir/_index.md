@@ -1,9 +1,9 @@
 ---
 title: Découvrir Faire ensemble
-description: Une autre manière de vivre la vigilance en montagne
+description: "Ski de randonnée : une autre manière de vivre la vigilance en montagne"
 showComments: true
 ---
-Une sortie en montagne demande de choisir une destination, de préparer un itinéraire, d’évaluer les conditions, de prendre des décisions et de s’adapter. Le plus souvent, et en particulier dans un club de montagne, c'est l'encadrant qui propose et fait tout ça[^1]. 
+Une sortie en ski de randonnée demande de choisir une destination, de préparer un itinéraire, d’évaluer les conditions, de prendre des décisions et de s’adapter. Le plus souvent, et en particulier dans un club de montagne, c'est l'encadrant qui propose et fait tout ça[^1]. 
 [^1]: Faire ensemble est adapté aux sorties des clubs de montagne, mais aussi aux sorties entre copains et dans plein d'autres contexte. On en reparlera.
 
 Faire ensemble propose de donner davantage de place à ce que le groupe peut construire : **partager les observations, confronter les perceptions, exprimer les doutes et réfléchir ensemble aux décisions.**

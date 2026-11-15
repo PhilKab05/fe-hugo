@@ -1,6 +1,6 @@
 ---
 title: Faire ensemble
-description: "En montagne hivernale, Faire ensemble propose une démarche simple et adaptable, accessible à tous, pour donner une place à la vigilance collective, à travers quatre étapes qui accompagnent la sortie, de sa préparation au retour d’expérience. Préparer, observer, décider et apprendre : faisons de la vigilance une affaire collective"
+description: "En montagne hivernale, et en particulier en ski de randonnée, Faire ensemble propose une démarche simple et adaptable, accessible à tous, pour donner une place à la vigilance collective, à travers quatre étapes qui accompagnent la sortie, de sa préparation au retour d’expérience. Préparer, observer, décider et apprendre : faisons de la vigilance une affaire collective"
 showRecent: true
 ---
 {{< lead >}}
@@ -44,7 +44,7 @@ Quelques repères communs, des modalités souples, et une conviction : chacun pe
 
 [Découvrir]({{< ref "decouvrir" >}}) - Pour voir ce que cette démarche change concrètement dans la préparation, la vie du groupe et les décisions sur le terrain.
 
-[Comment faire ?]({{< ref "comment-faire" >}}) - Pour découvrir et mettre en oeuvre les quatre étapes et les pratiques proposées. On entre dans le vif du sujet. 
+[Comment faire ?]({{< ref "comment-faire" >}}) - Pour mettre en oeuvre les quatre étapes et les pratiques proposées.  
 
 {{< button href="memento" target="_self" >}}
 Je télécharge le memento

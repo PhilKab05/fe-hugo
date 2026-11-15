@@ -5,7 +5,7 @@ draft: false
 description: "Une sortie ne s'arrête pas au retour : prendre le temps d'en parler permet de mieux comprendre ce que nous avons vécu et de préparer les sortie suivantes."
 showDateUpdated: true
 summary: Au retour, prendre le temps d'en parler permet de mieux comprendre ce qu'on a vécu et de préparer les sorties suivantes.
-coverCaption: Au retour de Côte Belle
+coverCaption: Au retour de Côte Belle. "Merci de m'avoir attendue...", "Ah, c'est ça le Faire ensemble 😀"
 weight: 40
 lastmod: 2026-10-20
 ---

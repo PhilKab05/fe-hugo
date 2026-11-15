@@ -7,7 +7,7 @@ description: Foire aux questions
 summary: On essaye de répondre à quelques questions. Vous en avez d'autres ?
 showPagination: false
 ---
-### Faire ensemble, une méthode de plus ?
+### Faire ensemble, une méthode de plus pour le ski de rando ?
 L’objectif n’est pas d’ajouter une méthode en plus (il y en a déjà beaucoup), mais de faire évoluer nos pratiques collectives : préparer ensemble, partager nos perceptions, exprimer nos doutes et apprendre de nos sorties.
 ### Est-ce que cela remplace les outils d’analyse du risque ?
 Non. Le BERA, les cartes, les outils d’aide à la décision (Cristal, DCMR, Méthodes de Réduction...) et les connaissances techniques restent indispensables. Faire ensemble s’intéresse à la manière dont on les utilise et dont on décide collectivement.
@@ -34,6 +34,9 @@ Pour l’encadrant du groupe, ça change aussi un peu les choses. Il faut être 
 Orchestrer le fonctionnement du groupe devient plus important que tout organiser et tout décider. 
 ### C’est quoi la différence avec la Carto des vigilances ? 
 Voir l'article [Faire ensemble et Carto des vigilances]({{< ref "aller-plus-loin/faire-ensemble-vs-csv" >}})
+
+### Faire ensemble, ça ne marche que pour le ski de rando ?
+Non, l'approche fonctionne également pour d'autres activités montagne, comme par exemple l'alpinisme. La mise en oeuvre décrite ici concerne surtout le ski de randonnée, avec les dangers liés aux avalanches. 
 
 
 Vous avez d'autres questions sans réponse ? N’hésitez pas à laisser un petit message.

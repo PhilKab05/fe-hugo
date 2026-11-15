@@ -21,7 +21,7 @@ Chacun peut dire comment il arrive à cette sortie : forme physique, fatigue, st
 
 Cela peut être très simple : « Je suis en forme », « J'ai mal dormi », « Je suis un peu inquiet pour le passage clé » ou, si on préfère, une note sur cinq « 5 sur 5 pour moi ».
 
-Personne n'est obligé de dévoiler sa vie personnelle. L'objectif est de donner au groupe les informations qu'on souhaite partager et qui peuvent compter pour la sortie.
+Personne n'est obligé de dévoiler sa vie personnelle. L'objectif est de donner au groupe les informations qu'on souhaite partager et qui peuvent compter pour la sortie. Par exemples un tracas ou une contrainte horaire.
 
 Un participant qui ne se sent pas tout à fait en forme peut ainsi le dire dès le départ, plutôt que d'attendre que la difficulté apparaisse sur le terrain.
 

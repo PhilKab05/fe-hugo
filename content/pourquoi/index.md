@@ -1,6 +1,6 @@
 ---
 title: Pourquoi Faire ensemble ?
-description: La prudence ne se résume pas à évaluer les risques. Elle se cultive, individuellement et collectivement.
+description: En ski de randonnée, la prudence ne se résume pas à évaluer les risques. Elle se cultive, individuellement et collectivement.
 date: 2025-12-06
 lastmod: 2026-08-21
 showDateUpdated: true
@@ -15,7 +15,7 @@ showPagination: false
 La prudence ne se résume pas à évaluer les risques. Elle se cultive, individuellement et collectivement.
 {{< /lead >}}
 
-En montagne, nous apprenons à lire le terrain, à comprendre la neige, à anticiper la météo et à utiliser des outils d'aide à la décision. Ces connaissances sont indispensables. Mais elles ne suffisent pas à elles seules.
+En ski de rando, nous apprenons à lire le terrain, à comprendre la neige, à anticiper la météo et à utiliser des outils d'aide à la décision. Ces connaissances sont indispensables. Mais elles ne suffisent pas à elles seules.
 
 Il faut aussi savoir rester attentif à ce qui change, reconnaître les limites de notre jugement, écouter ce que les autres perçoivent et accepter de remettre en question un projet.
 
