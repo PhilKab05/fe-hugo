@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Aller plus loin on Faire ensemble</title>
-		<link>http://localhost:1313/aller-plus-loin/</link>
+		<link>https://www.faire-ensemble.org/aller-plus-loin/</link>
 		<description>Recent content in Aller plus loin on Faire ensemble</description>
 		<generator>Hugo</generator>
 		<language>fr-FR</language>
@@ -14,47 +14,47 @@
 		
 			<lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/aller-plus-loin/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.faire-ensemble.org/aller-plus-loin/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Apprendre à décider en montagne</title>
-				<link>http://localhost:1313/aller-plus-loin/apprendre-a-decider-en-montagne/</link>
+				<link>https://www.faire-ensemble.org/aller-plus-loin/apprendre-a-decider-en-montagne/</link>
 				<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/apprendre-a-decider-en-montagne/</guid>
+				<guid>https://www.faire-ensemble.org/aller-plus-loin/apprendre-a-decider-en-montagne/</guid>
 				<description>Décider, c&amp;rsquo;est avant tout construire une compréhension de la situation pour adapter nos actions.</description>
 			</item>
 			<item>
 				<title>3/3 - De l’expérience à l’apprentissage</title>
-				<link>http://localhost:1313/aller-plus-loin/de-l-experience-a-l-apprentissage/</link>
+				<link>https://www.faire-ensemble.org/aller-plus-loin/de-l-experience-a-l-apprentissage/</link>
 				<pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/de-l-experience-a-l-apprentissage/</guid>
+				<guid>https://www.faire-ensemble.org/aller-plus-loin/de-l-experience-a-l-apprentissage/</guid>
 				<description>Comment on progresse et comment on évite de reproduire indéfiniment les mêmes erreurs</description>
 			</item>
 			<item>
 				<title>2/3 - Comment nos décisions se fabriquent</title>
-				<link>http://localhost:1313/aller-plus-loin/comment-nos-decisions-se-fabriquent/</link>
+				<link>https://www.faire-ensemble.org/aller-plus-loin/comment-nos-decisions-se-fabriquent/</link>
 				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/comment-nos-decisions-se-fabriquent/</guid>
+				<guid>https://www.faire-ensemble.org/aller-plus-loin/comment-nos-decisions-se-fabriquent/</guid>
 				<description>On peut connaître les risques, avoir de l’expérience et disposer de bons outils, sans pour autant prendre la bonne décision.</description>
 			</item>
 			<item>
 				<title>1/3 - Faire groupe : la vigilance se construit ensemble</title>
-				<link>http://localhost:1313/aller-plus-loin/faire-groupe/</link>
+				<link>https://www.faire-ensemble.org/aller-plus-loin/faire-groupe/</link>
 				<pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/faire-groupe/</guid>
+				<guid>https://www.faire-ensemble.org/aller-plus-loin/faire-groupe/</guid>
 				<description>Un groupe compétent n’est pas forcément  vigilant</description>
 			</item>
 			<item>
 				<title>Quelques outils</title>
-				<link>http://localhost:1313/aller-plus-loin/quelques-outils/</link>
+				<link>https://www.faire-ensemble.org/aller-plus-loin/quelques-outils/</link>
 				<pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/quelques-outils/</guid>
+				<guid>https://www.faire-ensemble.org/aller-plus-loin/quelques-outils/</guid>
 				<description>Quelques outils, pour les 4 étapes du Faire ensemble, de la préparation au débriefing</description>
 			</item>
 			<item>
 				<title>Faire ensemble et Carto des vigilances : deux approches complémentaires</title>
-				<link>http://localhost:1313/aller-plus-loin/faire-ensemble-vs-csv/</link>
+				<link>https://www.faire-ensemble.org/aller-plus-loin/faire-ensemble-vs-csv/</link>
 				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/faire-ensemble-vs-csv/</guid>
+				<guid>https://www.faire-ensemble.org/aller-plus-loin/faire-ensemble-vs-csv/</guid>
 				<description></description>
 			</item>
 	</channel>
