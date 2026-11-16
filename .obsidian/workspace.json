@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/faq/index.md",
+                "file": "content/aller-plus-loin/quelques-outils/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,6 +190,7 @@
   },
   "active": "b565603a5bb010a0",
   "lastOpenFiles": [
+    "content/faq/index.md",
     "content/pourquoi/index.md",
     "content/memento/index.md",
     "content/decouvrir/_index.md",
