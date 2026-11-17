@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Faire ensemble</title>
-		<link>http://localhost:1313/</link>
+		<link>https://www.faire-ensemble.org/</link>
 		<description>Recent content on Faire ensemble</description>
 		<generator>Hugo</generator>
 		<language>fr-FR</language>
@@ -14,180 +14,180 @@
 		
 			<lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.faire-ensemble.org/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Cime de la Charvie, traversée Prafauchier - Lasseron</title>
-				<link>http://localhost:1313/decouvrir/2025-charvie/</link>
+				<link>https://www.faire-ensemble.org/decouvrir/2025-charvie/</link>
 				<pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/decouvrir/2025-charvie/</guid>
+				<guid>https://www.faire-ensemble.org/decouvrir/2025-charvie/</guid>
 				<description>Une boucle un peu longue : il faut tenir le rythme</description>
 			</item>
 			<item>
 				<title>Le mémento</title>
-				<link>http://localhost:1313/memento/</link>
+				<link>https://www.faire-ensemble.org/memento/</link>
 				<pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/memento/</guid>
+				<guid>https://www.faire-ensemble.org/memento/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Préparer ensemble</title>
-				<link>http://localhost:1313/comment-faire/preparation/</link>
+				<link>https://www.faire-ensemble.org/comment-faire/preparation/</link>
 				<pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/comment-faire/preparation/</guid>
+				<guid>https://www.faire-ensemble.org/comment-faire/preparation/</guid>
 				<description>La veille : construire un projet commun et se préparer à l&amp;rsquo;adapter.</description>
 			</item>
 			<item>
 				<title>S&#39;accorder avant de partir</title>
-				<link>http://localhost:1313/comment-faire/alignement-briefing/</link>
+				<link>https://www.faire-ensemble.org/comment-faire/alignement-briefing/</link>
 				<pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/comment-faire/alignement-briefing/</guid>
+				<guid>https://www.faire-ensemble.org/comment-faire/alignement-briefing/</guid>
 				<description>Prenons quelques minutes pour nous accorder sur le projet et sur l&amp;rsquo;état du groupe.</description>
 			</item>
 			<item>
 				<title>Tricotage autour du Piolit</title>
-				<link>http://localhost:1313/decouvrir/2021-piolit/</link>
+				<link>https://www.faire-ensemble.org/decouvrir/2021-piolit/</link>
 				<pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/decouvrir/2021-piolit/</guid>
+				<guid>https://www.faire-ensemble.org/decouvrir/2021-piolit/</guid>
 				<description>Première sortie CAF Embrun avec la Carto des vigilances :grinning_face_with_big_eyes:</description>
 			</item>
 			<item>
 				<title>Crête de la Plate d&#39;Arvieux et Mourre Froid du Queyras</title>
-				<link>http://localhost:1313/decouvrir/2026-validation-initie-caf/</link>
+				<link>https://www.faire-ensemble.org/decouvrir/2026-validation-initie-caf/</link>
 				<pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/decouvrir/2026-validation-initie-caf/</guid>
+				<guid>https://www.faire-ensemble.org/decouvrir/2026-validation-initie-caf/</guid>
 				<description>Faire ensemble, le cadre idéal pour un week-end de formation</description>
 			</item>
 			<item>
 				<title>Tour du pic du Cros</title>
-				<link>http://localhost:1313/decouvrir/2025-tour-pic-du-cros/</link>
+				<link>https://www.faire-ensemble.org/decouvrir/2025-tour-pic-du-cros/</link>
 				<pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/decouvrir/2025-tour-pic-du-cros/</guid>
+				<guid>https://www.faire-ensemble.org/decouvrir/2025-tour-pic-du-cros/</guid>
 				<description>C&amp;rsquo;est instructif de comparer le prévu et le vécu</description>
 			</item>
 			<item>
 				<title>Copiloter</title>
-				<link>http://localhost:1313/comment-faire/pendant-la-course/</link>
+				<link>https://www.faire-ensemble.org/comment-faire/pendant-la-course/</link>
 				<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/comment-faire/pendant-la-course/</guid>
+				<guid>https://www.faire-ensemble.org/comment-faire/pendant-la-course/</guid>
 				<description>Pendant la sortie, chacun contribue à la vigilance du groupe.</description>
 			</item>
 			<item>
 				<title>Tête de la Moulinière et arêtes de la Bruyère</title>
-				<link>http://localhost:1313/decouvrir/2026-alpi/</link>
+				<link>https://www.faire-ensemble.org/decouvrir/2026-alpi/</link>
 				<pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/decouvrir/2026-alpi/</guid>
+				<guid>https://www.faire-ensemble.org/decouvrir/2026-alpi/</guid>
 				<description>Faire ensemble, ça marche aussi pour les courses d&amp;rsquo;alpinisme :thumbs_up:</description>
 			</item>
 			<item>
 				<title>Débriefer et apprendre</title>
-				<link>http://localhost:1313/comment-faire/debriefing/</link>
+				<link>https://www.faire-ensemble.org/comment-faire/debriefing/</link>
 				<pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/comment-faire/debriefing/</guid>
+				<guid>https://www.faire-ensemble.org/comment-faire/debriefing/</guid>
 				<description>Au retour, prendre le temps d&amp;rsquo;en parler permet de mieux comprendre ce qu&amp;rsquo;on a vécu et de préparer les sorties suivantes.</description>
 			</item>
 			<item>
 				<title>Tour de la montagne Pellat</title>
-				<link>http://localhost:1313/decouvrir/2026-tour-montagne-pellat/</link>
+				<link>https://www.faire-ensemble.org/decouvrir/2026-tour-montagne-pellat/</link>
 				<pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/decouvrir/2026-tour-montagne-pellat/</guid>
+				<guid>https://www.faire-ensemble.org/decouvrir/2026-tour-montagne-pellat/</guid>
 				<description>Tout le monde peut passer devant et s&amp;rsquo;essayer à la trace</description>
 			</item>
 			<item>
 				<title>Témoignages</title>
-				<link>http://localhost:1313/temoignages/</link>
+				<link>https://www.faire-ensemble.org/temoignages/</link>
 				<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/temoignages/</guid>
+				<guid>https://www.faire-ensemble.org/temoignages/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Apprendre à décider en montagne</title>
-				<link>http://localhost:1313/aller-plus-loin/apprendre-a-decider-en-montagne/</link>
+				<link>https://www.faire-ensemble.org/aller-plus-loin/apprendre-a-decider-en-montagne/</link>
 				<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/apprendre-a-decider-en-montagne/</guid>
+				<guid>https://www.faire-ensemble.org/aller-plus-loin/apprendre-a-decider-en-montagne/</guid>
 				<description>Décider, c&amp;rsquo;est avant tout construire une compréhension de la situation pour adapter nos actions.</description>
 			</item>
 			<item>
 				<title>Gérer le risque ou cultiver la prudence ?</title>
-				<link>http://localhost:1313/blog/risque-et-prudence/</link>
+				<link>https://www.faire-ensemble.org/blog/risque-et-prudence/</link>
 				<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/risque-et-prudence/</guid>
+				<guid>https://www.faire-ensemble.org/blog/risque-et-prudence/</guid>
 				<description>Le risque zéro n’existe pas. Et alors ?</description>
 			</item>
 			<item>
 				<title>3/3 - De l’expérience à l’apprentissage</title>
-				<link>http://localhost:1313/aller-plus-loin/de-l-experience-a-l-apprentissage/</link>
+				<link>https://www.faire-ensemble.org/aller-plus-loin/de-l-experience-a-l-apprentissage/</link>
 				<pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/de-l-experience-a-l-apprentissage/</guid>
+				<guid>https://www.faire-ensemble.org/aller-plus-loin/de-l-experience-a-l-apprentissage/</guid>
 				<description>Comment on progresse et comment on évite de reproduire indéfiniment les mêmes erreurs</description>
 			</item>
 			<item>
 				<title>À propos</title>
-				<link>http://localhost:1313/a-propos/</link>
+				<link>https://www.faire-ensemble.org/a-propos/</link>
 				<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/a-propos/</guid>
+				<guid>https://www.faire-ensemble.org/a-propos/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Contact</title>
-				<link>http://localhost:1313/contact/</link>
+				<link>https://www.faire-ensemble.org/contact/</link>
 				<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/contact/</guid>
+				<guid>https://www.faire-ensemble.org/contact/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Mentions légales</title>
-				<link>http://localhost:1313/mentions-legales/</link>
+				<link>https://www.faire-ensemble.org/mentions-legales/</link>
 				<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/mentions-legales/</guid>
+				<guid>https://www.faire-ensemble.org/mentions-legales/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>2/3 - Comment nos décisions se fabriquent</title>
-				<link>http://localhost:1313/aller-plus-loin/comment-nos-decisions-se-fabriquent/</link>
+				<link>https://www.faire-ensemble.org/aller-plus-loin/comment-nos-decisions-se-fabriquent/</link>
 				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/comment-nos-decisions-se-fabriquent/</guid>
+				<guid>https://www.faire-ensemble.org/aller-plus-loin/comment-nos-decisions-se-fabriquent/</guid>
 				<description>On peut connaître les risques, avoir de l’expérience et disposer de bons outils, sans pour autant prendre la bonne décision.</description>
 			</item>
 			<item>
 				<title>La sortie commence avant le départ</title>
-				<link>http://localhost:1313/blog/la-sortie-commence-avant-le-depart/</link>
+				<link>https://www.faire-ensemble.org/blog/la-sortie-commence-avant-le-depart/</link>
 				<pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/la-sortie-commence-avant-le-depart/</guid>
+				<guid>https://www.faire-ensemble.org/blog/la-sortie-commence-avant-le-depart/</guid>
 				<description>Comment je prépare une sortie avec le groupe, avant même de se retrouver.</description>
 			</item>
 			<item>
 				<title>1/3 - Faire groupe : la vigilance se construit ensemble</title>
-				<link>http://localhost:1313/aller-plus-loin/faire-groupe/</link>
+				<link>https://www.faire-ensemble.org/aller-plus-loin/faire-groupe/</link>
 				<pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/faire-groupe/</guid>
+				<guid>https://www.faire-ensemble.org/aller-plus-loin/faire-groupe/</guid>
 				<description>Un groupe compétent n’est pas forcément  vigilant</description>
 			</item>
 			<item>
 				<title>Foire aux questions</title>
-				<link>http://localhost:1313/faq/</link>
+				<link>https://www.faire-ensemble.org/faq/</link>
 				<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/faq/</guid>
+				<guid>https://www.faire-ensemble.org/faq/</guid>
 				<description>On essaye de répondre à quelques questions. Vous en avez d&amp;rsquo;autres ?</description>
 			</item>
 			<item>
 				<title>Pourquoi Faire ensemble ?</title>
-				<link>http://localhost:1313/pourquoi/</link>
+				<link>https://www.faire-ensemble.org/pourquoi/</link>
 				<pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/pourquoi/</guid>
+				<guid>https://www.faire-ensemble.org/pourquoi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Quelques outils</title>
-				<link>http://localhost:1313/aller-plus-loin/quelques-outils/</link>
+				<link>https://www.faire-ensemble.org/aller-plus-loin/quelques-outils/</link>
 				<pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/quelques-outils/</guid>
+				<guid>https://www.faire-ensemble.org/aller-plus-loin/quelques-outils/</guid>
 				<description>Quelques outils, pour les 4 étapes du Faire ensemble, de la préparation au débriefing</description>
 			</item>
 			<item>
 				<title>Faire ensemble et Carto des vigilances : deux approches complémentaires</title>
-				<link>http://localhost:1313/aller-plus-loin/faire-ensemble-vs-csv/</link>
+				<link>https://www.faire-ensemble.org/aller-plus-loin/faire-ensemble-vs-csv/</link>
 				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/aller-plus-loin/faire-ensemble-vs-csv/</guid>
+				<guid>https://www.faire-ensemble.org/aller-plus-loin/faire-ensemble-vs-csv/</guid>
 				<description></description>
 			</item>
 	</channel>
