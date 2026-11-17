@@ -37,7 +37,7 @@ A la maison, pour plus de confort, on peut travailler sur l’ordi. Pour ma part
 
 - {{< primary >}}Pour qualifier l’itinéraire, on imagine les modes de progression selon Cristal{{< /primary >}} : détendu, méfiant, alerté. Si on n’est pas dans le ratio 80/20 (80% détendu…), il y a sans doute une erreur dans le choix de la course. Il faut tout faire pour évoluer dans sa zone de confort.
 
-- Au delà du danger, {{< primary >}}DCMR amène une vision structurée des risques{{< /primary >}} (pas seulement le risque avalanche) et fait réfléchir aux conséquences (volume d’une potentielle avalanche, configurations de terrain…), et aux mesures/précautions à prendre (on s’espace pour ne pas être plusieurs sour une coulée éventuelle, on met les couteaux pour éviter la glissade, le casque pour ne pas s’éclater la tête….). Réduire les conséquences est au moins aussi important que réfléchir aux dangers et à l’engagement.
+- Au delà du danger, [DCMR](https://www.ortovox.com/fr/safety-academy-lab-snow/02-planification-et-preparation-de-la-course/la-methode-dcmr-dans-la-preparation) amène une vision structurée des risques (pas seulement le risque avalanche) et fait réfléchir aux conséquences (volume d’une potentielle avalanche, configurations de terrain…), et aux mesures/précautions à prendre (on s’espace pour ne pas être plusieurs sour une coulée éventuelle, on met les couteaux pour éviter la glissade, le casque pour ne pas s’éclater la tête….). Réduire les conséquences est au moins aussi important que réfléchir aux dangers et à l’engagement.
 
 - 3x3 : c’est toujours valable, mais la “grille” de lecture collective du Faire ensemble (qui rajoute le temps de l’après course - débriefing) le remplace avantageusement.
 

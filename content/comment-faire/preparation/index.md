@@ -9,6 +9,9 @@ summary: "La veille : construire un projet commun et se préparer à l'adapter."
 coverCaption: Alors demain, Rocca del Abissa ? Le jour J, renoncement 200m sous le sommet
 weight: 10
 ---
+{{% cadre %}} ⏱️ Durée : 30 minutes environ pour les participants. + 30 à 45 minutes pour le leader/encadrant
+{{% /cadre %}}
+
 {{<lead>}}Préparer une sortie, c'est construire un projet commun et se préparer à l'adapter.{{</lead>}}
 
 La préparation est un temps privilégié pour réfléchir ensemble[^1], sans la pression du terrain. On peut prendre le temps de comprendre les conditions, de discuter l'itinéraire, de partager ses questions et d'envisager plusieurs possibilités.

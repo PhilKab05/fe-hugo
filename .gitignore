@@ -1,0 +1,8 @@
+# Dossier de sortie généré à chaque build
+public/
+
+# Cache des images et CSS générés par Hugo Pipes
+resources/
+
+# Fichier de verrouillage généré par le serveur local
+.hugo_build.lock

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Comment faire ? on Faire ensemble</title>
-		<link>https://www.faire-ensemble.org/comment-faire/</link>
+		<link>http://localhost:1313/comment-faire/</link>
 		<description>Recent content in Comment faire ? on Faire ensemble</description>
 		<generator>Hugo</generator>
 		<language>fr-FR</language>
@@ -14,33 +14,33 @@
 		
 			<lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://www.faire-ensemble.org/comment-faire/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/comment-faire/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Préparer ensemble</title>
-				<link>https://www.faire-ensemble.org/comment-faire/preparation/</link>
+				<link>http://localhost:1313/comment-faire/preparation/</link>
 				<pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-				<guid>https://www.faire-ensemble.org/comment-faire/preparation/</guid>
+				<guid>http://localhost:1313/comment-faire/preparation/</guid>
 				<description>La veille : construire un projet commun et se préparer à l&amp;rsquo;adapter.</description>
 			</item>
 			<item>
 				<title>S&#39;accorder avant de partir</title>
-				<link>https://www.faire-ensemble.org/comment-faire/alignement-briefing/</link>
+				<link>http://localhost:1313/comment-faire/alignement-briefing/</link>
 				<pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-				<guid>https://www.faire-ensemble.org/comment-faire/alignement-briefing/</guid>
+				<guid>http://localhost:1313/comment-faire/alignement-briefing/</guid>
 				<description>Prenons quelques minutes pour nous accorder sur le projet et sur l&amp;rsquo;état du groupe.</description>
 			</item>
 			<item>
 				<title>Copiloter</title>
-				<link>https://www.faire-ensemble.org/comment-faire/pendant-la-course/</link>
+				<link>http://localhost:1313/comment-faire/pendant-la-course/</link>
 				<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-				<guid>https://www.faire-ensemble.org/comment-faire/pendant-la-course/</guid>
+				<guid>http://localhost:1313/comment-faire/pendant-la-course/</guid>
 				<description>Pendant la sortie, chacun contribue à la vigilance du groupe.</description>
 			</item>
 			<item>
 				<title>Débriefer et apprendre</title>
-				<link>https://www.faire-ensemble.org/comment-faire/debriefing/</link>
+				<link>http://localhost:1313/comment-faire/debriefing/</link>
 				<pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-				<guid>https://www.faire-ensemble.org/comment-faire/debriefing/</guid>
+				<guid>http://localhost:1313/comment-faire/debriefing/</guid>
 				<description>Au retour, prendre le temps d&amp;rsquo;en parler permet de mieux comprendre ce qu&amp;rsquo;on a vécu et de préparer les sorties suivantes.</description>
 			</item>
 	</channel>

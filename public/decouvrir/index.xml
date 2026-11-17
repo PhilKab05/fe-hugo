@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Découvrir Faire ensemble on Faire ensemble</title>
-		<link>https://www.faire-ensemble.org/decouvrir/</link>
+		<link>http://localhost:1313/decouvrir/</link>
 		<description>Recent content in Découvrir Faire ensemble on Faire ensemble</description>
 		<generator>Hugo</generator>
 		<language>fr-FR</language>
@@ -14,47 +14,47 @@
 		
 			<lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://www.faire-ensemble.org/decouvrir/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/decouvrir/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Cime de la Charvie, traversée Prafauchier - Lasseron</title>
-				<link>https://www.faire-ensemble.org/decouvrir/2025-charvie/</link>
+				<link>http://localhost:1313/decouvrir/2025-charvie/</link>
 				<pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-				<guid>https://www.faire-ensemble.org/decouvrir/2025-charvie/</guid>
+				<guid>http://localhost:1313/decouvrir/2025-charvie/</guid>
 				<description>Une boucle un peu longue : il faut tenir le rythme</description>
 			</item>
 			<item>
 				<title>Tricotage autour du Piolit</title>
-				<link>https://www.faire-ensemble.org/decouvrir/2021-piolit/</link>
+				<link>http://localhost:1313/decouvrir/2021-piolit/</link>
 				<pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-				<guid>https://www.faire-ensemble.org/decouvrir/2021-piolit/</guid>
+				<guid>http://localhost:1313/decouvrir/2021-piolit/</guid>
 				<description>Première sortie CAF Embrun avec la Carto des vigilances :grinning_face_with_big_eyes:</description>
 			</item>
 			<item>
 				<title>Crête de la Plate d&#39;Arvieux et Mourre Froid du Queyras</title>
-				<link>https://www.faire-ensemble.org/decouvrir/2026-validation-initie-caf/</link>
+				<link>http://localhost:1313/decouvrir/2026-validation-initie-caf/</link>
 				<pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.faire-ensemble.org/decouvrir/2026-validation-initie-caf/</guid>
+				<guid>http://localhost:1313/decouvrir/2026-validation-initie-caf/</guid>
 				<description>Faire ensemble, le cadre idéal pour un week-end de formation</description>
 			</item>
 			<item>
 				<title>Tour du pic du Cros</title>
-				<link>https://www.faire-ensemble.org/decouvrir/2025-tour-pic-du-cros/</link>
+				<link>http://localhost:1313/decouvrir/2025-tour-pic-du-cros/</link>
 				<pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-				<guid>https://www.faire-ensemble.org/decouvrir/2025-tour-pic-du-cros/</guid>
+				<guid>http://localhost:1313/decouvrir/2025-tour-pic-du-cros/</guid>
 				<description>C&amp;rsquo;est instructif de comparer le prévu et le vécu</description>
 			</item>
 			<item>
 				<title>Tête de la Moulinière et arêtes de la Bruyère</title>
-				<link>https://www.faire-ensemble.org/decouvrir/2026-alpi/</link>
+				<link>http://localhost:1313/decouvrir/2026-alpi/</link>
 				<pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.faire-ensemble.org/decouvrir/2026-alpi/</guid>
+				<guid>http://localhost:1313/decouvrir/2026-alpi/</guid>
 				<description>Faire ensemble, ça marche aussi pour les courses d&amp;rsquo;alpinisme :thumbs_up:</description>
 			</item>
 			<item>
 				<title>Tour de la montagne Pellat</title>
-				<link>https://www.faire-ensemble.org/decouvrir/2026-tour-montagne-pellat/</link>
+				<link>http://localhost:1313/decouvrir/2026-tour-montagne-pellat/</link>
 				<pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://www.faire-ensemble.org/decouvrir/2026-tour-montagne-pellat/</guid>
+				<guid>http://localhost:1313/decouvrir/2026-tour-montagne-pellat/</guid>
 				<description>Tout le monde peut passer devant et s&amp;rsquo;essayer à la trace</description>
 			</item>
 	</channel>

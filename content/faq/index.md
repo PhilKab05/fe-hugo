@@ -27,7 +27,9 @@ C’est une démarche visant à améliorer la vigilance collective et les pratiq
 ### Combien de temps cela prend-il concrètement ?
 L’idée est d'ajouter quelques "temps" à la sortie : une préparation partagée, un bref échange avant le départ, des points d’attention pendant l’itinéraire et un débriefing. Le temps nécessaire dépend du groupe, de la curiosité et de l'intérêt de chacun, et de la sortie. 
 
-Pour les participants, on peut estimer : 30 minutes avant, 10 minutes au départ et 15 minutes au retour, en plus du temps habituellement passé. 
+Pour les participants, on peut estimer : 30 minutes avant, 15 minutes au départ et 20 minutes au retour, en plus du temps habituellement passé. Pour le leader/encadrant, il faut ajouter à ces durées 15 minutes environ pour la logistique de "préparation partagée", dans le cas du'une préparation à distance.
+
+Faire ensemble facilite les apprentissages : dans les sorties, on inclut souvent des séquences pédagogiques (échanges sur les conditions, lecture du terrain, choix de la trace, mise en oeuvre d'un nouvel outil...) selon le groupe et la curiosité des participants. La durée de ces séquences  est très variable et n'est bien sûr pas incluse dans les temps indiqués plus haut.
 ### Dans un club, ça change quoi pour l'encadrant ? 
 Pour l’encadrant du groupe, ça change aussi un peu les choses. Il faut être prêt à partager les décisions et l’ensemble des étapes. Ca demande de l’énergie, du temps, de la pédagogie et aussi la volonté d’accompagner et de lâcher la posture du *leader qui décide tout et qui va devant* au profit d’une posture d’accompagnant. Ca demande aussi d’accepter d’être challengé, y compris par des pratiquants débutants. 
 

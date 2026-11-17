@@ -9,6 +9,8 @@ summary: Pendant la sortie, chacun contribue à la vigilance du groupe.
 coverCaption: Là, on va rejoindre la piste forestière - On profite de la pause pour refaire un point
 weight: 30
 ---
+{{% cadre %}} ⏱️ Durée : +15 minutes pour les micro-briefings. Plus long si objectifs pédagogiques.
+{{% /cadre %}}
 {{<lead>}}Pendant la sortie, chacun contribue à la vigilance du groupe.{{</lead>}}
 
 La préparation nous a donné des repères, mais la réalité ne se déroule jamais exactement comme prévu. Les conditions changent, la fatigue s'installe, un passage se révèle différent de ce que nous avions imaginé. Nous pouvons aussi passer à côté d'un signal important, simplement parce que notre attention est ailleurs.

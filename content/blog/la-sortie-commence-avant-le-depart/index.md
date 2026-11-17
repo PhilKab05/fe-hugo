@@ -7,6 +7,7 @@ tags:
 showDateUpdated: true
 weight:
 summary: Comment je prépare une sortie avec le groupe, avant même de se retrouver.
+lastmod: 2026-11-17
 ---
 {{<lead>}}
 Comment je prépare une sortie avec le groupe, avant même de se retrouver.
@@ -39,6 +40,8 @@ J’indique aussi les questions que je me pose et les points sur lesquels j’ai
 
 Je ne cherche pas à fournir un "dossier" parfait. Je propose une base de travail que chacun peut consulter et compléter.
 
+
+
 ## 3. Laisser le temps aux contributions
 
 Chacun peut consulter les informations et contribuer à son rythme, avant la sortie.
@@ -52,6 +55,15 @@ Les interventions se font de manière asynchrone : pas tous au même moment. J'e
 L’intérêt est de pouvoir commencer à réfléchir ensemble sans devoir être tous disponibles au même moment.
 
 Ca me permet aussi d'évaluer comment le groupe s'approprie le projet, et si on est bien sur la même longueur d'onde.
+
+{{%cadre%}}
+Préparer à distance. On a fait comme ça par obligation pendant les périodes post-Covid compliquées. On a retenu que ça marche très bien.
+- C'est sûr, certaines personnes sont attachées au contact physique. La rencontre du groupe est repoussée au briefing du départ de course le lendemain.
+- Faire ça dans un document écrit oblige à utiliser les mots, à nuancer, à préciser ses idées. Chacun s'habitue à utiliser le vocabulaire adapté. La mémoire de ce document est beaucoup plus précise qu'un simple croquis.
+- Même si certains ont moins de temps que d'autre, voire le projet se construire oblige. Du coup, tout le monde cherche à apporter une contribution, selon ses compétences. Le document est réellement collectif. Il n'est pas écrit/rédigé par un "porte-plume" écoutant les idées de tous.
+- Le document numérique n'effraye personne.
+- La préparation à distance a une vertu supplémentaire : elle évite le déplacement physique de tous la veille de la course. Et elle limite le temps passé par chacun : 30 minutes environ. 
+{{%/cadre%}}
 
 ## 4. Reprendre ensemble avant de partir
 
