@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/comment-faire/debriefing/index.md",
+                "file": "content/comment-faire/alignement-briefing/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,6 +190,7 @@
   },
   "active": "b565603a5bb010a0",
   "lastOpenFiles": [
+    "content/comment-faire/debriefing/index.md",
     "content/comment-faire/pendant-la-course/index.md",
     "content/comment-faire/alignement-briefing/index.md",
     "content/comment-faire/preparation/index.md",
@@ -202,7 +203,6 @@
     "content/aller-plus-loin/quelques-outils/index.md",
     "content/blog/la-sortie-commence-avant-le-depart/index.md",
     "content/faq/index.md",
-    "content/comment-faire/debriefing/index.md",
     "content/pourquoi/index.md",
     "content/memento/index.md",
     "content/_index.md",

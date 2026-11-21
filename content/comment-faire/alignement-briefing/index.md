@@ -14,7 +14,6 @@ lastmod: 2026-10-21
 
 La préparation a permis de construire un projet. Le briefing permet de vérifier que chacun en partage les grandes lignes, de faire le point sur la forme du moment et de rappeler comment nous fonctionnerons ensemble.
 
-Ce temps d'échange dure généralement 10 à 15 minutes. Il peut être difficile à organiser dans le froid du parking. Une bonne préparation le rend plus simple.
 
 ## La météo personnelle : comment je me sens aujourd'hui ?
 
@@ -62,6 +61,6 @@ Voir [les outils pour s'accorder]({{< ref "aller-plus-loin/quelques-outils/#pour
 Le briefing n'est ni une formalité ni un long exposé du responsable. C'est un moment où chacun prend sa place dans le projet collectif.
 {{</lead>}}
 
-{{% cadre %}} ⏱️ Durée du briefing de départ : 15 minutes environ
+{{% cadre %}} ⏱️ Durée du briefing de départ : 15 minutes environ. Il peut être inconfortable dans le froid du parking. Une bonne préparation le rend plus simple.
 {{% /cadre %}}
 
