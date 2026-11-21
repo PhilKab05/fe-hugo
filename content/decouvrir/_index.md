@@ -63,17 +63,25 @@ Faire ensemble, c’est s’engager à ne pas être seulement présent dans la s
 
 Il ne s’agit bien sûr pas de "garantir" que les décisions seront meilleures. Il s’agit de créer les conditions pour que les observations circulent, que les décisions puissent être interrogées et que l’expérience serve à apprendre.
 
-{{< alert "circle-info">}}
-Une pratique accessible, une réflexion approfondie.
 
-Faire ensemble repose sur quelques pratiques concrètes, accessibles sans connaissance préalable d'une méthode particulière.
+Une pratique accessible : Faire ensemble repose sur quelques pratiques concrètes, accessibles sans connaissance préalable d'une méthode particulière.
 
 Ces pratiques s'appuient sur une réflexion plus large autour de l'attention, du jugement, des échanges dans le groupe et de l'apprentissage par l'expérience. Chacun peut les mettre en œuvre sans avoir à connaître ces notions, puis approfondir celles qui l'intéressent.
 
-**L'essentiel n'est pas de maîtriser une théorie ou plein d'outils, mais de participer aux sorties et de prendre part à la vigilance collective !**
-{{< /alert >}}
 
-Au CAF Embrun et pour certaines sorties, on fait comme depuis plus de 5 ans[^2] !
-[^2]: Concernant la préparation avant le départ, voir l'article du blog [La sortie commence avant le départ]({{< ref "blog/la-sortie-commence-avant-le-depart" >}})
+{{%cadre%}}
+### 📌 Commencer par expérimenter
+
+Pour le leader/encadrant et pour les participants, les pratiques du Faire ensemble peuvent être expérimentées de manière très progressive : 
+
+- enrichir le briefing et en reparler en fin de sortie la première fois
+- ouvrir la préparation aux participants lors de la sortie suivante
+- travailler ensuite sur les échanges et le droit au doute
+- etc
+{{%/cadre%}}
+
+
+Au CAF Embrun et pour certaines sorties, on fait comme depuis plus de 5 ans[^3] !
+[^3]: Concernant la préparation avant le départ, voir l'article du blog [La sortie commence avant le départ]({{< ref "blog/la-sortie-commence-avant-le-depart" >}})
 
 Je vous laisse regarder quelques sorties pour vous faire une idée…

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>advanced on Faire ensemble</title>
-		<link>https://www.faire-ensemble.org/tags/advanced/</link>
+		<link>http://localhost:1313/tags/advanced/</link>
 		<description>Recent content in advanced on Faire ensemble</description>
 		<generator>Hugo</generator>
 		<language>fr-FR</language>
@@ -12,6 +12,6 @@
 			<copyright>&amp;copy; 2023-2026 Faire ensemble</copyright>
 		
 		
-			<atom:link href="https://www.faire-ensemble.org/tags/advanced/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/advanced/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

@@ -1,14 +1,13 @@
 ---
-title: "Tricotage autour du Piolit"
+title: Tricotage autour du Piolit
 date: 2021-02-19
-description: "Sortie ski de rando CAF Embrun en mode Faire ensemble"
-summary: "Première sortie CAF Embrun avec la Carto des vigilances :grinning_face_with_big_eyes:"
-coverAlt: "xxxxx"
-coverCaption: "Le choix de la destination est collectif. Sacré challenge !"
+description: Sortie ski de rando CAF Embrun en mode Faire ensemble
+summary: "Première sortie CAF Embrun en mode Faire ensemble :grinning_face_with_big_eyes:"
+coverAlt: xxxxx
+coverCaption: Le choix de la destination est collectif. Sacré challenge !
 weight: 20
-# tags: ["shortcodes", "privacy", "sample", "gist", "twitter", "youtube", "vimeo"]
 ---
-Première sortie avec la Carto des vigilances :grinning_face_with_big_eyes:
+Première sortie en mode Faire ensemble :grinning_face_with_big_eyes:
 
 On sort péniblement de la crise COVID... <br>Lors d'un webinaire CAF Embrun sur les comportements et les approches neige-avalanche, 
 nous y parlons de plein de trucs, de facteurs humains, de l'intérêt du "faire ensemble" et de l'approche Carto des vigilances.

@@ -9,8 +9,7 @@ coverCaption: "Départ pour le dos de Chameau. Météo perso : tout le monde est
 weight: 20
 lastmod: 2026-10-21
 ---
-{{% cadre %}} ⏱️ Durée : 15 minutes environ
-{{% /cadre %}}
+
 {{<lead>}}Avant de partir, prenons quelques minutes pour nous accorder sur le projet et sur l'état du groupe.{{</lead>}}
 
 La préparation a permis de construire un projet. Le briefing permet de vérifier que chacun en partage les grandes lignes, de faire le point sur la forme du moment et de rappeler comment nous fonctionnerons ensemble.
@@ -62,4 +61,7 @@ Voir [les outils pour s'accorder]({{< ref "aller-plus-loin/quelques-outils/#pour
 {{<lead>}}
 Le briefing n'est ni une formalité ni un long exposé du responsable. C'est un moment où chacun prend sa place dans le projet collectif.
 {{</lead>}}
+
+{{% cadre %}} ⏱️ Durée du briefing de départ : 15 minutes environ
+{{% /cadre %}}
 

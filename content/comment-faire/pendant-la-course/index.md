@@ -9,8 +9,7 @@ summary: Pendant la sortie, chacun contribue à la vigilance du groupe.
 coverCaption: Là, on va rejoindre la piste forestière - On profite de la pause pour refaire un point
 weight: 30
 ---
-{{% cadre %}} ⏱️ Durée : +15 minutes pour les micro-briefings. Plus long si objectifs pédagogiques.
-{{% /cadre %}}
+
 {{<lead>}}Pendant la sortie, chacun contribue à la vigilance du groupe.{{</lead>}}
 
 La préparation nous a donné des repères, mais la réalité ne se déroule jamais exactement comme prévu. Les conditions changent, la fatigue s'installe, un passage se révèle différent de ce que nous avions imaginé. Nous pouvons aussi passer à côté d'un signal important, simplement parce que notre attention est ailleurs.
@@ -80,3 +79,6 @@ Voir [les outils à utiliser pendant la sortie]({{< ref "aller-plus-loin/quelque
 {{<lead>}}
 Le co-pilotage ne signifie pas que tout le monde décide de tout en permanence. Il signifie que chacun peut contribuer à la vigilance et signaler qu'il est temps de réfléchir à la suite.
 {{</lead>}}
+
+{{% cadre %}} ⏱️ Durée des micro-briefing et échanges : compter + 15 minutes environ. Plus long si objectifs pédagogiques.
+{{% /cadre %}}

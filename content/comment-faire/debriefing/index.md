@@ -9,8 +9,6 @@ coverCaption: Au retour de Côte Belle. "Merci de m'avoir attendue...", "Ah, c'e
 weight: 40
 lastmod: 2026-10-20
 ---
-{{% cadre %}} ⏱️ Durée : 20 minutes environ. Plus de temps en cas de difficulté pendant la sortie.
-{{% /cadre %}}
 {{<lead>}}Une sortie ne s'arrête pas au retour : prendre le temps d'en parler permet de mieux comprendre ce qu'on a vécu et de préparer les suivantes.{{</lead>}}
 
 Le débriefing fait partie de la démarche Faire ensemble. On peut le faire au parking, chez l'un des participants ou autour d'un verre. Le lieu et la durée importent moins que la possibilité de partager les expériences et d'en tirer quelques enseignements.
@@ -71,4 +69,7 @@ Ce journal de sortie permet de conserver une trace de l'expérience et de retrou
 {{% lead %}}
 Le débriefing ne change pas la sortie passée. Il peut changer notre manière de préparer et de vivre les suivantes.
 {{% /lead %}}
+
+{{% cadre %}} ⏱️ Durée du débriefing : 20 minutes environ. Plus de temps en cas de difficulté pendant la sortie.
+{{% /cadre %}}
 

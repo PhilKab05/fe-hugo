@@ -12,8 +12,8 @@ Selon votre curiosité, vous pouvez découvrir et mettre en oeuvre la démarche,
 
 {{%cadre%}}
 3 niveaux de lecture :
-1. **Pratiquer** - *Comment faire concrètement ?* : Les quatre étapes, les rituels et les repères pour préparer une sortie, partager la vigilance sur le terrain et apprendre de l'expérience. [Découvrir]({{< ref "decouvrir" >}}) | [Comment faire ?]({{< ref "comment-faire" >}})  | [Mémento]({{< ref "memento" >}})
-2. **Comprendre** - *Pourquoi ces pratiques ?* : Les réflexions qui éclairent la démarche : les limites des outils, l'attention, les échanges dans le groupe et la manière dont nous construisons nos décisions. [Pourquoi ?]({{< ref "pourquoi" >}}) 
+1. **Pratiquer** - *Comment faire concrètement ?* : Les quatre étapes, les rituels et les repères pour préparer une sortie, partager la vigilance sur le terrain et apprendre de l'expérience. [Découvrir]({{< ref "decouvrir" >}}) | [Comment faire]({{< ref "comment-faire" >}})  | [Mémento]({{< ref "memento" >}})
+2. **Comprendre** - *Pourquoi ces pratiques ?* : Les réflexions qui éclairent la démarche : les limites des outils, l'attention, les échanges dans le groupe et la manière dont nous construisons nos décisions. [Pourquoi]({{< ref "pourquoi" >}}) 
 3. **Approfondir** - *Explorer les idées et les ressources* : Des outils techniques, des notions issues des sciences humaines, des approches complémentaires, des références et des lectures pour aller plus loin dans la réflexion. [Blog]({{< ref "blog" >}}) et "aller plus loin" ici même.
 {{%/cadre%}}
 

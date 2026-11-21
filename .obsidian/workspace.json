@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/a-propos/index.md",
+                "file": "content/comment-faire/debriefing/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,20 +190,23 @@
   },
   "active": "b565603a5bb010a0",
   "lastOpenFiles": [
-    "content/aller-plus-loin/quelques-outils/index.md",
-    "content/blog/la-sortie-commence-avant-le-depart/index.md",
-    "content/faq/index.md",
     "content/comment-faire/pendant-la-course/index.md",
-    "content/comment-faire/debriefing/index.md",
     "content/comment-faire/alignement-briefing/index.md",
     "content/comment-faire/preparation/index.md",
     "content/comment-faire/_index.md",
+    "content/aller-plus-loin/_index.md",
+    "content/aller-plus-loin/apprendre-a-decider-en-montagne/index.md",
+    "content/decouvrir/2021-piolit/index.md",
+    "content/decouvrir/_index.md",
+    "content/a-propos/index.md",
+    "content/aller-plus-loin/quelques-outils/index.md",
+    "content/blog/la-sortie-commence-avant-le-depart/index.md",
+    "content/faq/index.md",
+    "content/comment-faire/debriefing/index.md",
     "content/pourquoi/index.md",
     "content/memento/index.md",
-    "content/decouvrir/_index.md",
     "content/_index.md",
     "content/aller-plus-loin/faire-groupe/index.md",
-    "content/aller-plus-loin/_index.md",
     "public/aller-plus-loin/quelques-outils/cover-bera_hu_e1c81b79e9e0d660.png",
     "resources/_gen/images/aller-plus-loin/quelques-outils/cover-bera_hu_e1c81b79e9e0d660.png",
     "public/aller-plus-loin/quelques-outils/cover-bera_hu_7c576f07dfcc268a.png",
@@ -215,7 +218,6 @@
     "public/aller-plus-loin/quelques-outils/cover-bera_hu_1eba9c9c59d7780.webp",
     "resources/_gen/images/aller-plus-loin/quelques-outils/cover-bera_hu_1eba9c9c59d7780.webp",
     "content/aller-plus-loin/quelques-outils/cover-bera.png.part",
-    "content/aller-plus-loin/apprendre-a-decider-en-montagne/index.md",
     "content/temoignages/index.md",
     "content/aller-plus-loin/quelques-outils/cover-gestion-du-risque.png.part",
     "public/css/main.bundle.min.5c6e00a5cf897c7e71e47ca18818ba3d5e3ed321f0063a2484ef5a1c4638d1b6.css",
@@ -233,8 +235,6 @@
     "public/aller-plus-loin/apprendre-a-decider-en-montagne/index.html",
     "content/aller-plus-loin/decider-en-montagne/index.md",
     "{{<.md",
-    "content/contact/index.md",
-    "content/mentions-legales/index.md",
-    "content/a-propos/index.md"
+    "content/contact/index.md"
   ]
 }
